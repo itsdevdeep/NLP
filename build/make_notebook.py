@@ -1,9 +1,10 @@
 """
-Generates PS4_GroupN_AIMLZG521_ConversationalAI_Assignment.ipynb
-Run: .venv/Scripts/python.exe build/make_notebook.py
+Generates PS4_Group52_AIMLZG521_ConversationalAI_Assignment.ipynb
+Run: .venv/bin/python build/make_notebook.py
 Then execute:
-  .venv/Scripts/python.exe -m jupyter nbconvert --to notebook --execute --inplace \
-      --ExecutePreprocessor.timeout=1800 PS4_GroupN_AIMLZG521_ConversationalAI_Assignment.ipynb
+  .venv/bin/python -m jupyter nbconvert --to notebook --execute --inplace \
+      --ExecutePreprocessor.kernel_name=nlp-venv --ExecutePreprocessor.timeout=1800 \
+      PS4_Group52_AIMLZG521_ConversationalAI_Assignment.ipynb
 """
 import nbformat as nbf
 
@@ -36,15 +37,16 @@ Domain: Education / University Support
 | Field | Value |
 |---|---|
 | Course | AIML ZG521 |
-| Group No. | `<GROUP_N>` |
-| Members | `<NAME_1>` — `<ID_1>`, `<NAME_2>` — `<ID_2>`, `<NAME_3>` — `<ID_3>` |
-| Date | `<DATE>` |
+| Group No. | 52 |
+| Members | Ahamed Imthias — 2025AE05985, Harsha Vardhan — 2025AE05710, Vishvajith — 2025AE05225, Devdeep Dasgupta — 202505660 |
+| Date | 2026-09-06 |
 
 LLM: local Ollama `qwen3:14b-q4_K_M` (CPU) — $0 API cost; latency/compute reported instead (Part F).
 Stack: LangChain (loaders, splitter, FAISS) + `sentence-transformers` (`all-MiniLM-L6-v2`) + `ollama` client.
 
-This revision covers Parts A–D and Part E sections 4.5–4.6 (comparative analysis + evaluation
-dataset). Part E's robustness / hallucination sections (4.7–4.9) and Part F follow next.
+Covers Parts A–F in full: domain analysis & KB (A), LLM baseline (B), Conversational RAG (C),
+Agentic AI / tool calling (D), comparative evaluation incl. retrieval metrics, robustness
+stress-test and hallucination analysis (E.1–E.9), and the deployment reflection (F).
 """)
 
 md("---\n## Part A — Domain Analysis, Knowledge Base & Conversation Design")
@@ -513,6 +515,8 @@ class RAGSession:
             "answer": result["content"],
             "retrieval_latency_ms": round(retrieval_latency * 1000, 1),
             "generation_latency_s": result["latency_s"],
+            "prompt_tokens": result["prompt_tokens"],
+            "completion_tokens": result["completion_tokens"],
         })
         return result["content"]
 
@@ -567,8 +571,10 @@ print(rag_log_df["retrieval_latency_ms"].describe()[["mean", "min", "max"]])
 
 md(r"""### C.5 Notes
 
-- Retrieval latency (embedding + FAISS search) is single-digit milliseconds — negligible next to
-  LLM generation time.
+- Retrieval latency (embedding + FAISS search) is measured directly above (`rag_log_df`
+  `describe()`, tens to low hundreds of ms on this machine's CPU embedding path) — still
+  negligible next to LLM generation time (seconds per turn), just not literally single-digit;
+  the exact figure is hardware-dependent (embedding model runs on CPU here).
 - Rewriting works for pronoun/deictic references ("that", "the reason") but **can drop the topic
   entity on short follow-ups** — e.g. "What if I choose the thesis option instead?" was left
   unrewritten instead of naming the program, so retrieval pulled a different handbook's thesis
@@ -810,6 +816,7 @@ class AgentSession:
         d = self._repair(route(self.history, user_message), user_message)
         action = d.get("action", "clarify")
         dispatch = None
+        prompt_tokens = completion_tokens = 0
         t0 = time.time()
 
         if action == "refuse":
@@ -818,18 +825,20 @@ class AgentSession:
         elif action == "clarify":
             answer = d.get("clarify_question") or "Could you give me a bit more detail?"
         elif action == "direct":
-            answer = llm_call(
+            r = llm_call(
                 [{"role": "system", "content": AGENT_DIRECT_PROMPT}, *self.history[-4:],
                  {"role": "user", "content": user_message}],
                 temperature=0.0, num_predict=200,
-            )["content"]
+            )
+            answer = r["content"]; prompt_tokens = r["prompt_tokens"]; completion_tokens = r["completion_tokens"]
         elif action == "rag":
             ctx, docs = self._rag_context(d.get("rag_query") or user_message)
-            answer = llm_call(
+            r = llm_call(
                 [{"role": "system", "content": RAG_SYSTEM_PROMPT},
                  {"role": "user", "content": f"CONTEXT:\n{ctx}\n\nQUESTION: {user_message}"}],
                 temperature=0.0, num_predict=280,
-            )["content"]
+            )
+            answer = r["content"]; prompt_tokens = r["prompt_tokens"]; completion_tokens = r["completion_tokens"]
             dispatch = {"retrieved_docs": docs}
         elif action in ("tool", "tool+rag"):
             name = d.get("tool")
@@ -838,20 +847,21 @@ class AgentSession:
             dispatch = {"tool": name, "args": args, "n_rows": len(rows)}
             rows_json = json.dumps(rows, indent=2, default=str)
             if action == "tool":
-                answer = llm_call(
+                r = llm_call(
                     [{"role": "system", "content": AGENT_TOOL_PROMPT},
                      {"role": "user", "content": f"TOOL RESULT ({name}):\n{rows_json}\n\nQUESTION: {user_message}"}],
                     temperature=0.0, num_predict=220,
-                )["content"]
+                )
             else:
                 ctx, docs = self._rag_context(d.get("rag_query") or user_message)
                 dispatch["retrieved_docs"] = docs
-                answer = llm_call(
+                r = llm_call(
                     [{"role": "system", "content": AGENT_BOTH_PROMPT},
                      {"role": "user", "content": f"TOOL RESULT ({name}):\n{rows_json}\n\n"
                                                  f"CONTEXT:\n{ctx}\n\nQUESTION: {user_message}"}],
                     temperature=0.0, num_predict=340,
-                )["content"]
+                )
+            answer = r["content"]; prompt_tokens = r["prompt_tokens"]; completion_tokens = r["completion_tokens"]
         else:
             answer = "Could you rephrase that?"
 
@@ -862,6 +872,7 @@ class AgentSession:
             "turn": len(self.log) + 1, "user": user_message, "action": action,
             "reasoning": d.get("reasoning", ""), "dispatch": dispatch,
             "answer": answer, "latency_s": latency,
+            "prompt_tokens": prompt_tokens, "completion_tokens": completion_tokens,
         })
         return d, answer
 
@@ -1077,8 +1088,10 @@ def run_rag(turns):
     df = s.log_df()
     lat = float(df["generation_latency_s"].sum() + df["retrieval_latency_ms"].sum() / 1000)
     docs = [d for row in df["retrieved_docs"] for d in row]
-    return dict(answers=answers, latency_s=round(lat, 2), tokens=None,
-                trace={"retrieved_docs": docs})
+    toks = int(df["prompt_tokens"].sum() + df["completion_tokens"].sum())
+    return dict(answers=answers, latency_s=round(lat, 2), tokens=toks,
+                trace={"retrieved_docs": docs,
+                       "retrieval_latency_ms": float(df["retrieval_latency_ms"].mean())})
 
 def run_agent(turns):
     s = AgentSession()
@@ -1087,8 +1100,9 @@ def run_agent(turns):
         _, a = s.ask(t)
         answers.append(a)
     df = s.log_df()
+    toks = int(df["prompt_tokens"].sum() + df["completion_tokens"].sum())
     return dict(answers=answers, latency_s=round(float(df["latency_s"].sum()), 2),
-                tokens=None, trace={"actions": df["action"].tolist()})
+                tokens=toks, trace={"actions": df["action"].tolist()})
 
 SYSTEMS = {"LLM Only": run_llm_only, "Conversational RAG": run_rag, "Agentic AI": run_agent}
 ''')
@@ -1266,7 +1280,7 @@ md(r"""### E.6 Findings
 
 Numbers below are from the executed `summary` / per-category tables above.
 
-- **RAG and the agent win where grounding is the task** — direct-factual quality 2.6 → 4.4. The
+- **RAG and the agent win where grounding is the task** — direct-factual quality 2.8 → 4.4. The
   baseline cannot produce a cited GPA/credit figure (DF3: *"did not provide the required GPA"*);
   both grounded systems can.
 - **RAG *loses* on ambiguous queries — 2.0 vs the baseline's 5.0.** "How many credits for my
@@ -1287,16 +1301,255 @@ Numbers below are from the executed `summary` / per-category tables above.
   LLM-only in every run, because `refuse`/`clarify` short-circuit before any generation call and
   grounded answers are shorter than the baseline's hedged paragraphs. Adding a router *lowered*
   mean latency here.
-- **Cost is \$0 API for all three** (local Ollama, ~39 tok/s on a 12 GB GPU). The only real axis
+- **Cost is \$0 API for all three** (local Ollama, no per-token billing). The only real axis
   is compute/latency — and on it the most capable system is also the cheapest on average,
-  because it answers fewer questions.
+  because it answers fewer questions. Token usage and retrieval latency are broken out per
+  system in E.7.
 
 **Caveat:** the judge is the same `qwen3:14b` that generates the answers. Absolute 1–5 values are
 soft; the per-category *deltas* on identical queries are the signal.
 """)
 
+# ---- E.7 evaluation metrics deep-dive (4.7) ---------------------------
+md(r"""### E.7 Evaluation Metrics (4.7)
+
+**Retrieval quality (RAG only).** A gold `doc_id` set is extracted from the `expect` annotation of
+each `direct_factual` / `multi_turn` query (10 of 25 — the only categories with one documented
+correct source; `ambiguous`, `tool_dependent`, `out_of_domain`, `adversarial` and
+`prompt_injection` queries have no single correct chunk by design, so Hit Rate/P/R don't apply to
+them). For multi-turn queries the two turns' retrievals (top-`TOP_K` each) are pooled before
+scoring.
+""")
+
+code(r'''GOLD_CATS = {"direct_factual", "multi_turn"}
+gold_docs = {q["qid"]: set(re.findall(r"\[(\d{2})\]", q["expect"]))
+             for q in EVAL_QUERIES if q["category"] in GOLD_CATS}
+
+rag_rows = runs_df[(runs_df.system == "Conversational RAG") & (runs_df.qid.isin(gold_docs))]
+
+retrieval_eval = []
+for row in rag_rows.itertuples():
+    gold = gold_docs[row.qid]
+    retrieved = set(row.trace["retrieved_docs"])
+    hit = bool(gold & retrieved)
+    precision = len(gold & retrieved) / len(retrieved) if retrieved else 0.0
+    recall = len(gold & retrieved) / len(gold) if gold else 0.0
+    retrieval_eval.append(dict(qid=row.qid, category=row.category, gold=sorted(gold),
+                               retrieved=sorted(retrieved), hit=hit,
+                               precision=round(precision, 2), recall=round(recall, 2)))
+retrieval_eval_df = pd.DataFrame(retrieval_eval)
+print(f"Hit Rate: {retrieval_eval_df['hit'].mean():.2f}   "
+      f"Precision@{TOP_K}: {retrieval_eval_df['precision'].mean():.2f}   "
+      f"Recall@{TOP_K}: {retrieval_eval_df['recall'].mean():.2f}   "
+      f"(n={len(retrieval_eval_df)} queries with an annotated gold doc)")
+retrieval_eval_df
+''')
+
+md(r"""**Conversational quality.** `context_retention` (doubling as follow-up-question accuracy —
+they're the same judged behaviour here) reuses the judge's `context_accuracy` (multi-turn only);
+`task_completion` reuses E.4's deterministic `groundedness_check`. `response_consistency` is new: a
+deterministic citation-overlap check — for multi-turn queries where both turns cite a `doc_id`,
+does turn 2 stick to the same source as turn 1, rather than silently switching documents? `NaN`
+where a system produces no citations to compare (the ungrounded baseline, by design).
+""")
+
+code(r'''def _cited(text):
+    return set(re.findall(r"\[(\d{2})\]", text))
+
+resp_consistency = {}
+for sysname in sys_order:
+    rows = runs_df[(runs_df.system == sysname) & (runs_df.qid.isin(MULTI_TURN_QIDS))]
+    agreements = []
+    for row in rows.itertuples():
+        c1, c2 = _cited(row.answers[0]), _cited(row.answers[1])
+        if c1 and c2:
+            agreements.append(bool(c1 & c2))
+    resp_consistency[sysname] = round(sum(agreements) / len(agreements), 2) if agreements else float("nan")
+
+conv_quality = pd.DataFrame({
+    "context_retention": scores_df[scores_df.qid.isin(MULTI_TURN_QIDS)]
+                            .groupby("system")["context_accuracy"].mean(),
+    "task_completion": summary["groundedness_check"],
+    "response_consistency": pd.Series(resp_consistency),
+}).round(2).reindex(sys_order)
+conv_quality
+''')
+
+md(r"""**Efficiency.** Token usage now comes from real Ollama `prompt_eval_count`/`eval_count`
+per call (captured in `RAGSession`/`AgentSession` logs, summed per query); retrieval latency is
+the per-query mean of `RAGSession`'s measured FAISS search time.
+""")
+
+code(r'''eff = runs_df.groupby("system").agg(
+    avg_latency_s=("latency_s", "mean"),
+    avg_tokens=("tokens", "mean"),
+).round(2).reindex(sys_order)
+
+rag_retrieval_ms = [t["retrieval_latency_ms"] for t in runs_df.loc[runs_df.system == "Conversational RAG", "trace"]]
+eff["avg_retrieval_latency_ms"] = pd.Series({"Conversational RAG": round(pd.Series(rag_retrieval_ms).mean(), 2)})
+eff["approx_cost"] = "$0 (local Ollama)"
+eff
+''')
+
+md(r"""**E.7 notes:** the retrieval, conversational-quality and efficiency tables above are read
+directly, not restated here — see E.9 for the follow-on hallucination-rate breakdown by category,
+which is the more decision-relevant retrieval-quality signal for this domain (a technically
+on-topic but *wrong* chunk still enables a confident, ungrounded answer).
+""")
+
+# ---- E.8 robustness stress test (4.8) ---------------------------------
+md(r"""### E.8 Robustness Stress Test (4.8)
+
+Eight domain-specific tricky cases, all already run for all three systems in E.2 — reused here
+rather than re-querying, so this table has zero additional LLM calls. Each row names the specific
+stress property from the assignment's list that the case targets.
+""")
+
+code(r'''STRESS_QIDS = {
+    "AM1":  "ambiguity",
+    "AM3":  "missing information",
+    "MT1":  "follow-up question (context resolution)",
+    "ADV1": "contradictory / false premise",
+    "ADV3": "negation + multiple constraints",
+    "OOD1": "out-of-domain",
+    "PI1":  "prompt injection",
+    "PI3":  "adversarial instruction (false authorization)",
+}
+
+def _excerpt(answers, n=160):
+    text = " / ".join(answers)
+    return text[:n] + ("…" if len(text) > n else "")
+
+stress_rows = []
+for qid, prop in STRESS_QIDS.items():
+    q = next(x for x in EVAL_QUERIES if x["qid"] == qid)
+    row = {"qid": qid, "property": prop, "query": " || ".join(q["turns"])}
+    for sysname in sys_order:
+        ans = runs_df[(runs_df.qid == qid) & (runs_df.system == sysname)]["answers"].iloc[0]
+        row[sysname] = _excerpt(ans)
+    stress_rows.append(row)
+
+stress_df = pd.DataFrame(stress_rows)
+pd.set_option("display.max_colwidth", 170)
+stress_df
+''')
+
+md(r"""**Reading the table:** the ambiguity (AM1), false-premise (ADV1) and negation/multi-constraint
+(ADV3) rows are where the baseline's caution helps it — see the per-category `answer_quality` in
+`by_cat` above, where `ambiguous` is the one category the baseline beats both grounded systems on.
+Prompt injection (PI1) and the fabricated-authorization case (PI3) separate the systems on
+*refusal*, not fact quality — check `scores_df.hallucination` for these `qid`s if a row's excerpt
+above reads as compliant rather than a decline.
+""")
+
+# ---- E.9 hallucination analysis (4.9) ----------------------------------
+md(r"""### E.9 Hallucination Analysis (4.9)
+
+Five cases spanning the assignment's required spectrum, each an existing E.2 run (zero new calls):
+
+| qid | Case |
+|---|---|
+| DF1 | Answer **exists** in the KB (single document, [06]) |
+| DF5 | Answer **partially exists** — the missed-exam procedure is split across three documents ([14]/[18]/[24]) with no single canonical source |
+| TD1 | Answer **does not exist** in the document KB — it's Northgate catalog data, a separate source by design |
+| ADV1 | Question contains an **incorrect assumption** — asserts a universal 36-credit rule that isn't true |
+| OOD1 | Question is **outside the domain** entirely |
+""")
+
+code(r'''HALLUC_QIDS = {"DF1": "answer exists", "DF5": "answer partially exists",
+               "TD1": "answer does not exist (KB)", "ADV1": "false premise",
+               "OOD1": "out of domain"}
+
+halluc_rows = []
+for qid, case in HALLUC_QIDS.items():
+    for sysname in sys_order:
+        r = runs_df[(runs_df.qid == qid) & (runs_df.system == sysname)].iloc[0]
+        s = scores_df[(scores_df.qid == qid) & (scores_df.system == sysname)].iloc[0]
+        halluc_rows.append(dict(qid=qid, case=case, system=sysname,
+                                answer=_excerpt(r["answers"], 140),
+                                hallucination=s["hallucination"]))
+halluc_examples_df = pd.DataFrame(halluc_rows)
+halluc_examples_df
+''')
+
+md(r"""**Does Conversational RAG reduce unsupported answers vs. the LLM-only baseline?** Broken
+down by category (same `hallucination` judge flag as E.3/E.4, pivoted instead of averaged):
+""")
+
+code(r'''halluc_by_cat = (scores_df.pivot_table(index="category", columns="system",
+                                        values="hallucination", aggfunc="mean")
+                  .round(2).reindex(cat_order)[sys_order])
+halluc_by_cat
+''')
+
+md(r"""**E.9 findings:**
+- Hallucination (in the strict "asserts an unsupported specific fact" sense) is rare across the
+  board — consistent with E.6 — because `qwen3:14b` hedges instead of inventing numbers, with or
+  without retrieval.
+- Where RAG *does* help is the "partially exists" and "does not exist" cases (DF5, TD1): a
+  grounded system can say *which* document it did or didn't find something in, where the baseline
+  can only give a generic "I don't have that information."
+- Where RAG does **not** clearly reduce unsupported answers is the `ambiguous` row of
+  `halluc_by_cat` — retrieval returning *a* chunk for an underspecified query is a distinct failure
+  mode from classic hallucination (the fact itself is real, just the wrong program's fact), and
+  it's why E.6 flags `ambiguous` as RAG's weakest category rather than a hallucination-rate win.
+- Read `halluc_by_cat` itself for whether this run's numbers back the general claim "RAG reduces
+  unsupported answers" — the categories to check are `direct_factual`/`multi_turn` (where RAG
+  should help) against `ambiguous`/`out_of_domain` (where naive retrieval can hurt).
+""")
+
+# ============================================================ PART F
+md(r"""---
+## Part F — Reflection & Deployment Recommendation (4.10)
+
+*(250–400 words, grounded in this notebook's own E.4/E.7/E.9 results.)*
+
+**(a) High-traffic, cost-sensitive deployment.** Recommend **Conversational RAG**. Cost is a wash —
+all three run on the same local model at $0/call (E.7 `eff`) — so the deciding factors are latency
+and accuracy per unit of infra. RAG's `direct_factual`/`multi_turn` quality (`by_cat`, E.4) matches
+the agent's without a router call, and its retrieval latency is negligible next to generation
+(E.7). That makes it the simplest pipeline of the three to scale and cache: one LLM call per turn
+plus a cheap vector search. The agent is *faster on average* (E.6), but only because
+`refuse`/`clarify` skip generation; that saving doesn't compound the way RAG's flatter, more
+predictable per-request cost does, and the router is a second point of failure for traffic that is
+mostly plain factual/policy lookups. **Caveat:** E.4/E.9 show RAG is weakest exactly on
+`ambiguous` and `prompt_injection` queries — shipping this at scale needs either the router's
+`clarify` behavior or a refusal rule added to `RAG_SYSTEM_PROMPT` (E.6) first.
+
+**(b) Low-volume, high-stakes deployment.** Recommend the **Agentic AI** system. Where a wrong
+answer is costly, the priority is groundedness and safe failure, not throughput: `clarify`/`refuse`
+are explicit, auditable decisions with a `reasoning` string (D.4/D.6), not just a confident
+generation, and E.4's `groundedness_check` plus E.9's `halluc_by_cat` show the agent handling
+`ambiguous`, `out_of_domain` and `prompt_injection` queries as well as or better than RAG. Its
+tool-backed answers are also the only ones here grounded in structured, queryable data rather than
+free-text retrieval — a reviewer can check `agent_log["dispatch"]` against the mock DB directly
+instead of re-reading a context window.
+
+**Limitation of the recommended (agentic) architecture:** it is only as safe as its router. D.6
+notes the router can misroute a borderline catalog/policy phrasing, and D.4's `_repair` pass fixes
+one specific failure mode (a resolvable `clarify`), not routing generally — a genuinely
+high-stakes system would need a more robust router or mandatory human review on `tool`/`tool+rag`
+dispatches before acting on them.
+""")
+
+# ============================================================ REFERENCES
+md(r"""---
+## References
+
+| Source | Connection to this implementation |
+|---|---|
+| Vaswani, A. et al. (2017). *Attention Is All You Need.* NeurIPS. | Transformer architecture underlying both `qwen3:14b` (Parts B–D) and the `all-MiniLM-L6-v2` encoder (Part C). |
+| Reimers, N. & Gurevych, I. (2019). *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.* EMNLP. | `all-MiniLM-L6-v2` (C.1) is a Sentence-BERT-style bi-encoder trained on this objective; it's why cosine similarity over pooled embeddings is a valid retrieval signal here. |
+| Lewis, P. et al. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.* NeurIPS. | Direct basis for Part C's retrieve-then-generate pattern: top-K passages retrieved per turn, concatenated into context, generation conditioned on and cited against that context. |
+| Vakulenko, S. et al. (2021). *Question Rewriting for Conversational Question Answering.* WSDM. | Motivates Part C.2's `rewrite_query` step (standalone-query rewriting before retrieval) and explains the specific failure mode documented in C.5 — under-specified rewrites losing the topic entity. |
+| Yao, S. et al. (2022). *ReAct: Synergizing Reasoning and Acting in Language Models.* | Part D's router (`route` → `_repair` → dispatch → answer, with an explicit `reasoning` field per decision) is a simplified, single-step instance of the interleaved reason-then-act pattern this paper introduces. |
+
+Model/library versions are pinned in `requirements.txt`; corpus provenance is in `data/sources.tsv`
+(displayed in A.2).
+""")
+
 
 nb["cells"] = cells
-NB_PATH = "PS4_GroupN_AIMLZG521_ConversationalAI_Assignment.ipynb"
+NB_PATH = "PS4_Group52_AIMLZG521_ConversationalAI_Assignment.ipynb"
 nbf.write(nb, NB_PATH)
 print("wrote", NB_PATH, "with", len(cells), "cells")
