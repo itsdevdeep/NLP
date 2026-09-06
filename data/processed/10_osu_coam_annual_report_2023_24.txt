@@ -1,0 +1,609 @@
+[[page 1]]
+COAM Annual Report 2023-2024 Page 1
+
+Committee on Academic M isconduct (COAM)
+Annual Report
+
+Summer Semester 2023 - Spring Semester 2024
+
+Prepared by
+
+Dr. Lisa Cravens-Brown, COAM Faculty Chair, 2023-2024
+Dr. Dustin Miller, COAM Faculty Vice Chair, 2023-2024
+Dr. Jennifer Whetstone, COAM Coordinator
+
+The University's Code of Student Conduct defines academic misconduct as "any activity that
+tends to compromise the academic integrity of the university or subvert the educational
+process" (Faculty Rule 3335-23-04[A]). Th e Committee on Academic Misconduct (COAM) is
+charged with maintaining the University's academic integrity by investigating and adjudicating
+"all reported cases of student academic misconduct, with the exception of cases in a
+professional college having a published honor code." In instances where a student has violated
+the University's Code of Student Conduct, COAM decides upon "suitable disciplinary action"
+(University Rule 3335-5-48.7[B]). The university revised the polices referenced in the Code of
+Student Conduct effective January 1, 2024. The most notable changes regarding academic
+misconduct involve changes to the definitions of prohibited examples of academic misconduct
+(Rule 3335-23-04[A]) and quorum (Rule 3335-23-15[E]). Data for this year's annual report consist
+of cases resolved from May 8, 2023 to May 5, 2024 and the report follows the templates for
+reporting developed by previous COAM chairs and coordinators.
+
+COAM utilizes Zoom for panel hearings since the start of Summer 2020 term. Links to previous
+annual reports can be found on the Senate website http://senate.osu.edu/?page_id=183 or at
+http://oaa.osu.edu/coamreports.html . It should be noted that the 2012-13 reporting year was
+shorter in comparison with previous years because of calendar changes associated with OSU's
+conversion to semesters.
+
+COAM is composed of thirty (30) faculty members, fifteen (15) graduate students (appointed by
+CGS), and fifteen (15) undergraduate students (appointed by USG). The work of COAM is
+facilitated by the Coordinator who (1) receives and processes allegations of academic
+misconduct, (2) notifies students of allegations of academic misconduct, (3) consults with
+students and faculty regarding allegations of academic misconduct, (4) schedules hearings to
+
+[[page 2]]
+COAM Annual Report 2023-2024 Page 2
+
+resolve allegations of academic misconduct and (5) notifies students and faculty of the
+outcomes of these hearings.
+
+Every student who is charged with academic misconduct has the right to a hearing before a
+hearing body of COAM. Panel hearings consist of at least four members of COAM and requires
+at least two faculty representatives and one student representative for cases submitted prior to
+spring semester 2024. Effective January 2024, quorum for panel hearings was decreased to
+three voting members of the committee which shall include no fewer than two faculty
+members and one student member. The hearing body serves as an impartial body that hears
+evidence and determines (1) if a student has violated the University's Code of Student Conduct
+and (2) an appropriate sanction in cases where a student is found "in violation." If a student
+takes responsibility for allegations of academic misconduct and waives their right to a hearing,
+they may have the allegations resolved as an administrative decision. For an administrative
+decision, a member of COAM serves as a hearing officer and determines appropriate sanctions.
+
+I. SUMMARY OF CASES RESOLVED
+During the 2023-2024 academic year, COAM resolved 797 cases of alleged academic
+misconduct. Of the cases resolved, 71.5% were resolved as administrative decisions and
+28.5% were resolved as panel hearings (Table 1).
+
+Table 1
+Committee on Academic Misconduct
+Summary of Total Cases Resolved and Method of Resolution
+2023-2024 Academic Year
+
+Method of Resolution Number of Cases % of Total Cases
+Administrative Decisions 570 71.5%
+Panel Hearings 227 28.5%
+TOTALS 797 100%
+
+Of the cases resolved by COAM this past reporting year, 709 1 (89.0%) resulted in findings
+of "in violation" (Table 2). Of the 570 cases closed by administrative decisions, 37 were
+invalidated for reasons including weight of evidence did not support the allegation or duplicate
+submissions.
+
+1 Total findings adjusted after appeals, as noted in Section VI of this report.
+
+[[page 3]]
+COAM Annual Report 2023-2024 Page 3
+
+Table 2
+Committee on Academic Misconduct
+Distribution of Cases by Finding
+2023-2024 Academic Year
+
+Students Found
+"Not In Violation"
+Students Found
+"In Violation" Total Cases
+TOTALS 88 709 797
+II. SUMMARY OF ACADEMIC MISCONDUCT CHARGES
+When allegations of academic misconduct arise, a student often does not know or understand
+what they have allegedly done wrong. Since COAM desires that the hearing process be an
+educational process, the Coordinator and/or office staff meets with a student charged with
+violating the Code of Student Conduct upon request. The nature of the behavior that led to the
+allegations is explained. Table 3 summarizes information on academic misconduct charges for
+the 2023-2024 academic year. Th e left column is a list of the types of charges used most
+commonly by COAM. The "Number of Charges" column lists the total number of charges
+assigned by COAM for each particular violation, and the "% of Total Charges" column lists the
+number of charges as a percentage of the tot al charges (2053). The last two columns list the
+number of findings of "in violation" associated with each charge and the respective percentage
+for each. For example, of 344 charges of plagiarism, 307 (89.2%) were found "in violation."
+
+S
+tudents are often charged with and found "in violation" of more than one charge. Thus, the
+total number of charges (2053) exceeds the total number of cases resolved by COAM (797), and
+the total for "Number In Violation" (1869) exceeds the actual number of students found "in
+violation" (709).
+
+Due to changes in both the numbering and wording of the charges as defined in the prohibited
+examples of academic misconduct (Rule 3335-23-04[A]) starting with spring 2024 cases, the
+charges shown in this report represent the new code changes. The summary merges the previous
+charges with the new charges based upon the description of the rule. It should be noted that
+copying is now included in the definition of plagiarism. An increase is shown in "compromising the
+academic misconduct of the university" (A) and "falsification, fabrication, or dishonesty" (A7)
+charges as compared to previous years and can be partially explained by generative artificial
+intelligence allegations.
+
+"Violation of course rules and/or assignment guidelines" generally accompanies the other more
+specific charges, and so a student who is found in violation on a specific charge may also be
+found-by entailment-in violation of course policy. In the majority of COAM cases, charges
+against students stem from the failure to follow course or assignment guidelines, and this
+charge may be used by itself alone if the allegations stem directly from a failure to follow course
+guidelines.
+
+[[page 4]]
+COAM Annual Report 2023-2024 Page 4
+
+Table 3
+Committee on Academic Misconduct
+Summary of Academic Misconduct Charges by Type and Finding
+2023-2024 Academic Year
+
+Charge
+Number
+of
+Charges
+%
+of Total
+Charges
+Number
+"In
+Violation"
+%
+"In
+Violation"
+3335-23-04 (A) Compromise the academic
+integrity of the university or subvert the
+educational process
+247 12.0% 225 91.1%
+3335-23-04 (A1) Violation of course rules
+and/or assignment guidelines as contained in
+the course syllabus or other information
+provided to the student
+749 36.5% 698 93.2%
+3335-23-04 (A2) Knowingly requesting,
+providing, and/or receiving unauthorized
+information, materials, and/or assistance
+during academic activities
+245 11.9% 205 83.7%
+3335-23-04 (A3) Possession and/or use of
+unauthorized information, materials, and/or
+assistance during academic activities
+210 10.2% 186 88.6%
+3335-23-04 (A4) Submitting plagiarized work
+for an academic requirement. Plagiarism is the
+representation, including but not limited to
+copying, of another's work or ideas as one's
+own; it includes unacknowledged word-for-
+word use and/or paraphrasing
+344 16.8% 307 89.2%
+3335-23-04 (A5) Unauthorized use of
+generative artificial intelligence systems or
+similar technologies to complete academic
+activities
+4 0.2% 4 100.0%
+3335-23-04 (A6) Submitting substantially the
+same work to satisfy requirements for one
+course or academic requirement that has been
+submitted in satisfaction of requirements for
+another course or academic requirement,
+without permission
+8 0.4% 7 87.5%
+3335-23-04 (A7) Falsification, fabrication, or
+dishonesty in creating or reporting laboratory
+results, research results, and/or academic
+activities
+224 10.9% 217 96.9%
+
+[[page 5]]
+COAM Annual Report 2023-2024 Page 5
+
+Table 3 (continued) Summary of Academic Misconduct Charges by Type and Finding
+
+3335-23-04 (A8) Serving as, or enlisting the
+assistance of a substitute for a student in
+academic activities
+7 0.3% 7 100.0%
+3335-23-04 (A9) Alteration of grades or
+marks by the student in an effort to
+change the earned grade or credit
+2 0.1% 2 100.0%
+3335-23-04 (A10) Alteration of
+academically-related university forms or
+records, or unauthorized use of those
+forms or records
+0 0.0% 0 0.0%
+3335-23-04 (A11) Engaging in activities
+that unfairly place other students at a
+disadvantage, including but not limited to
+taking, hiding, or altering resource
+material, or manipulating a grading system
+2 0.1% 2 100.0%
+3335-23-04 (A12) Violation of program
+regulations and/or policies as established
+by departmental committees and made
+available to students
+4 0.2% 4 100.0%
+3335-23-04 (A13) Providing falsified
+materials, documents, or records to a
+university official to meet academic
+qualifications, criteria, or requirements,
+including but not limited to submitting
+falsified doctor's notes and/or falsified
+transcripts
+7 0.3% 5 71.4%
+TOTALS 2053 100% 1869 --
+
+[[page 6]]
+COAM Annual Report 2023-2024 Page 6
+
+III. SUMMARY OF CASES BASED ON STUDENT'S ENROLLMENT UNIT AND THE INITIATING UNIT
+
+Twenty enrollment units on campus were represented in the cases resolved by COAM during
+the 2023-2024 reporting year, with combined cases from the College of the Arts and Sciences
+(UASC), College of Engineering (UENG), and the Fisher College of Business (UBUS) accounting for
+67.9% of the total cases (Table 4). It should be noted that although the Graduate School is listed
+as the enrollment units for 64 cases, those students were in graduate programs offered by
+other academic departments and/or colleges.
+
+The cases heard by COAM during the past year were initiated from or involved courses from 93
+units across the University, with the combined cases from courses in Computer Science and
+Engineering (115 cases), Psychology (57) Mathematics (52), Electrical and Computer Engineering
+(46) and English (35) accounting for 38.2% of the total cases (Table 5). Some units of the
+university now offer instruction as part of certification programs that may not involve courses
+listed in the official course catalog maintained by the Registrar . Since the definition of a
+student in the Code of Student Conduct includes any person who entered into agreement with
+the university to take instruction, allegations of academic misconduct in these certification
+programs are reported to COAM . Those cases are included in the "Other" category at the
+bottom of Tables 6 and 7.
+
+[[page 7]]
+COAM Annual Report 2023-2024 Page 7
+
+Table 4
+Committee on Academic Misconduct
+Distribution of Cases Based on Student's Enrollment Unit
+2023-2024 Academic Year
+
+Enrollment Unit
+Total for
+Enrollment
+Unit % of Total
+UASC (College of the Arts and Sciences) 259 32.50%
+UENG (College of Engineering) 162 20.33%
+UBUS (Fisher College of Business) 120 15.06%
+GRD (Graduate School) 64 8.03%
+UEHE (College of Education and Human Ecology) 52 6.52%
+UEXP (Exploration Program) 42 5.27%
+UHRS (School of Health and Rehabilitation Sciences) + UHRSP
+(Pre-program) 25 3.14%
+UAGR (College of Food, Agriculture and Environmental Sciences) 11 1.38%
+USWK (College of Social Work) 10 1.25%
+UACD (Academy) 8 1.00%
+UAHR (School of Architecture) 8 1.00%
+UATI (Agricultural Technical Institute) 8 1.00%
+UPHR (College of Pharmacy) 7 0.88%
+UNUR (College of Nursing) + UNURP (Nursing Pre-program) 6 0.75%
+UPBH (College of Public Health) + UPBHP (Public Health Pre-
+program) 4 0.50%
+VSTR (Visitor) 3 0.38%
+UDHY (Dental Hygiene) + UDHYP (Dental Hygiene Pre-program) 2 0.25%
+UENR (School of Environment and Natural Resources 2 0.25%
+UJGS (John Glenn College of Public Affairs) 2 0.25%
+UNDG (Undergraduate Non-Degree) 2 0.25%
+TOTALS 797 100%
+
+[[page 8]]
+COAM Annual Report 2023-2024 Page 8
+
+Table 5
+Committee on Academic Misconduct
+Distribution of Cases Based on Initiating Unit
+2023-2024 Academic Year
+
+Course Offering Unit & Description
+Number
+of Cases
+% of
+Total
+CSE Computer Science & Engineering 115 14.43%
+PSYCH Psychology 57 7.15%
+MATH Mathematics 52 6.52%
+ECE Electrical and Computer Eng 46 5.77%
+ENGLISH English 35 4.39%
+BUSML Business Admin: Marketing & Log 33 4.14%
+COMM Communication 30 3.76%
+ENGR Engineering 28 3.51%
+CHEM Chemistry 22 2.76%
+HISTORY History 20 2.51%
+SOCWORK Social Work 19 2.38%
+SPANISH Spanish 19 2.38%
+THEATRE Theatre 19 2.38%
+POLITSC Political Science 17 2.13%
+PHILOS Philosophy 16 2.01%
+BIOLOGY Biology 12 1.51%
+ARTEDUC Art Education 11 1.38%
+BIOCHEM Biochemistry 11 1.38%
+SOCIOL Sociology 11 1.38%
+EDUTL Education: Teaching & Learning 9 1.13%
+PUBHHBP Pub Hlth: Hlth Bhvr&Hlth Prom 9 1.13%
+ANTHROP Anthropology 8 1.00%
+CBE Chemical and Biomolecular Eng 8 1.00%
+FDSCTE Food Science & Technology 8 1.00%
+FRENCH French 8 1.00%
+MICRBIO Microbiology 8 1.00%
+BUSFIN Business Admin: Finance 7 0.88%
+PUBHBIO Pub Hlth: Biostatistics 7 0.88%
+STAT Statistics 7 0.88%
+ACEL Agricultural Comm, Ed & Ldrshp 6 0.75%
+ISE Industrial and Sys Engineering 6 0.75%
+
+[[page 9]]
+COAM Annual Report 2023-2024 Page 9
+
+Table 5 (continued) Distribution of Cases Based on Initiating Unit
+
+MECHENG Mechanical Engineering 6 0.75%
+PHR Pharmacy 6 0.75%
+ACCTMIS Accounting and Management Info 5 0.63%
+CIVILEN Civil Engineering 5 0.63%
+MUSIC Music 5 0.63%
+ARCH Architecture 4 0.50%
+BUSOBA Bus Admin: Operat & Bus Analyt 4 0.50%
+ECON Economics 4 0.50%
+MEDREN Medieval & Renaissance Studies 4 0.50%
+ANIMSCI Animal Sciences 3 0.38%
+ARTSSCI Arts and Sciences 3 0.38%
+EEOB Evol, Ecology & Organismal Bio 3 0.38%
+EXP Exploration 3 0.38%
+HDFS Human Dev and Family Science 3 0.38%
+HUMNNTR Human Nutrition 3 0.38%
+KNHES Kinesiology: Health & Exercs Sci 3 0.38%
+MOLGEN Molecular Genetics 3 0.38%
+NRSADVN Nursing Advancement 3 0.38%
+PUBAFRS Public Affairs, John Glenn Col 3 0.38%
+ANATOMY Anatomy 2 0.25%
+ANMLTEC Animal Sciences Technology 2 0.25%
+ATHTRNG Athletic Training 2 0.25%
+BIOMEDE Biomedical Engineering 2 0.25%
+COMPSTD Comparative Studies 2 0.25%
+DESIGN Design 2 0.25%
+ENR Environment & Natural Resource 2 0.25%
+ESEPSY Educ Sts: Education Psychology 2 0.25%
+GENSTDS General Studies 2 0.25%
+JEWSHST Jewish Studies 2 0.25%
+LING Linguistics 2 0.25%
+MBA Master of Business Admin 2 0.25%
+MEDLBS Medical Laboratory Science 2 0.25%
+NURSING Nursing 2 0.25%
+SPHHRNG Speech and Hearing Science 2 0.25%
+AEDECON Agricul Envrmntl & Devlop Econ 1 0.13%
+
+[[page 10]]
+COAM Annual Report 2023-2024 Page 10
+
+Table 5 (continued) Distribution of Cases Based on Initiating Unit
+
+AFAMAST African American & African Std 1 0.13%
+AIRSCI Air Force Aerospace Studies 1 0.13%
+ART Art 1 0.13%
+ASTRON Astronomy 1 0.13%
+AVIATN Aviation 1 0.13%
+BIOETHC Bioethics 1 0.13%
+BUSADM Business Administration 1 0.13%
+BUSMHR Business Admin: Mgmt & HR 1 0.13%
+CHINESE Chinese 1 0.13%
+COMLDR Community Leadership 1 0.13%
+CRPLAN City and Regional Planning 1 0.13%
+EALL East Asian Languages and Lit 1 0.13%
+GENMATH General Studies: Mathematics 1 0.13%
+GEOG Geography 1 0.13%
+GERMAN German 1 0.13%
+HISTART History of Art 1 0.13%
+HTHRHSC Health and Rehabilitation Sci 1 0.13%
+KNSISM Kinesiology: Spt Indsty Spt Mgt 1 0.13%
+LARCH Landscape Architecture 1 0.13%
+LAW Law 1 0.13%
+NEUROSC Neuroscience Department 1 0.13%
+PHYSICS Physics 1 0.13%
+PLNTPTH Plant Pathology 1 0.13%
+PUBHEPI Pub Hlth: Epidemiology 1 0.13%
+WELDENG Welding Engineering 1 0.13%
+WGSST Women's, Gender & Sexuality Sts 1 0.13%
+Other Other 3 0.38%
+TOTALS 797 100%
+
+[[page 11]]
+COAM Annual Report 2023-2024 Page 11
+
+IV. SUMMARY OF CASES BASED ON STUDENT'S RANK AND COURSE LEVEL
+
+Approximately 63% of the cases resolved by COAM during the 2023-2024 reporting year
+were the result of misconduct allegations in 1000- and 2000-level courses (Table 6). Fewer
+cases resulted from allegations in progressively higher-level courses. Some cases of academic
+misconduct occur outside of a formal class taken for academic credit. Those cases are
+included in the category "Other".
+
+Table 6
+Committee on Academic Misconduct
+Distribution of Cases Based on Course Level (Number)
+2023-2024 Academic Year
+
+Course Level
+(Semesters)
+Number
+of Cases
+% of
+Cases
+1000 254 31.9%
+2000 247 31.0%
+3000 154 19.3%
+4000 50 6.3%
+5000 37 4.6%
+6000 22 2.8%
+7000 16 2.0%
+8000 14 1.8%
+Other 3 0.4%
+TOTALS 797 100%
+
+[[page 12]]
+COAM Annual Report 2023-2024 Page 12
+
+Table 7 summarizes the number of cases resolved at each level by student class rank. The
+distribution of cases for undergraduates is fairly evenly distributed across all ranks but does
+increase with increasing undergraduate rank. The greatest number of cases and the highest
+percentage of cases within a single rank was for rank 4 students. Undergraduates are
+entering the university with more credit hours, which means that some rank 2 students are
+in their first year at the university. The largest number of cases involved ranks 3 and 4
+students. When cases by rank are expressed as a percentage of total students within each
+rank based on fifteenth-day student enrollment for Autumn 2023, the distribution of cases
+was as follows: rank 1 = 1.41% (10,122 students); rank 2 = 1.55% (10,719 students), rank 3 =
+1.68% (11,384 students), rank 4 = 1.23% (18,701 students), and graduate students (excluding
+graduate professional students) = 0.58% (11,102 students). Note: a rank of "Other" may
+represents visitor or other individuals who took courses as non-degree students and/or were
+enrolled in a certification program.
+
+Table 7
+Committee on Academic Misconduct
+Distribution of Cases Based on Student Rank and Course Level
+2023-2024 Academic Year
+
+Course
+Level
+Rank
+TOTALS
+% by Course
+Level 1 2 3 4 GRD Other
+1000 102 74 49 27 0 2 254 31.9%
+2000 32 61 84 70 0 0 247 31.0%
+3000 7 26 43 78 0 0 154 19.3%
+4000 0 4 12 33 0 1 50 6.3%
+5000 0 1 3 22 11 0 37 4.6%
+6000 0 0 0 0 22 0 22 2.8%
+7000 0 0 0 0 16 0 16 2.0%
+8000 0 0 0 0 14 0 14 1.8%
+Other 2 0 0 0 1 0 3 0.4%
+TOTALS 143 166 191 230 64 3 797 100%
+% by Rank 17.9% 20.8% 24.0% 28.9% 8.0% 0.4% 100%
+
+[[page 13]]
+COAM Annual Report 2023-2024 Page 13
+
+V. SUMMARY OF DISCIPLINARY AND GRADE SANCTIONS
+
+When COAM finds that a student has violated the University's Code of Student Conduct,
+COAM imposes sanctions. A sanction typically includes a disciplinary component and a grade-
+related component. Educational sanctions are used in cases of plagiarism.
+
+The disciplinary sanctions imposed by COAM and the number of cases involved are
+summarized in Table 8. Of the 797 cases resolved during the 2023-2024 Academic Year, 709
+resulted in a finding of "in violation" and these were accompanied by a disciplinary sanction.
+As these data demonstrate, most students found "in violation" of the Code of Student
+Conduct received a sanction of "disciplinary probation."
+
+Table 8
+Committee on Academic Misconduct
+Summary of Disciplinary Sanctions
+2023-2024 Academic Year
+
+Disciplinary Sanction
+Number of Cases
+"In Violation" % of Cases
+Formal reprimand 22 3.1%
+Disciplinary probation
+(range = 1 term to "until graduation") 668 94.2%
+Suspension (range = 1 to 2 terms) 18 2.5%
+Dismissal 1 0.1%
+Other 0 0.0%
+TOTALS 709 100%
+
+[[page 14]]
+COAM Annual Report 2023-2024 Page 14
+
+The grade sanctions imposed by COAM and the numbers of cases involved are summarized in
+Table 9.
+
+Of the 709 cases in which a student was found "in violation" in 2023-2024, no grade sanction
+was authorized in eight of the cases. As these data demonstrate, the modal grade sanction
+for students found "in violation" of the University's Code of Student Conduct is an
+authorization for a "0" on all or part of the assignment and a further reduction of the
+student's final grade. In most instances, COAM authorizes the instructor to award a grade
+sanction. In some instances, COAM imposes the sanction of a failing grade directly via the
+Registrar: "re-enroll with a failing grade" and "E" by action of University Committee . These
+failing grades may not be removed from the advising report or transcript by petition ,
+substitution, or retroactive withdrawal from the course but are eligible for grade
+forgiveness. The hearing body have the option to create grade sanctions appropriate to
+individual cases of academic misconduct and are included in the category "Other".
+
+Table 9
+Committee on Academic Misconduct
+Summary of Grade Sanctions
+2023-2024 Academic Year
+
+Grade Sanction
+Number
+of Cases % of Cases
+None 8 1.1%
+Authorization for a "0" on all or part of the assignment 137 19.3%
+Authorization for a reduction in the student's final course grade 49 6.9%
+Authorization for "0" on all or part of the assignment and a
+further reduction of the final letter grade in the course 443 62.5%
+Authorization for a final grade of "E" or "U" in the course 24 3.4%
+Final Grade of E/U/NP by "action of University Committee" 31 4.4%
+Re-enroll with a final failing grade for the course 8 1.1%
+Other 9 1.3%
+TOTALS 709 100%
+
+[[page 15]]
+COAM Annual Report 2023-2024 Page 15
+
+A summary of the disciplinary sanctions received by graduate students who were found in
+violation of the Code of Student Conduct is given in Table 10.
+
+Table 10
+Committee on Academic Misconduct
+Summary of Disciplinary Sanctions for Graduate Students
+2023-2024 Academic Year
+
+Disciplinary Sanction
+Number of Cases
+"In Violation" % of Cases
+Formal reprimand 0 0.0%
+Disciplinary probation
+(range = 1 term to "until graduation") 47 92.2%
+Suspension (range = 1 to 4 terms) 4 7.8%
+Dismissal 0 0.0%
+TOTALS 51 100%
+
+[[page 16]]
+COAM Annual Report 2023-2024 Page 16
+
+A summary of the grade sanctions received by graduate students during the 2023- 2024
+academic year is provided in Table 1 1.
+
+Table 11
+Committee on Academic Misconduct
+Summary of Grade Sanctions for Graduate Students
+2023-2024 Academic Year
+
+Grade Sanction Number
+of Cases
+% of
+Cases
+None 1 2.0%
+Authorization for a "0" on all or part of the assignment 14 27.5%
+Authorization for a reduction in the student's final course grade 7 13.7%
+Authorization for "0" on all or part of the assignment and a
+further reduction of the final letter grade in the course 21 41.2%
+Authorization for a final grade of "E" or "U" in the course 2 3.9%
+Final Grade of E/U/NP by "action of University Committee" 3 5.9%
+Re-enroll with a final failing grade for the course 0 0.0%
+Other 3 5.9%
+TOTALS 51 100%
+
+VI. APPEALS
+A student who has been found in violation of the Code of Student Conduct has the right to
+appeal the original decision of the hearing body. The appeal is not intended to rehear or
+reargue the same case and is limited to specific grounds as outlined in the Code of Student
+Conduct. Appeals of decisions of the Committee on Academic Misconduct are submitted for
+decision to the Executive Vice President and Provost or designee. Of the 709 cases in which
+the student was found to be "in violation" by COAM in 2023-2024, 41 cases were appealed.
+In 27 instances, the decision of the Committee was upheld. Fourteen of the appeals were
+granted. In eight of those cases the grade sanction was changed and in nine of those cases
+the disciplinary sanction was changed. In one instance the student was found not in
+violation and in one instance the student was granted a new hearing.

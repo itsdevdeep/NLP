@@ -1,0 +1,958 @@
+[[page 1]]
+McCombs School of Business Student Handbook for the
+following Full-time Master of Science Programs:
+* Master of Science in Business Analytics (MSBA)
+* Master of Science in Finance (MSF)
+* Master of Science in Information Technology and
+Management (MSITM)
+* Master of Science in Marketing (MSM)
+2026 - 2027
+
+[[page 2]]
+Page 1 of 24
+
+Table of Contents:
+* Administrative Basics ................................................................................ 1
+* Emails & Accounts ..................................................................................... 4
+* Academic Information ............................................................................... 5
+* Financial Information ............................................................................... 13
+* Curriculum ............................................................................................... 15
+* Handbook Acknowledgement .................................................................. 19
+* Photo/Video Release ................................................................................ 20
+* Travel/Activity Release ............................................................................. 21
+
+[[page 3]]
+Page 2 of 24
+ADMINISTRATIVE BASICS
+
+Intensive Week
+Each program holds a required, in-person, one-week 'Summer Intensive' program in Austin that
+offers training in areas including, technical analysis, modeling, communications and UT
+resources, the week before classes start in early July. While the material is an important
+foundation for your future classes and you will be expected to retain the knowledge gained,
+your performance will not be graded.
+
+Class Location
+The majority of Texas Master of Science (MS) classes are held at Robert B.Rowling Hall located
+at 300 W Marting Luther King Jr. Drive, Austin, TX (NE corner of MLK and Guadalupe). Classes
+are held Monday - Thursday, with Fridays dedicated to career workshops and events. Classes
+are not offered online unless deemed hybrid by the University of Texas at Austin due to a global
+pandemic, natural disaster, or other health/safety necessity. Regardless of class location, MS
+students are expected to attend classes synchronously. You will be notified ahead of time of
+any room changes via Canvas.
+
+UT EID
+Your UT EID is provided by the University of Texas at Austin (UT) to perform secure actions. You
+used this account to apply to the University. It is managed by the UT Information Technology
+Services (ITS) department. You should address any questions or issues with it to the UT Service
+Desk (http://www.utexas.edu/its/helpdesk/). You can reset your password or look up your UT
+EID at the UT EID Self Service Tools Site (https://idmanager.its.utexas.edu/eid_self_help).
+
+Your UT EID is used to perform many actions, such as:
+
+* Log in to Canvas (http://canvas.utexas.edu/), the learning management system used by
+professors and program staff to distribute documents, announcements, and grades
+* Log in to the MyUT portal (https://my.utexas.edu/UT-Austin-Production/Welcome), the
+site where you can perform secure functions with UT
+* Access UT's wireless internet
+* Use UT Box (https://utexas.account.box.com/login) to store files
+* Print to campus printers, including those in the McCombs School of Business
+
+Upgrading your UT EID (https://ut.service-now.com) is necessary to view your grades online,
+accessing your UT Box account, and many other activities. To upgrade your UT EID, the
+University requires physical proof of your identity (government-issued ID, such as U.S. state
+
+[[page 4]]
+Page 3 of 24
+license or passport) and you must sign an agreement which gives your UT EID legal signature
+authority. This process may be initiated upon your arrival on campus.
+
+Acceptable Use Policy
+When you use your UT EID, your McCombs School of Business (MSB) account, or any other UT
+or McCombs technology resources, you must follow UT's Acceptable Use Policy. These rules
+apply any time you use a UT computing resource. This can mean using a computer in one of the
+labs, sending email from your UT email account, or using UT's wireless Internet access. You are
+responsible for following all computing policies (https://security.utexas.edu/policies/aup) as
+outlined by The University of Texas at Austin.
+Here are some of the most commonly broken policies:
+* Do not let anyone else use your accounts. Never give out your password.
+* Do not send rude, threatening, or harassing emails, even as a joke.
+* You may not profit from the use of a university computing resource.
+* Do not send emails anonymously or using someone else's name.
+* Do not send spam.
+* Do not violate copyright laws.
+* Do not hack into any UT systems.
+
+Students with Disabilities
+The University of Texas at Austin has a written policy, which states that students with
+disabilities will be provided appropriate academic accommodations. The purpose of academic
+accommodations is to ensure equal access to and the opportunity to benefit from all
+educational programs at UT Austin for all students. It is the responsibility of the student to
+identify themself to the Disability and Access Office and to provide documentation of their
+disability. Strict documentation guidelines exist for different types of disabilities. Information on
+documentation guidelines for disabilities can be found on the Disability and Access website
+(https://disability.utexas.edu/ or via phone (512-471-6259) or e-mail
+(access@austin.utexas.edu). Faculty are not able to provide accommodations unless a student
+goes through this reporting process.
+
+Tobacco and Alcohol Policies
+The University of Texas at Austin is a tobacco-free campus (https://tobaccofree.utexas.edu),
+and the use of tobacco on any UT Austin property is not allowed. Tobacco use in any of The
+University of Texas at Austin buildings is strictly prohibited and any student found using tobacco
+in a UT Austin building is subject to a fine. UT Austin policies regarding alcoholic beverage
+consumption are very strict. Alcoholic beverages are prohibited from university activities
+without express written permission and prior approval from the Office of the Provost. A person
+must be at least 21 years of age to drink an alcoholic beverage in Texas. Any underaged
+drinking will be referred to the Office of the Dean of Students for disciplinary review.
+
+[[page 5]]
+Page 4 of 24
+Student Guide to Sex Discrimination, Sexual Harassment, & Sexual Misconduct
+The University of Texas at Austin is committed to maintaining an educational environment that
+is free from inappropriate conduct of a sexual nature. The University encourages students who
+believe that they may have been subjected to sex discrimination, sexual harassment, or sexual
+misconduct by faculty, staff, students, visitors, or contractors to report it immediately to a Title
+IX Coordinator or Deputy (https://titleix.utexas.edu/our-team) or file an anonymous report
+(https://titleix.utexas.edu/file-a-report). Feel free to share and discuss incidents or concerns
+with MSPO faculty and staff. Although the MSPO faculty and staff are required by law to report
+some incidents, they will explain what we must report so you are fully informed as you share
+your incident. You control how much information you provide to us and we provide resources
+to help you begin to manage the situation. Note: There are also confidential case managers
+located in the Dean of Students Office - https://titleix.utexas.edu/confidential-case-manager-
+students
+Student Code of Conduct
+Any time you are representing the University of Texas at Austin or the MS Programs (directly or
+indirectly), you are expected to abide by the University's Student Code of Conduct:
+https://deanofstudents.utexas.edu/conduct/standards-of-conduct.php
+Some examples of misconduct include, but are not limited to:
+* Disrespecting a fellow student, staff member, faculty member or external constituent
+* Harassing or disruptive behavior at a school-sponsored event, or at events where you
+are representing The University of Texas at Austin
+Issues that arise during the course of the program will be referred to the Dean of Students.
+
+EMAIL & ACCOUNTS
+Change in Personal Information
+Each student is required to keep current local and permanent contact information, and an
+email address on file with the University. If any changes occur, please:
+
+1. Immediately notify the Texas MS staff and appropriate faculty with the new
+information.
+2. Update your information through the MyUT (https://my.utexas.edu/UT-Austin-
+Production/Welcome) portal. This updates your official UT record and directory entry,
+which is critical to ensure that no communication is missed.
+
+Program Communications
+Canvas will be the primary form of communication for academic and student affairs
+programmatic information. Students are expected to check program announcements on a
+regular basis using their Canvas log in. Students are also expected to check their email regularly
+
+[[page 6]]
+Page 5 of 24
+and communicate with program staff in a timely manner.
+
+UT Email Account
+Your student email address is EID based: [your eid]@my.utexas.edu and will be listed as your
+primary email address in your student record. All University communications will be sent to
+this email address. This is a new policy as of summer 2025.
+
+Student Photo ID
+The University of Texas at Austin provides each student with a picture identification card that
+enables use of many university facilities and services, including but not limited to free Cap
+Metro transportation. Students should carry this card with them any time they are going to be
+present on the UT main campus.
+
+To obtain your ID, please go to the Flawn Academic Center (FAC) and request a Student ID Card.
+The student ID card will allow you to access the McCombs building after hours. The cost to
+purchase this card is $10. Student can pay on the What I Owe Page. For additional information,
+visit the ID Center. Lost, damaged, or stolen cards will require an additional replacement fee
+paid by the student.
+
+ACADEMIC INFORMATION
+Degree Requirements
+All Texas MS Programs students in the class of 2027 are responsible for completing the degree
+requirements in order to earn an MSBA, MSF, MSITM, or MSM degree, which can be found in
+Addendums A, B, C, or D respectively.
+Students are required to complete all core components of their programs. Substitutions can be
+requested and approved by Program Directors on a case-by-case basis. Students are also able
+to request a maximum of 6 elective credit hours from another MS program curriculum to count
+towards their degree. In rare circumstances, a student may identify an elective course outside
+of the MS Program that achieve their academic outcomes. In such circumstances, the student
+must receive written permission from the course instructor as well as a representative from
+host department office (likely the Department's Graduate Advisor or Program Coordinator)
+prior to seeking approval from the MS Program Director.
+Any classes taken outside the prescribed curriculum are subject to Program approval and may
+incur additional fees. Students who do not complete the prescribed curriculum within the 2026-
+2027 MS Programs Academic Year may be subject to additional requirements and fees.
+Each MS student will receive an annual progress report from their graduate coordinator
+between the fall and spring semester. This report will outline remaining degree requirements
+
+[[page 7]]
+Page 6 of 24
+and eligibility to graduate in the spring semester contingent upon successful completion of the
+spring semester.
+
+Grades
+All Texas MS students are held to the academic standards of The University of Texas at Austin.
+Students will receive a letter grade for each course, which are determined solely by the Texas
+MS faculty. Each instructor determines grading metrics and what constitutes successful
+academic performance in their course relative to those metrics. Courses in the Texas MS
+program may not be taken on a pass/fail or credit/no credit basis.
+
+Official grade point averages are calculated by the Registrar and appear on the student
+academic record maintained by the Registrar. The grade point average does not include any
+graduate or undergraduate courses the student took at the University before enrolling in the
+UT Graduate School, credit by examination, or courses taken at other institutions. [note: MS
+courses completed while an undergraduate student will count toward a student's
+undergraduate GPA]
+
+The following numerical equivalents of letter grades are used in the calculation of the graduate
+grade point average:
+A 4.00 C 2.00
+A- 3.67 C- 1.67
+B+ 3.33 D+ 1.33
+B 3.00 D 1.00
+B- 2.67 D- 0.67
+C+ 2.33 F 0.00
+
+To graduate, all students must maintain an overall grade point average of at least 3.00 and
+make a "C" or better in all courses. If a student receives a C- (or lower) in a core course, the
+student may be dismissed* from the program; if a student receives a C-(or lower) in an elective
+course they cannot apply those hours to their required hour count.
+*Please note that earning a "C-" or lower in a course may mean that a student is ineligible to
+continue a core requirement in the next semester, since each semester of coursework builds
+upon the next and courses are typically only offered once per year.
+
+Registration Policies
+You will be registered for classes by MS Programs Staff. Registration processes and selection of
+courses will be communicated each semester. Additional policies include but are not limited to
+the following:
+
+[[page 8]]
+Page 7 of 24
+* Whole-Semester Classes -
+o Students can make changes to their schedules (add/drop) during the first week
+of classes of the long semester by communicating with their respective Senior
+Academic Program Coordinator.
+o Beginning on the second week of classes, students must gain permission from
+the Program Director to make schedule changes.
+* Half-Semester Classes -
+o Students can make changes to their schedules (add/drop) during the first class
+day of the half-semester classes by communicating with their respective Senior
+Academic Program Coordinator.
+o Beginning on the second (2nd) class day, students must gain permission from the
+Program Director to make schedule changes.
+* For courses that offer multiple sections and meeting times, students may only attend
+the unique number of the course for which they are registered. Attending a unique
+number of a course for which you are not registered is against security, fire, and safety
+policies of the University.
+* If a student wishes to request an elective from another MS Program, they must receive
+permission from both their program director as well as the program director owning the
+MS course. Approval is not guaranteed and students must make these requests by the
+deadline in that given semester (usually 1-2 weeks before the registration window). The
+specific date of this deadline will be communicated to you in advance. Exceptions after
+the deadline will only be considered with an approved petition from the Program
+Director.
+* If a student wishes to request an elective from outside of MS Programs, they must
+receive permission through a petition to the Program Director. Petitions must clearly
+state how the learning objectives of the course will further your career goals, explain
+how these career goals are not met with an MS programs course option, and include a
+syllabus for the course you are requesting to take. Approval is not guaranteed, and
+students must make these requests by the deadline in that given semester (usually 1-2
+weeks before the registration window). The specific date of this deadline will be
+communicated to you in advance.
+* You may not audit a course in or out of the MS Programs.
+Maximum Course Load
+The maximum course load for a graduate student is 15 semester hours in a spring or fall
+semester, or 12 semester hours in a 12-week summer session. Students who wish to exceed the
+maximum course load must request approval from the Faculty Program Director. If approved,
+the Senior Academic Program Coordinator will submit a petition letter from the graduate
+
+[[page 9]]
+Page 8 of 24
+advisor to the graduate dean for approval. This request must be approved by the graduate
+school prior to being able to be registered.
+Obtaining Grade Reports
+Final course grades can be obtained on the Registrar's website
+(http://registrar.utexas.edu/students/grades/report). The University does not mail hard copies
+of grade reports to home addresses.
+
+Academic Policies
+Detailed information regarding all items addressed in this section may be found in the UT
+Austin Graduate Catalog (http://registrar.utexas.edu/catalogs/graduate).
+
+Student Responsibilities
+While university faculty and staff members may give a student academic advice and assistance,
+each student is expected to take responsibility for their education and personal development.
+The student must know and abide by the academic and disciplinary policies given in the
+Graduate Catalog (http://registrar.utexas.edu/catalogs/graduate) and in the General
+Information (https://registrar.utexas.edu/catalogs/general-information) Catalog, including rules
+governing quantity of work, the standard of work required to continue at UT, warning status
+and scholastic dismissal, and enforced withdrawal.
+
+Observance of Religious Holidays
+The UT General Information Catalog (https://catalog.utexas.edu/general-
+information/academic-policies-and-procedures/attendance/) states that "A student who misses
+classes or other required activities, including examinations, for the observance of a religious
+holy day should inform the instructor as far in advance of the absence as possible so that
+arrangements can be made to complete an assignment within a reasonable period after the
+absence. A reasonable accommodation does not include substantial modification to academic
+standards, or adjustments of requirements essential to any program of instruction. The
+University does not maintain a list of religious holy days. Please notify the faculty and Texas MS
+staff at least fourteen days before the absence.
+Warning Status and Academic Dismissal
+To continue study at the University of Texas at Austin beyond the first semester, students must
+make satisfactory progress in fulfilling any admission conditions that were imposed by the
+graduate dean.
+
+A student whose grade point average falls below 3.00 at the end of any semester will be
+warned by the Office of Graduate Studies that their continuance in the UT Austin Graduate
+School is in jeopardy and will be placed on scholastic probation during the subsequent
+semester. During this period, the student may not drop a course or withdraw from the
+university without the approval of the graduate advisor and the graduate dean. The student
+must attain a cumulative grade point average of at least 3.00 during the next semester they are
+
+[[page 10]]
+Page 9 of 24
+enrolled or be subject to dismissal from the university. Academic dismissal is reflected on the
+student's academic record. Please review The Graduate School's official policy
+(https://gradschool.utexas.edu/academics/policies/warning-status-academic-dismissal) for
+more information about warning status, academic dismissal, and petition for readmission.
+
+Leave of Absence
+Students may apply for a leave of absence for no more than two long semesters. Granting
+leaves of absence is left to the discretion of the graduate advisor. If approved, a "Leave of
+Absence" form must be returned to the Graduate School in advance of the semester for which
+a leave is granted. A student on an approved leave of absence must apply for readmission in
+order to return to the university, but readmission during this approved period is automatic and
+the application fee is waived. A student on leave may not receive any privileges otherwise
+available to enrolled students. Please contact your Senior Academic Program Coordinator for
+more information.
+
+International students attending in F-1 or J-1 immigration status must consult with an
+International Student Advisor at International Students & Scholars Services (ISSS) in Texas
+Global prior to taking a leave of absence to discuss how leave will affect immigration status.
+
+Leave of Absence, Short-Term Leave Academic Accommodation
+The Master of Science Program Office works with each student to balance their academic
+responsibilities and demands of life that may require a short-term leave of absence. The need
+for a short-term leave may include but is not limited to, legal obligations, care for dependents
+or family, parenting obligations, temporary disability, and medical or mental health concerns.
+
+Due to the 10-month intensive nature of MS Programs it is recommended that short-term
+leaves be limited to as short as possible however we will work with students based on their
+specific circumstances in consultation with the student's care/legal team and based on faculty
+agreement to provide reasonable academic accommodations as necessary. After a short-term
+leave period, MS students are expected to resume progress towards degree completion.
+
+It is the responsibility of the MS student to inform their assigned Senior Academic Program
+Coordinator (SAPC) and Program Director (PD) in writing of any anticipated accommodation
+needs as early as possible.
+
+It is the responsibility of the MS student to work with each of their faculty members to
+negotiate reasonable accommodations for the short-term leave of absence period.
+
+Withdrawal
+Dropping an entire course load (i.e. going to zero enrolled hours) constitutes withdrawal from
+the University for that semester. To withdraw from the Graduate School, a student must first
+contact the Senior Academic Program Coordinator (for applicable procedures and deadlines)
+and then file a petition with the graduate dean.
+
+[[page 11]]
+Page 10 of 24
+
+International students attending on F-1 or J-1 immigration visas must consult with an
+International Student Advisor at International Students & Scholars Services (ISSS) in Texas
+Global prior to withdrawal to discuss how it will affect immigration status.
+
+The Standard of Academic Integrity
+A fundamental principle for any educational institution, academic integrity is highly valued and
+seriously regarded at The University of Texas at Austin. More specifically, you and other
+students are expected to maintain absolute integrity and a high standard of individual honor in
+scholastic work undertaken at the University. This is a very basic expectation that is further
+reinforced by the University's Honor Code. At a minimum, you should complete any
+assignments, exams, and other scholastic endeavors with the utmost honesty, which requires
+you to:
+* Acknowledge the contributions of other sources to your scholastic efforts;
+* Complete your assignments independently unless expressly authorized to seek or obtain
+assistance in preparing them including large language models (ex. ChapGPT);
+* Follow instructions for assignments and exams, and observe the standards of your
+academic discipline; and
+* Avoid engaging in any form of academic dishonesty on behalf of yourself or another
+student.
+
+For more information on avoiding academic misconduct, review Student Conduct's website that
+provides examples and videos.
+
+For the official policies on academic integrity and scholastic dishonesty, please refer to Chapter
+11 (https://catalog.utexas.edu/general-information/appendices/appendix-c/student-conduct-
+and-academic-integrity/ /) of the Institutional Rules on Student Services and Activities.
+
+Use of Artificial Intelligence and Academic Integrity
+1. Follow guidance for AI tool usage in each course. For some courses and assignments AI
+tools are restricted to facilitate learning goals and objectives. Conceptually, it can be
+valuable to practice doing long division with paper and pencil before you break out the
+calculator. If a policy is not clear, ask your faculty member.
+2. Be a conscientious consumer of LLMs. The University has selected and established
+licensing with a collection of AI tools and platforms to ensure data stays private and isn't
+used to train outside AI models. Summary below.
+UT Spark: UT's all-in-one AI platform, powered by OpenAI and Microsoft Azure,
+available for free to all current faculty, staff and students. UT Spark can help work out
+ideas, summarize research, brainstorm ideas and, coming soon, build personal AI agents
+to automate tasks. Each day, we are working to integrate Spark with campus systems, so
+
+[[page 12]]
+Page 11 of 24
+you will be able to chat with official UT agents to get quick answers about campus
+services or resources.
+Microsoft 365 Copilot Chat: A free, secure AI chatbot for all faculty, staff and students.
+It offers real-time web answers, content summarization and image generation, with
+enterprise-grade data protection built in.
+Microsoft 365 Copilot (licensed version): A paid upgrade for faculty and staff members
+seeking deeper integration with Microsoft 365 apps such as Word, Excel and Teams. It
+supports advanced workflows, connects to institutional data, and enables low-code/no-
+code agent creation.
+UT Sage: A safe, secure AI-powered tutor endorsed for use in UT classrooms. Built on
+responsible AI and sound pedagogical principles, Sage is designed to support student
+learning through conversational assistance.
+Google Gemini: A free multimodal AI tool available to faculty, staff and students,
+supporting text, image and code generation through your UT Mail Google for Education
+account.
+
+Standards for Professionalism
+Attendance
+This program is an academically rigorous 10-month program, and class attendance as well as
+participation is essential. You are expected to be in class and to arrive ON TIME. On-Time is
+defined as at least 5 minutes prior to the posted class or event start time and being ready to
+begin at the time instruction or activity begins. Unless otherwise stipulated by individual faculty
+members, students of the MS Programs are allowed 2-3 excused absences. Your academic
+studies always come first.
+Non-Disclosure Agreements
+As part of coursework, you may be required to sign a Non-Disclosure Agreement (NDA) to gain
+access to client projects or data. The University of Texas at Austin does not negotiate the terms
+of these NDAs, and you will be signing these agreements as individuals taking part in the project
+(not as a representative of the University, Texas MS, or the Practicum/Capstone). It is the
+program's expectation that you will agree to the terms of an NDA and comply with the terms of
+the NDA as given by the client; however, if you do have major concerns with the terms then
+please bring those to the attention of your instructor as soon as possible. In addition, if you are
+uncomfortable signing NDAs as an individual, please notify your instructor before the start of
+the project. If you are unwilling to sign an NDA this may impact your ability to work directly
+with client data.
+
+[[page 13]]
+Page 12 of 24
+Professional Conduct and Classroom Etiquette
+You are expected at all times to represent the program well and to ensure that you are treating
+program staff, faculty, students, and industry partners with respect. Students in the MS
+Programs are expected to treat faculty members with respect during their classes and be
+mindful of their use of phones, laptops, and food.
+Repercussions for Professionalism Violations
+Repeated failure to do these things can result in privileges being revoked including but not
+limited to: industry events, career management support, and department sponsored extra-
+curricular activities. Repercussions for not showing up or showing up late repeatedly are at the
+discretion of the respective program's Program Director or Director of Student Experience.
+* Violation 1: Meeting with your Senior Academic Program Coordinator (SAPC).
+* Violation 2: Loss of access to MS Programs programming and opportunities.
+Reinstatement of access will be evaluated through a meeting with the Program Director
+or Director of Student Experience.
+* Violation 3: Permanent loss of MS Programs programming and opportunities.
+Other Information
+Escalation - If there are any issues with classes, faculty, course content, etc. please ensure that
+you are bringing these immediately to the attention of the Texas MS Senior Academic Program
+Coordinator.
+
+FINANCIAL INFORMATION
+Payment Instructions
+Texas Master of Science Program Fees (tuition) are billed every semester. The due dates are
+aligned with the Academic Calendar (https://registrar.utexas.edu/calendars).
+*The most up-to-date payment deadlines can be found at the One Stop website
+(https://onestop.utexas.edu/managing-costs/paying-your-tuition/payment-deadlines)
+The Program Fee will be included on your invoice on the McCombs Payment Portal
+(https://utdirect.utexas.edu/business/payment/portal/). It can be paid with credit card, check,
+e-check, or wire transfer.
+
+If your financial aid payment will arrive after the deadline, communicate with the MSPO
+Registrar (MSPORegistrar@mccombs.utexas.edu) as soon as possible so that adjustments can
+be made on a case-by-case basis.
+Note that MS Programs students are expected to meet tuition deadlines. Tuition, fees and
+attendance confirmation must be completed by the deadline (5th class day in fall/spring and 3rd
+class day in summer by 5:00pm CT) or your registration will be cancelled and classes dropped
+
+[[page 14]]
+Page 13 of 24
+for the semester. A student can be re-registered for their classes until the 12th class day of
+fall/spring (4th class day in the summer) only after their tuition bill has been paid in full.
+Registration after the tuition deadline will result in a $50 late fee. Please note that being
+dropped from classes may impact your eligibility to complete and earn your MS degree.
+Additionally, you will not be able to register for future classes or participate in commencement
+if you have an outstanding bill. In accordance with the General Information Catalog
+(https://catalog.utexas.edu/general-information/academic-policies-and-
+procedures/diplomas/), a student who owes a debt to the University may be unable to obtain a
+diploma until the debt is paid.
+An installment plan is available when you submit your Financial Responsibility Statement and
+the due dates will align with the Academic Calendar.
+Texas MS students awarded scholarships by the department can expect their scholarship to
+release on the same date tuition is due in check form or direct deposit. These students will
+receive their awards in three separate distributions- one in summer, one for fall, and one for
+spring.
+If you received a scholarship during your admissions process, the letter you received detailed
+the scholarship amount. If you have any questions regarding scholarships, please contact the
+MSPO Registrar. Direct deposit is the quickest way to receive any refunds or scholarship money;
+see instructions to sign up.
+If you require Financial Aid, please see the Next Steps for Financial Aid Guide (in Canvas)
+created especially for MS Programs Students. This guide provides helpful steps for both
+domestic and international students.
+Option III Limitations on Financial Aid and Employment
+The Texas MS Program is an Option III graduate degree, and therefore is governed by the
+guidelines for Option III programs
+(https://utexas.app.box.com/s/w2autodrvwhdp5uyiezkzddvlqlgfnva) established by the Office
+of Graduate Studies.
+From these guidelines:
+Students registered in these degree programs are not eligible for university financial aid,
+except federal guaranteed loans and some private sector loans. They may not be offered
+TA, AI, GRA, AA, or A(G) appointments or department fellowships. They will receive no other
+student "benefits" unless specific arrangements have been made and the appropriate costs
+(fees) have been paid.
+
+In addition to the academic appointment restrictions for Option III students listed above, we
+strongly discourage full- or part-time employment while enrolled in a full-time McCombs MS
+Program. The intense nature of the coursework, co-curricular and career workshops and
+sessions, and significant amount of time needed for class attendance and assignment
+
+[[page 15]]
+Page 14 of 24
+completion leave very little time to take on outside pursuits. Further, employment during the
+MS Program impacts others in the cohort. MS Program curricula involves several team-based
+assignments, including the Capstone/Practicum course, which rely on a cohort model where
+schedules are coordinated similar to professional work settings. Ongoing outside
+commitments limit availability to complete and contribute to these assignments, which may
+result in failing to receive credit for team deliverables.
+
+International Student Fees and Insurance
+All international students at The University of Texas at Austin are required to pay the $125 ISSS
+Support Services fee (https://world.utexas.edu/isss/about/fees) every semester. This fee will be
+included on your invoice on the What I Owe page, which is accessible via MyUT.
+Additionally, F-1 and J-1 international students are required to be covered by health insurance
+when enrolled at the University. ISSS provides health insurance
+(https://world.utexas.edu/isss/insurance/students) to students who do not have coverage,
+which is provided and billed to international students automatically, unless an insurance waiver
+(https://world.utexas.edu/isss/insurance/students/waivers) form is submitted in a timely
+manner. Health insurance fees are also included on your invoice on the What I Owe page. The
+Texas MS program does not cover these charges.
+
+[[page 16]]
+Page 15 of 24
+Addendum A: MSBA Curriculum
+Degree Requirements
+The Master of Science in Business Analytics (MSBA) Option III degree program is designed to teach
+rigorous and innovative content that will provide students with master's level knowledge, skills and
+abilities in the field of business analytics. All courses indicated as core below are requirements for
+graduation. All Texas MSBA students are responsible for completing the following requirements* in the
+General Curriculum Track or Financial Analytics Track with a minimum of 36 credit hours in order to earn
+a Master of Science in Business Analytics:
+SUMMER TERM (6 credit hours)
+STA 380: Introduction Machine Learning (Core)
+MIS 381N: Data Science Programming (Core)
+FIN 294: Introduction to Finance Analytics (Elective)
+
+FALL TERM (16 credit hours)
+MIS 382N: Advanced Machine Learning (Core)
+MIS 284N: Analytics for Unstructured Data (Core)
+RM 294.1: Optimization I (Core)
+BA 385T: Financial Management (Core, Optional Upon Approval)
+MIS 381N: Information Management (Core, Optional Upon Approval)
+MIS 382.56: Marketing Analytics I (Elective)
+FIN 684F: Advanced Corp. Finance/Investment Theory (Elective)
+MIS 281N.30: Privacy Preserving Analytics (Elective)
+O M 286: Analysis/Control/Improvement Supply Chain (Elective)
+O M 286: Analytics for Supply Chain Planning and Distribution (Elective)
+
+SPRING TERM (14 credit hours)
+STA 280: Unsupervised Learning (Core)
+RM 294.2: Optimization II (Core)
+MIS 382N.11: Business Intelligence Capstone (Core)
+O M 386: Adv Data Analytics in Marketing (Elective)
+O M 386: Demand Analytics/Pricing (Elective)
+RM 294: Financial Technology (Elective)
+MIS 284N: Social Medial Analytics (Elective)
+OM 386: Data Driven Healthcare Ops (Elective)
+FIN 294.6: Fixed Income Analysis (Elective for Financial Analytics Track only)
+FIN 285F: Financial Modeling/Testing (Elective for Financial Analytics Track only)
+STA 280.19: Time Series (Elective)
+MIS 285N: Artificial Intelligence Ethics (Elective)
+MIS 284N: Applied Data Storytelling (Elective)
+*some courses are subject to change
+
+[[page 17]]
+Page 16 of 24
+Addendum B: MSF Curriculum
+Degree Requirements
+The Master of Science in Finance (MSF) Option III degree program is designed to teach rigorous and
+innovative content that will provide students with master's level knowledge, skills and abilities in the
+field of finance. All Texas MSF students are responsible for completing the following requirements with
+a minimum of 36 credit hours in order to earn a Master of Science in Finance. All courses indicated as
+core below are requirements for graduation. The MS Finance degree requires students to select 10
+hours of elective coursework in the spring semester. Some courses are subject to change.
+SUMMER TERM (6 credit hours)
+B A 285T: Financial Management (Core)
+FIN 286: Valuation I (Core)
+B A 284T : Financial Accounting (Core)
+
+FALL TERM (15 credit hours)
+FIN 297.1: Investment Theory and Practice (Core)
+FIN 294.1: Advanced Corporate Finance (Core)
+B A 280S: Managerial Economics (Core)
+ACC 280K: Intermediate Accounting I (Core)
+B A 286T: Statistics (Core)
+FIN 294.17: Advanced Valuation and Financial Modeling (Core)
+B A 191.1: Practicum in Finance (Core)
+FIN 294: Valuation II
+
+SPRING TERM (15 credit hours)
+FIN 294.1: Advanced Corporate Finance II (Core)
+ACC 280K.7: Financial Statement Analysis (Core)
+B A 191.1: Practicum in Finance (Core)
+B A 191: Financial Statement Analysis II (Elective)
+ACC 280K: Intermediate Accounting II (Elective)
+B A 291.3: Principles of Commercial Real Estate (Elective)
+FIN 297.2: Portfolio Management and Security Analysis (Elective)
+FIN 294.11: Private Equity (Elective)
+FIN 294.8: Financial Strategies for Energy Firms (Elective)
+FIN 297.4: Financial Risk Management (Elective)
+FIN 294.2: Advanced Valuation for Consultants (Elective)
+FIN 294.7: Raising Capital (Elective)
+FIN 294.13: Valuation of Energy Investments (Elective)
+FIN 297.5: Fixed Income Analysis (Elective)
+B A 292E: Wealth Management (Elective)
+FIN 284F: AI & Portfolio Management (Elective)
+
+[[page 18]]
+Page 17 of 24
+
+[[page 19]]
+Page 18 of 24
+Addendum C: MSITM Curriculum
+Degree Requirements
+The Master of Science in Information Technology & Management (MSITM) Option III degree
+program is designed to teach rigorous and innovative content that will provide students with
+master's level knowledge, skills, and abilities in the field of IT. All courses indicated as core
+below are requirements for graduation. All Texas MSITM students are responsible for
+completing 36 hours of coursework without thesis or report.
+SUMMER TERM (6 credit hours)
+MIS 385N.9: Advanced Programming & App Development I (Core)
+MIS 385N.8: Design Methods (Core)
+
+FALL TERM (15 credit hours)
+MIS 285N: MIS285N Advanced Programming and App Development II (Core)
+MIS 382N: Fundamentals of Neural Networks/Machine Learning (Core)
+MIS 281N.28: Data Management (Core)
+MIS 285N: Mathematical Foundations of AI (Core)
+B A 385T: Financial Management (Core)
+MIS 385N: Problem Solving with Unstructured Data and Gen AI (Core)
+
+SPRING TERM (15 credit hours)
+MIS 385N.4: IT Capstone (Core)
+MIS 385N.3: Risk Governance in AI & Intellegent Automation (Core)
+MIS 285N.6: Strategic IT & Digital Transformation (Core)
+MIS 185N: Blockchain Solution Development Using Smart Contracts (Elective)
+MIS 185N: Data Governance and Responsible AI (Elective)
+MIS 185N: Managing Data Product for AI (Elective)
+MIS 285N: AI in the Enterprise (Elective)
+MIS 285N: Generative AI I (Elective)
+MIS 285N: Generative AI II (Elective)
+MIS 185N: Human Dimensions of Cybersecurity (Elective)
+MIS 285N: Financial Technology (Elective)
+MIS 285N: Product Management (Elective)
+MIS 285N: Project Management (Elective)
+MIS 185N: Technical Foundations of AI Driven Cybersecurity (Elective)
+*some courses are subject to change
+
+[[page 20]]
+Page 19 of 24
+
+[[page 21]]
+Page 20 of 24
+Addendum D: MSM Curriculum
+Degree Requirements
+The Master of Science in Marketing (MSM) Option III degree program is designed to teach
+rigorous and innovative content that will provide students with master's level knowledge, skills
+and abilities in the field of marketing. All Texas MSM students are responsible for completing
+the following requirements with a minimum of 36 credit hours in order to earn a Master of
+Science in Marketing. *All courses indicated as core below are requirements for
+graduation. The MS Marketing degree requires 2 hours of elective coursework in the Fall
+semester and 1 hour of elective coursework in the Spring semester. Courses subject to change.
+
+SUMMER TERM (9 credit hours)
+BA 381T: Marketing Management (Core)
+BA 385T: Financial Management (Core)
+MKT 382: Statistics for Marketing (Core)
+
+FALL TERM (14 credit hours)
+MKT 382: Data Analysis (Core)
+MKT 382.56: Marketing Analytics I (Core)
+MKT 282.55: Data Analytics & Dynamic Pricing (Core)
+MKT 282.57: Brand & Growth Strategy (Core)
+MKT 282.33: Design Thinking (Core)
+MKT 182.19: Clients, Consulting, & Communication (Elective)
+MKT 182: Consumer Well-Being (Elective)
+MKT 182: Data Visualization/Storytelling (Elective)
+MKT 182.20: Human Insights (Elective)
+MKT 182: Experimental Design (Elective)
+
+SPRING TERM (13 credit hours)
+MKT 282: Consumer Behavior(Core)
+MKT 382: Digital Marketing and Measurement (Core)
+MKT 282: Marketing Analytics II (Core)
+MKT 382: Marketing Intelligence Capstone (Core)
+MKT 282: Market Data & Demand Modeling (Elective)
+MKT 182: SQL (Elective)
+MKT 182: The Role of Marketing in Social Bias (Elective)
+MKT 182: AI in Marketing (Elective)
+MKT 182: Marketing Analytics III (Elective)
+
+[[page 22]]
+Page 21 of 24
+
+Handbook Acknowledgement
+
+I acknowledge that I have received a copy of the Texas Master of Science Programs Student
+Handbook, which describes important information regarding the program and understand that I
+should consult with program staff if I have questions.
+Since the information and policies described here are subject to change, I acknowledge that
+revisions to the Handbook may occur and that I will be notified should the program make any
+changes.
+I understand and agree that I have read and agree to comply with the policies contained in this
+Handbook and am bound by the provisions contained therein.
+Student Name (printed): Date:
+_________________________________________ _____________________________
+Student Signature:
+______________________________________________________________________________
+
+[[page 23]]
+Page 22 of 24
+THE UNIVERSITY OF TEXAS AT AUSTIN
+PHOTO/VIDEO RELEASE FORM
+
+For valuable consideration, I do hereby authorize The University of Texas at Austin, and those
+acting pursuant to its authority to:
+
+a) Record my participation and appearance on videotape, audiotape, film, photograph, or
+any other medium
+b) Use my name, likeness, voice, and biographical material in connection with these
+recordings
+c) Exhibit or distribute such recording in whole or in part without restrictions or limitation
+for any education or promotional purpose with which The University of Texas at Austin,
+and those acting pursuant to its authority, deem appropriate.
+
+I agree that a photocopy, scan, fax copy or digital image of this form shall have the full force
+effect of an original.
+
+Name:
+
+Address:
+
+Phone
+Number:
+
+Email address:
+
+Signature: __________________________ Date: _________________
+
+[[page 24]]
+Page 23 of 24
+THE UNIVERSITY OF TEXAS AT AUSTIN
+RELEASE AND INDEMNIFICATION AGREEMENT - Adult Student
+STUDENT: UT EID:
+Name (last name first - please print or type)
+
+Address
+
+City, State, Zip Code DESCRIPTION OF ACTIVITY OR TRIP: - Programming and Activities in and around the Austin, San Antonio, Dallas, or Houston Metro Areas.
+
+MODE OF TRANSPORTATION: Self-driven, school provided coach, and/or student carpool
+
+LOCATION(s) of activity or trip:
+
+DATE(s) of activity or trip: FROM July 1, 2026 TO June 1, 2027
+
+I, the above-named student, am eighteen years of age or older and have voluntarily applied to
+participate in the above Activity or Trip. I acknowledge that the nature of the Activity or Trip may expose
+me to hazards or risks that may result in my illness, personal injury or death and I understand and
+appreciate the nature of such hazards and risks.
+
+In consideration of my participation in the Activity or Trip, I hereby accept all risk to my health and of
+my injury or death that may result from such participation and I hereby release the University of Texas
+at Austin, its governing board, officers, employees and representatives from any and all liability to me,
+my personal representatives, estate, heirs, next of kin, and assigns for any and all claims and causes of
+action for loss of or damage to my property and for any and all illness or injury to my person, including
+my death, that may result from or occur during my participation in the Activity or Trip, whether caused
+by negligence of the University of Texas at Austin, its governing board, officers, employees, or
+representatives, or otherwise. I further agree to indemnify and hold harmless the University of Texas at
+Austin and its governing board, officers, employees, and representatives from liability for the injury or
+death of any person(s) and damage to property that may result from my negligent or intentional act or
+omission while participating in the described Activity or Trip.
+
+I HAVE CAREFULLY READ THIS AGREEMENT AND UNDERSTAND IT TO BE A RELEASE OF ALL CLAIMS AND CAUSES
+OF ACTION FOR MY INJURY OR DEATH OR DAMAGE TO MY PROPERTY THAT OCCURS WHILE PARTICIPATING IN
+THE DESCRIBED ACTIVITY OR TRIP AND IT OBLIGATES ME TO INDEMNIFY THE PARTIES NAMED FOR ANY
+LIABILITY FOR INJURY OR DEATH OF ANY PERSON AND DAMAGE TO PROPERTY CAUSED BY MY NEGLIGENT OR
+INTENTIONAL ACT OR OMISSION.
+
+Signature of Student Date Signed
+
+[[page 25]]
+page 1 | 3
+
+McCombs Career Management Code of Ethics
+
+INTRODUCTION
+Welcome to the McCombs Career Management Code of Ethics, a guide to ethical and professional conduct in
+recruiting at McCombs School of Business. This code outlines the expectations and responsibilities for
+students engaging in career development activities.
+
+McCombs Career Management & Corporate Relations (CMCR) facilitates recruiting interactions for students
+and companies, partnering with a diverse range of employers. Student participation in any in-person or
+virtual recruitment activities requires adherence to the McCombs Career Management Code of Ethics
+and acknowledgment of the McCombs Career Management Recruiting Agreement. Please familiarize
+yourself with the following guidelines to understand our expectations and your responsibilities as a student:
+
+STUDENT RESPONSIBILITIES & CAREER MANAGEMENT EXPECTATIONS
+
+1. Demonstrate Professionalism in All Recruiting Activities and Relationships:
+
+* Prepare for all recruiting activities and engagements by conducting thorough research on companies
+and industries.
+* Dress appropriately for each event, adhering to business professional or business casual attire as
+specified.
+* Arrive punctually to all events and interviews, demonstrating respect for staff and employers' time and
+resources.
+* Maintain professional communication etiquette in all interactions with recruiters, employers, and
+career management staff. (e.g., respond to every interview offer or offer of employment, whether you
+accept or reject it).
+
+2. Represent Yourself Authentically & Recruit with Genuine Intention:
+
+* Provide accurate and complete information on all career-related materials, including resumes and
+applications. This includes work eligibility, sponsorship status, GPA, and graduation date when listed.
+* Apply only for positions that align with career interests and qualifications to avoid reducing
+opportunities for peers. For interview practice, utilize Career Management staff and mock interview
+instead of real job interviews.
+* Report all job and internship offers promptly and accurately in RecruitMcCombs. Offer data is
+confidential and crucial for students, recruiters, administrators, and McCombs' rankings.
+
+3. Honor All Recruiting, Employment, and Academic Commitments:
+
+* Attend all scheduled events, workshops, and interviews, avoiding conflicts and cancellations
+unless genuinely unavoidable.
+* Stand behind your commitments after accepting an internship or job offer, including withdrawing
+from other opportunities and notifying relevant parties.
+* Understand that reneging, which involves accepting an offer and later withdrawing, is unethical
+and may result in significant consequences, including loss of career resources and damage to your
+professional reputation.
+* Schedule recruiting activities outside of class times. Missing class for recruiting is discouraged. If
+unavoidable, it is the student's responsibility to communicate to faculty in advance to make alternative
+arrangements, though approval is at the faculty's discretion.
+
+McCombs Career Management expects students to adhere to the outlined ethical principles and recruiting
+requirements. Recognizing that recruiting can present challenging situations, we encourage students to use
+CMCR resources and staff to navigate these professionally, thereby strengthening the McCombs community.
+
+[[page 26]]
+page 2 | 3
+
+Our team is equipped to assist with researching and negotiating job terms, evaluating multiple offers, and
+communicating with employers. Students with concerns about accepted offers should consult a Career Coach
+for guidance that upholds ethical standards and professional integrity.
+
+CONSEQUENCES FOR CODE OF ETHICS VIOLATIONS:
+
+Reneging (Full-time and Internship Offers) or Misrepresentation of Qualifications
+Access to the McCombs School of Business ecosystem offers unique advantages, including exclusive job
+opportunities, industry insights, and networking events. As such, violations have serious consequences.
+
+* 1st Offense: Loss of access to RecruitMcCombs including jobs and interviews, events, and employer
+contacts, for the remainder of the current semester and next long semester (e.g., fall, spring).
+* 2nd Offense: Permanent loss of access to RecruitMcCombs resources.
+* Additional Consequences: Submission of a Code of Ethics reflection paper and a required meeting
+with the Director of Career Education & Coaching for your program.
+* Further Implications of Reneging:
+o Damaged Relationships and Reputation: Reneging harms professional relationships with
+employers, damages your personal reputation, and negatively impacts the school's standing.
+o Reduced Opportunities for All: Employers may discontinue recruiting at McCombs due to
+reneging incidents, limiting future opportunities for all students.
+
+Late Cancellations or No Shows to Interviews
+Interviews are highly sought-after opportunities, and canceling without proper notification is disrespectful to
+peers and presents a negative image to employers. Valid documentation is required for unforeseeable
+cancellations. Failure to cancel or no-show may lead to loss of access to RecruitMcCombs and a meeting
+requirement with the Director of Career Education and Coaching. See full Interview Cancellation Policy for
+details.
+
+Please note, that if we receive information that a student has violated university policy they will be referred to
+The University of Texas at Austin - Student Conduct and Academic Integrity in the Office of the Dean of
+Students for review and potential future action.
+
+COMPLIANCE & APPEALS
+
+Compliance Process
+
+All students must review and comply with the McCombs Career Management Code of Ethics and acknowledge
+the Recruiting Agreement at the start of each academic year. Students should review the policy and seek
+clarifications from Career Management staff if needed. Please note that the Code of Ethics applies universally
+to all aspects of the career journey and recruitment process while you are a student at McCombs. As such, the
+above policies apply regardless of whether you secure an interview or job through RecruitMcCombs, the UT
+Austin Job Board, or an external source (e.g., LinkedIn, Indeed, networking, etc.).
+
+Appeals Process
+
+Please consult the Director of Career Education & Coaching for your program if you have questions regarding
+your individual circumstances or about penalties for policy violations.
+
+BBA: Morgan Medina, Director of BBA Career Education & Coaching
+MPA, MSBA, MSBA-WP , MSF, MSITM, MSM, MSTC: Denise Flores, Director of MPA & MS Career Education
+& Coaching
+
+Your dedication to the McCombs Career Management Code of Ethics is key to preserving our esteemed
+reputation and fostering an inclusive environment for all students. By embracing these principles, you uphold
+the highest standards of professionalism and ethical conduct, ensuring continued success and abundant
+opportunities for everyone in the McCombs community.
+
+[[page 27]]
+page 3 | 3
+
+McCombs Career Management Recruiting Agreement
+(Acknowledged via RecruitMcCombs)
+
+Student participation in any in-person or virtual recruitment activities requires adherence to the McCombs
+Career Management Code of Ethics.
+Acceptance of Employment Offers:
+
+I acknowledge that by accepting an offer of employment, whether verbally or otherwise, I am making a
+commitment to that offer. I agree to discontinue interviewing for other positions and promptly update my
+RecruitMcCombs profile with the details of my accepted offer. Additionally, I will inform all other employers
+with whom I have interviewed that I am no longer available for consideration.
+
+Accuracy of Information:
+
+I will provide employers, career management, and/or RecruitMcCombs with accurate information about my
+academic credentials, GPA, work eligibility, graduation date, work experience, and career interests on my
+resume and in any digital or in-person communication.
+
+Punctuality, Preparedness, and Professionalism:
+
+I pledge to arrive punctually and fully prepared for all scheduled events, workshops, and interviews, ensuring
+that I represent McCombs with professionalism during interactions with employers, alumni, and staff.
+
+If unable to attend, I will cancel my registration/interview on RecruitMcCombs and notify the employer or
+career management as soon as possible.
+
+Interviewing Integrity:
+
+I commit to interviewing for jobs and internships only when genuinely interested in joining the company.
+Understanding Consequences of Violations & Seeking Guidance:
+
+I understand that violating The McCombs Career Management Code of Ethics may result in consequences,
+including restricted access to RecruitMcCombs resources.
+
+I will seek clarification and guidance from Career Management as needed.
+By acknowledging this agreement in RecruitMcCombs, I affirm that I have read and agree to abide by the
+terms, conditions, and spirit of the McCombs Career Management Code of Ethics outlined above.

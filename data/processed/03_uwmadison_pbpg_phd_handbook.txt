@@ -1,0 +1,1181 @@
+[[page 1]]
+UNIVERSITY OF WISCONSIN-MADISON
+
+Academic Policies and
+Procedures Handbook
+Plant Breeding and Plant Genetics PhD
+
+http://plantbreeding.wisc.edu/current-students/program-requirements/
+
+For Students starting Fall 2020 or later
+
+[[page 2]]
+Disability Information ............................................................................................................................................. 25
+Table of Contents
+I. PROGRAM OVERVIEW .......................................................................................................................................... 1
+Intention of Handbook .............................................................................................................................................. 1
+Learning Outcomes ................................................................................................................................................... 1
+II. DOCTORAL DEGREE REQUIREMENTS ................................................................................................................... 2
+Degree Requirements ............................................................................................................................................... 2
+Suggested PhD Timeline ........................................................................................................................................... 2
+Graduate School Requirements ................................................................................................................................ 2
+Program Course Requirements................................................................................................................................. 2
+Minor requirements for PBPG PhD ........................................................................................................................... 3
+Major Professor and PhD Committee ....................................................................................................................... 4
+Certification .............................................................................................................................................................. 4
+Research Proposal .................................................................................................................................................... 5
+Preliminary Examination ........................................................................................................................................... 6
+Annual Review .......................................................................................................................................................... 7
+Examination and Review Procedures ....................................................................................................................... 7
+III. DOCTORAL MINOR (FOR STUDENTS OUTSIDE THE PROGRAM) ....................................................................... 9
+Plant Breeding and Plant Genetics Minor ................................................................................................................. 9
+IV. ENROLLMENT .................................................................................................................................................... 9
+V. SATISFACTORY PROGRESS - ACADEMIC EXPECTATIONS .................................................................................... 12
+V. SATISFACTORY PROGRESS - CONDUCT EXPECTATIONS ...................................................................................... 14
+Professional Conduct .............................................................................................................................................. 14
+Academic Misconduct ............................................................................................................................................. 15
+Non-Academic Misconduct ..................................................................................................................................... 16
+Research Misconduct .............................................................................................................................................. 17
+VI. DISCIPLINARY ACTION AND DISMISSAL .......................................................................................................... 18
+VII. GRIEVANCE PROCEDURES & REPORTING MISCONDUCT AND CRIME ............................................................ 19
+VIII. ACADEMIC EXCEPTION PETITION.................................................................................................................... 22
+IX. PROFESSIONAL DEVELOPMENT AND CAREER PLANNING .............................................................................. 24
+Travel to Meetings and Conferences ...................................................................................................................... 24
+Campus-wide Resources for Professional Development ........................................................................................ 24
+X. STUDENT HEALTH AND WELLNESS ..................................................................................................................... 24
+Securing Health Insurance Coverage ...................................................................................................................... 25
+
+[[page 3]]
+Disability Information ............................................................................................................................................. 25
+
+Mental Health Resources On and Off Campus ....................................................................................................... 25
+ADDITIONAL INFORMATION FOR INTERNATIONAL STUDENTS .................................................................................. 25
+International Student Services (ISS) ....................................................................................................................... 26
+Student Visas .......................................................................................................................................................... 26
+Funding for International Students ........................................................................................................................ 26
+
+[[page 4]]
+1
+I. PROGRAM OVERVIEW
+
+Intention of Handbook
+This handbook is intended for graduate students who are pursuing a doctoral degree in Plant Breeding and Plant
+Genetics. The UW-Madison Graduate School is the ultimate authority for granting graduate degrees at the
+University. The Program in Plant Breeding and Plant Genetics administers a graduate degree program under the
+authority of the Graduate School. The Graduate School's Academic Policies and Procedures provide essential
+information regarding general University requirements. Program authority to set degree requirements beyond the
+minimum required by the Graduate School lies with the PBPG program faculty. The policies described in this
+handbook have been approved by the program faculty as a whole. Degrees and course requirements may change
+over time. However, students must meet the degree and course requirements in effect when they entered the
+program. In addition, administrative procedures and processes can change over time. Students are required to
+follow the procedures and processes listed in the current handbook. The information in this handbook should also
+be supplemented by individual consultation with your advisor and committee so that individual needs/interests
+and all degree requirements are met. Additional information is available via the Department's Web page.
+Students may also wish to consult the Graduate School's Web page.
+
+Learning Outcomes
+Knowledge and Skills Learning Goals
+* Articulates research problems, potentials, and limits with respect to knowledge within the field of plant
+breeding and plant genetics.
+* Formulates ideas, concepts, designs, and/or techniques beyond the current boundaries of knowledge
+within the field of plant breeding and plant genetics.
+* Creates research that makes a substantive contribution to the field of plant breeding and plant genetics.
+* Communicates complex ideas in a clear and understandable manner.
+
+Professional Conduct Learning Goals
+* Recognizes and applies principles of ethical and professional conduct.
+
+[[page 5]]
+2
+II. DOCTORAL DEGREE REQUIREMENTS
+Degree Requirements
+* A total of 51 credits of coursework and research
+o 11 credits of coursework from the Core Curriculum, including at least 2 credits in each of Sections
+A B and C.
+o 3 credits of Plant Breeding seminar (With committee approval, 1cr may be in another graduate
+level seminar class)
+o Minimum of 17 credits total coursework (not research credit)
+* Certification Form
+* Qualifying Exam
+* Research Proposal
+* Preliminary Exam
+* Final Oral Exam
+* Dissertation
+
+Suggested PhD Timeline
+First Year Coursework/Research, Form PhD Committee, Certification Meeting
+Second Year Coursework/Research, Research Proposal Presentation
+Third Year Coursework/Research, Preliminary Exam
+Fourth Year Complete research & dissertation; Exit seminar and final defense Fifth Year
+
+Graduate School Requirements
+* The Graduate School has three requirements for total coursework completed post-baccalaureate
+o MINIMUM GRADUATE DEGREE CREDIT REQUIREMENT - PhD students must complete at least 51
+credits: http://grad.wisc.edu/acadpolicy/#minimumgraduatedegreecreditrequirement
+
+o MINIMUM GRADUATE COURSEWORK (50%) REQUIREMENT - PhD students must complete at
+least 26 graduate credits (courses numbered 700-level or above or courses noted as such
+numbered 300-699 in the course guide). For PBPG students, a minimum 17 credits of coursework
+(no research credits) with a minimum of 11 credits selected from the Core Curriculum with at
+least 2 credits in each of Sections A, B, and C. In addition, 3 credits of Plant Breeding Seminar are
+required: http://grad.wisc.edu/acadpolicy/#minimumgradcourseworkrequirement
+
+o MINIMUM GRADUATE RESIDENCE CREDIT REQUIREMENT -PhD students must complete at least
+32 credits for their degree at UW-Madison:
+http://grad.wisc.edu/acadpolicy/#minimumgraduateresidencecreditrequirement
+
+* Students who wish to use prior coursework towards their doctoral degree must follow all of the rules
+outlined by the graduate school: https://policy.wisc.edu/library/UW-1216
+
+Program Course Requirements
+* Rectifying Admission Deficiencies - Any deficiencies identified in the student's background course work by
+their PhD Committee will be listed on the certification form, and must be made up during the first 2 years
+of graduate study.
+
+[[page 6]]
+3
+* General Course Requirements - All PhD students in PBPG must satisfy the following general course
+requirements. These requirements can be satisfied by coursework completed while the student was an
+undergraduate or enrolled in another graduate program.
+
+o Physical Sciences
+* Courses in each of the following
+1. Two semesters of general chemistry
+2. One course in statistics
+3. At least two courses in the following three areas:
+a. Physics, including electricity, heat, and light
+b. Calculus (differential and integral)
+c. Organic chemistry lecture
+o Biological Sciences
+* Four courses distributed among three of the following areas:
+1. Biochemistry
+2. Genetics
+3. Structure and/or function of organisms
+4. Population or ethology of organisms
+
+* Program Requirements - The Graduate School requires at least 51 credits for the PhD, of which at least
+50% (26 credits) must be from courses designed for graduate work (courses numbered 700-level or above
+or courses noted as such numbered 300-699 in the course guide), courses listed in the PBPG Core
+Curriculum at the end of this document, and research (990) credits. A cumulative GPA of 3.00 or greater is
+required for all coursework.
+
+* Specific Course Requirements - PhD students in PBPG are required to complete coursework in specific
+areas. At least two credits are required from each of sections A (plant breeding), B (genetics and
+molecular biology), and C (quantitative genetics and biometry). At least 11 credits must be taken from the
+course table (sections A, B, C, and D). Additional graduate-level credits (course numbers 700 and above;
+some courses between 300 - 699 meet the graduate coursework requirement - refer to Course Guide)
+totaling 17 or more can be taken to best meet the individual student's needs and interests. This
+coursework for the PhD degree must be graded (no pass-fail or satisfactory-unsatisfactory). Final
+determination of a student's required coursework is made by the student's PhD Committee as part of the
+certification process.
+
+* Seminar Requirement - PhD students are required to present a minimum of 3 seminars in advanced
+seminar courses and obtain a passing grade for that class. Formal seminar classes offered by departments
+or programs other than PBPG may be used to satisfy 1cr of this requirement with approval from the
+student's PhD committee.
+
+Minor requirements for PBPG PhD
+Minor Option A (External): Requires a minimum of 9 credits in a minor program (single disciplinary or multi-
+disciplinary). Fulfillment of this option requires the approval of the minor program.
+
+Minor Option B (Distributed): Requires a minimum of 9 credits in one or more programs forming a coherent topic,
+and can include coursework in the program. Because coursework for the PhD degree in PBPG covers more than
+one area of study, the distributed minor in PBPG requires no additional coursework. Fulfillment of this option is
+documented when the student completes certification for the PhD coursework and no additional documentation
+
+[[page 7]]
+4
+is required.
+
+Minor Option C (Certificate): Requires successful completion of a Graduate/Professional certificate in a program outside
+of the student's doctoral major program. This option is effective for students who become dissertators in Fall 2021 or
+later.
+
+You must declare your minor in your grad portal, this includes the distributed minor. The minor must be added before
+you request your prelim warrant. https://grad.wisc.edu/documents/change-program/
+
+Graduate School minor policies can be found here: https://policy.wisc.edu/library/UW-1200
+
+Major Professor and PhD Committee
+* Major Professor - Every graduate student must have a faculty advisor (Major Professor) who is a member
+of the PBPG faculty. The Major Professor advises the student about course work and supervises the
+student's research. The major professor must approve the student's coursework and research direction.
+
+* PhD Committee - A PhD Committee is composed of at least 4 members, the major professor and three
+more. The Graduate School requires that at least three committee members are designated as readers.
+Readers are committee members who commit themselves to closely reading and reviewing the entire
+dissertation. The committee is empowered by the Program to advise and evaluate the student with
+regards to certification, administer the preliminary examination, oversee progress meetings, approve
+thesis composition, and conduct the final PhD examination.
+The student, in consultation with their Major Professor(s), should select three (more commonly 4)
+additional members to serve on their PhD Committee prior to the end of the second semester of graduate
+study in order to convene a meeting to discuss the student's coursework and plan for certification.
+Certification is the process by which the PhD Committee certifies that the student has completed the
+formal coursework requirements of the PhD. This coursework plan must be approved by the student's PhD
+Committee, and for this reason it is important for the student to convene a meeting of their PhD
+committee prior to the end of their second semester so that additional courses suggested by the
+committee may be taken during the student's second year of graduate study.
+The committee must be comprised of at least four members representing more than one UW-Madison
+graduate program. Affiliate appointments may be used to satisfy this requirement. Students choosing
+Minor Option A typically include their minor professor as a member of their PhD Committee. It is the
+student's responsibility to seek and obtain (verbal) approval from the faculty members selected to serve
+on this committee.
+o Graduate school committee policy can be found here https://policy.wisc.edu/library/UW-1201
+
+Graduate school guidelines for PhD Committees
+For doctoral committees/final oral examination committees:
+1. The chair or one of the co-chairs of the committee must be graduate faculty1 from the student's
+program.4,5
+2. The committee must have at least four members. The committee must have members from at least
+two University of Wisconsin-Madison graduate programs.3,5
+
+[[page 8]]
+5
+3. Three of the committee members must be UW-Madison graduate faculty or former UW-Madison
+graduate faculty up to one year after resignation or retirement.
+4. At least three committee members must be designated as readers.6
+5. The fourth member and any additional members may be from any of the following categories, as
+approved by the program executive committee (or its equivalent): graduate faculty, faculty from a
+department without a graduate program1, academic staff2 (including emeritus faculty), visiting faculty,
+faculty from other institutions, scientists, research associates, and other individuals deemed qualified by
+the executive committee (or its equivalent).
+6. All committee members have voting rights. To receive a doctoral degree, students cannot receive
+more than one dissenting vote from their committee on the final degree warrant.
+
+Certification
+* The student's PhD Committee should be convened prior to the beginning of the student's third semester
+of study in order to establish the student's program of required coursework and discuss their research
+project. The major professor and at least 2 of the 4 other committee members must be present. In the
+event that a faculty member should miss this meeting, the student must contact that faculty member as
+soon as possible for an individual reprise of the meeting's content and to obtain the requisite signatures.
+The completed Certification Form should be distributed to the PhD Committee at least one week prior to
+this committee meeting. The Certification Form is a written document that details the student's progress
+towards completing the coursework requirements for their degree. This document should list the classes
+that have already been completed by the student as well as those that still need to be completed. If the
+committee is satisfied that the student's planned program of coursework meets all university and
+departmental requirements for the PhD degree, then the committee will sign the student's Certification
+Form. A student cannot take their preliminary examination until they have a completed Certification Form
+that has been signed by all the members of their PhD committee and filed with Program staff.
+
+[[page 9]]
+6
+Research Proposal
+* The student must prepare a written document describing the research that they propose to perform for
+their PhD thesis and present it to their PhD Committee for approval.
+
+* Presentation of the Research Proposal. The student should convene a meeting of their PhD Committee to
+discuss the research proposal. At this meeting the student will give an oral presentation describing their
+proposed research project. This presentation should last no more than thirty minutes, and it will be
+followed by a period of oral questioning by the PhD committee. The objective of this discussion is to
+provide the student with constructive feedback on their proposed research plan, not to test the student's
+breadth of knowledge in the field of PBPG. The completed written proposal must be distributed to the
+PhD Committee at least one week prior to this committee meeting.
+
+* Timing. The student should complete their Research Proposal prior to the end of their second year of
+graduate study
+
+* Recommended Format for Research Proposal. The suggested length of the proposal is 10-20 pages of
+double-spaced text (12 pt. font), excluding title page, figures, and references; however this can vary
+according to the discretion of the major professor. The research proposal should include the following
+sections:
+o Title: Should be short and informative.
+
+o Summary: In one page, define the problem and state the objectives of the proposed research.
+Include a brief description of the experimental approaches to be used and indicate why the
+expected results should represent a significant advance in the field.
+
+o Background: Review current knowledge in the field that is relevant to the proposed research plan.
+The student should convey how the research proposal represents a logical and important
+extension of current knowledge. This section should demonstrate familiarity with, and critical
+analysis of, the literature in the area. Confine this section to 2-4 pages. The "Proposed Research"
+section should flow naturally from the final paragraph of this section. Proposed Research: One
+might begin this section by stating the specific aims of the project and how they relate to the
+broader questions that the proposal addresses. Subsequently, describe how you propose to
+approach each specific aim. Explain the objectives and rationale of the designed experiments, the
+results you expect from the experiments, and how the results will be interpreted. Include here (or
+in a separate section before the Proposed Research) any preliminary data. Be as specific as
+possible about how you will do an experiment, but realize that details can be elaborated upon
+orally during the committee meeting. Discuss the problems inherent to the experimental
+approach, and alternate approaches you might try if one approach fails. From the results you
+anticipate, what new experiments will follow? Indicate what specific aims are dependent upon
+successful resolution of earlier objectives, and which are independent. Indicate the priority you
+think should be devoted to each objective. This should be the major section of the proposal,
+perhaps 6-8 pages.
+
+[[page 10]]
+7
+o Possible Extensions and Importance (Optional): In one or two paragraphs, you may wish to
+indicate new approaches or important extensions that might stem from the proposed research.
+You might, for example, discuss the more speculative ramifications of the research or suggest
+experiments that may be too broad in scope for one person to accomplish.
+
+o Priorities / Timeline: You should define the order in which you plan to pursue the proposed
+experiments and how long you expect each stage of the research to take.
+
+Preliminary Examination
+* Preliminary Warrant - At least three weeks prior to the oral Preliminary Examination, the student must
+contact the Student Services Coordinator to request a warrant. After a successful Preliminary
+Examination, a student's PhD Committee will sign this warrant. Only after the warrants are completed
+and filed with the Graduate School, is a student "certified for the PhD" and eligible for registration as a
+dissertator. Dissertator eligibility deadlines can be found here:
+https://grad.wisc.edu/currentstudents/degreedeadlines/
+
+Written Qualifying Exam
+The Qualifying Exam is designed to test student understanding of broad concepts and core principles of
+Plant Breeding and Plant Genetics. Students will normally take the exam after taking courses in Plant
+Breeding (for example Hort/Agron 501), Plant Genetics (for example Genetics 631), and Statistics (for
+example Stat 572 or Agron 771), as well as completing the general requirements listed on the certification
+form. The exam will be administered on a single day in January during the week prior to the start of the
+spring semester. Students must attempt the qualifying exam within the first two years of enrolling in the
+PhD program. The exam will be written and graded by a committee of three PBPG faculty appointed by the
+chair of the program.
+
+Oral Preliminary Exam
+The Preliminary Exam allows the student's thesis committee to critique their research proposal and test the
+student's knowledge base for the proposed research. The student will submit a written proposal two weeks
+before the exam and deliver an oral presentation of the proposal at the beginning of the exam. It is
+expected that the student will meet with their committee to discuss a draft of the research proposal soon
+after passing the qualifying exam, to allow for committee input on the proposal before the formal exam.
+The preliminary exam will consist of questions related directly to the proposal, as well as questions related
+to the student's depth of knowledge in the specific topic areas addressed by their thesis research.
+
+* Dissertator Status. Dissertator is a unique fee status for students who have completed all requirements
+for a doctoral degree except for the dissertation. To be eligible for dissertator fee status, a student must:
+o Pass the preliminary examination(s);
+o Satisfy the doctoral minimum graduate residence credit requirement;
+o Complete all minor requirements, if the major program requires a minor;
+o Complete all program requirements except the dissertation;
+o Clear all Incomplete grades or Progress grades in non-research courses (progress grades in 990
+research may remain);
+o Earn at least a 3.0 cumulative graduate GPA;
+o Return the signed and dated preliminary exam warrant to the Graduate School.
+* Dissertator status is effective at the start of the semester following completion of all dissertator
+requirements for the doctoral degree except for the dissertation. In order to initiate the change to
+
+[[page 11]]
+8
+dissertator status, the prelim warrant must be sent to the Graduate School in a timely fashion. Students
+can check on dissertator status by contacting the graduate program coordinator.
+https://grad.wisc.edu/acadpolicy/#dissertationstatus
+
+Annual Review
+* Students should convene a meeting of their PhD Committee at least once each academic year that they
+are enrolled in the PhD program. Committee meetings that are convened to address Certification, the
+Research Proposal, and the Preliminary Exam satisfy this requirement for the academic year during which
+they are held.
+
+Examination and Review Procedures
+* Guide to Preparing Your Doctoral Dissertation - Visit this website to learn about the final steps of
+completing your degree: https://grad.wisc.edu/current-students/doctoral-guide/
+
+* PhD Warrant - At least three weeks prior to the anticipated Final Oral Exam date, the student must
+contact the Student Services Coordinator to request a warrant. A warrant is a document issued to your
+program by the Graduate School at your program's request after you have met all degree requirements.
+Warrants are valid for one semester, and are signed by your advisor and your committee. By signing the
+warrant, programs indicate that all program degree requirements have been met. If the Graduate School
+does not have your warrant with appropriate signature(s), you will not graduate. NOTE: If your program
+has signed and returned your warrant to the Graduate School, and you receive an Incomplete or Progress
+grade at the end of the semester, or you deposit your thesis after the degree deadline, you will receive
+your degree during the following semester when your grade is cleared or your thesis is deposited.
+
+* Dissertation - Students are expected to carry out significant, original research project during the entire
+period of their PhD training and to write a dissertation based on research. The dissertation must be
+
+[[page 12]]
+9
+formatted according to the guidelines of the Graduate School, present evidence of a substantial
+experimental effort by the student, and reflect a strong intellectual contribution that meets all standards
+set by the student's PhD Committee. If the work is the result of collaborative enterprises, the writing must
+clearly define those portions representing the student's own contribution. The dissertation must also
+include a substantive review of literature relevant to the project. It should be written with a high level of
+literary skill, such as would be found in leading journals in that research area.
+
+The dissertation must be completed and distributed to the members of the student's PhD Committee not
+less than two weeks before the date of the Final Oral Examination.
+
+After successful completion of the Final Oral Exam, a fully corrected and complete copy of your
+dissertation must be deposited with the Graduate School. Students are responsible for all costs associated
+with depositing their dissertation. Students are also responsible for knowing and meeting all dissertation
+filing deadlines for degree completion. The Graduate School web site provides clear instructions for
+preparing your dissertation for deposit.
+
+Information about preparing your Doctoral Dissertation can be found here:
+https://grad.wisc.edu/current-students/doctoral-guide/
+
+* Final Oral Exam - The final oral examination deals primarily with the dissertation content. A student takes
+the final exam only after all other degree requirements have been satisfied. PhD students must present a
+final oral seminar on their PhD dissertation research. Within PBPG, students traditionally begin their oral
+exam with a public seminar summarizing their research accomplishments. The seminar should consist of a
+40 minute lecture and a 10 minute public question/answer period. The seminar is not graded. Afterwards,
+the student meets with their PhD Committee and responds to oral questions. The Major Professor can
+take part in the questioning, but should not actively steer the discussion or defend the research. The oral
+examination usually lasts at least 2 hours, or until the committee is satisfied with their individual
+evaluations. The student is then excused, and after deliberation, the committee members decide whether
+or not to endorse the degree completion by signing the PhD Warrant.
+
+To pass the final examination, a student must receive no more than one dissenting vote from their PhD
+Committee. A missing signature on the Warrant is considered a dissent. At the discretion of the student's
+PhD Committee, a student may repeat a failed final exam once. Failure of the final examination two times
+will result in the student being dropped from the Program
+
+[[page 13]]
+10
+III. DOCTORAL MINOR (FOR STUDENTS OUTSIDE THE PROGRAM)
+Plant Breeding and Plant Genetics Minor
+* Requirements:
+o 10 credits of coursework, including at least 2 credits in Section A and at least 2 credits from
+another area in the Core Curriculum
+o 2 credits of Plant Breeding Seminar (Agronomy/Horticulture 957)
+o A minimum of 12 credits total coursework (not research credits)
+o An average GPA of 3.00 on all minor coursework
+
+* Procedure:
+o To declare the minor in PBPG, please contact the PBPG chair to schedule a meeting.
+
+IV. ENROLLMENT
+
+Summer Graduate Student Enrollment Chart
+
+*Summer enrollment requirements: Students must be enrolled at UW-Madison if they are using university
+facilities, including faculty and staff time.
+
+ENROLLMENT TYPES PHD PRE-DISSERTATOR PHD DISSERTATOR
+Unfunded - not graduating Not required*# Not required*#
+Unfunded - graduating 2 credits minimum# in any summer
+session unless an international student,
+they must enroll in the 8 week (DHH)
+session
+3 credits in the 8 week (DHH)
+session
+International student regardless of
+funding
+4 cr. when summer is admit
+semester (2 cr. when summer is
+admit semester and student holds
+RA appointment or at least 33%
+TA or PA appointment)
+N/A
+RA or 12 month fellowship 2 credits minimum in the 8 week
+(DHH) session
+3 credits in the 8 week (DHH)
+Session
+33.33% TA or PA Not required Not required unless receiving
+summer degree, 3 credits
+50% TA or PA Not required Not required unless receiving
+summer degree, 3 credits
+funded through another
+department/program
+Check with that department Check with that department
+Other or uncertain Check with the Student Services
+Coordinator
+Check with the Student
+Services Coordinator
+#this does not qualify as "full time enrollment," full time enrollment for PhD Pre- dissertator when unfunded is 4 credits
+minimum in the 8 week (DHH) session, for dissertators full time enrollment is always 3 credits
+
+[[page 14]]
+11
+For all MS students, the maximum summer enrollment is 12 credits, however the credit total cannot exceed the
+number of weeks in the session, for example you cannot enroll for 9 credits in an 8-week session.
+
+A valid enrollment minimum does not count the following types of courses
+
+* courses numbered below 300
+
+* courses taken pass/fail
+
+* audited courses
+
+Fall & Spring Graduate Student Enrollment Chart
+
+ENROLLMENT TYPES PHD PRE-DISSERTATOR PHD DISSERTATOR
+Domestic unfunded 2 credits minimum* 3 credits
+International students regardless of
+funding
+8 credits minimum (unless you have
+an exception from ISS)
+3 credits
+RA or fellowship 8 credits minimum 3 credits
+33.33% TA or PA 6 credits minimum 3 credits
+50% TA or PA 4 credits minimum 3 credits
+Funded through another
+department/program
+Check with that department 3 credits
+Other or uncertain Check with the Student Services
+Coordinator
+3 credits
+*this does not qualify as "full time enrollment," full time enrollment for PhD Pre- dissertator when unfunded is 8 credits
+minimum
+
+For all Phd Pre-dissertator students the maximum enrollment is 15 credits
+A valid enrollment minimum does not count the following types of courses
+* courses numbered below 300
+* courses taken pass/fail
+* audited courses
+
+The above information was taken from the Graduate School's Academic Policies and Procedures website which
+can be found online at: https://grad.wisc.edu/acadpolicy/.
+
+Additional resources:
+
+Enrollment Requirements
+grad.wisc.edu/acadpolicy/#EnrollmentRequirements.
+
+[[page 15]]
+12
+Auditing Courses
+grad.wisc.edu/acadpolicy/#auditingcourses.
+
+Continuous Enrollment
+grad.wisc.edu/acadpolicy/#continuousenrollmentrequirement.
+
+Transfer of Graduate Work from Other Institutions
+grad.wisc.edu/acadpolicy/#transferofgraduateworkfromotherinstitutions
+
+[[page 16]]
+13
+V. SATISFACTORY PROGRESS - ACADEMIC EXPECTATIONS
+
+The Graduate School requires that students maintain a minimum graduate GPA of 3.00 in all graduate-level work
+(300 or above, excluding research, audit, credit/no credit, and pass/fail courses) taken as a graduate student
+unless probationary admission conditions require higher grades. The Graduate School also considers Incomplete
+(I) grades to be unsatisfactory if they are not removed during the subsequent semester of enrollment; however,
+the instructor may impose an earlier deadline.
+A student may be placed on probation or suspended from the Graduate School for low grades or for failing to
+resolve incompletes in a timely fashion. (grad.wisc.edu/acadpolicy/#probation )
+In special cases the Graduate School permits students who do not meet these minimum standards to continue on
+probation upon recommendation and support of their advisor.
+The Plant Breeding and Plant Genetics Program requires satisfactory progress to continue guaranteed funding
+support. grad.wisc.edu/acadpolicy/#satisfactoryprogress
+
+PLANT BREEDING AND PLANT GENETICS
+Minimum Degree Requirements and Satisfactory Progress
+To make progress toward a graduate degree, students must meet the Graduate School Minimum Degree Requirements and
+Satisfactory Progress in addition to the requirements of the program.
+
+Doctoral Degree:
+Ph.D.
+
+Minimum Graduate Degree Credit Requirement
+51 credits
+
+Minimum Graduate Residence Credit Requirement
+32 credits
+
+Minimum Graduate Coursework (50%) Requirement
+Half of degree coursework (26 out of 51 total credits) must be in graduate-level coursework; courses with the Graduate Level
+Coursework attribute are identified and searchable in the university's Course Guide.
+
+Prior Coursework Requirements: Graduate Work from Other Institutions
+With program approval, students are allowed to count no more than 9 credits of graduate coursework from other institutions.
+coursework earned ten years or more prior to admission to a doctoral degree is not allowed to satisfy requirements.
+Prior Coursework Requirements: UW-Madison Undergraduate
+No credits from a UW-Madison undergraduate degree are allowed to count toward the degree.
+Prior Coursework Requirements: UW-Madison University Special
+With program approval, students are allowed to count no more than 9 credits of coursework numbered 300 or above taken as a
+UW-Madison University Special student. Coursework earned ten or more years prior to admission to a doctoral degree is not
+allowed to satisfy requirements.
+
+Credits per Term Allowed
+15 credits
+
+[[page 17]]
+14
+
+Program-Specific Courses Required
+Contact program for list of specific courses.
+
+Overall Graduate GPA Requirement
+3.00 GPA required
+
+Other Grade Requirements
+Ph.D. candidates should maintain a 3.0 GPA in all core curriculum courses and may not have any more than two Incompletes on
+their record at any one time.
+
+Probation Policy
+A semester GPA below 3.0 will result in the student being placed on academic probation. If a semester GPA of 3.0 is not attained
+during the subsequent semester of full time enrollment (or 12 credits of enrollment if enrolled part-time) the student may be
+dismissed from the program or allowed to continue for one additional semester based on advisor appeal to the Graduate School.
+
+Advisor / Committee
+Students are recommended to convene a yearly progress report meeting with their thesis committee after passing the preliminary
+examination.
+
+Assessments and Examinations
+Doctoral students must pass both the oral preliminary and final thesis exams.
+
+Time Constraints
+A candidate for a doctoral degree who fails to take the final oral examination and deposit the dissertation within five years after
+passing the preliminary examination may by require to take another preliminary examination and to be admitted to candidacy a
+second time.
+
+Doctoral degree students who have been absent for ten or more consecutive years lose all credits that they have earned before
+their absence. Individual programs may count the coursework students completed prior to their absence for meeting program
+requirements; that coursework may not count toward Graduate School credit requirements.
+
+Language Requirements
+No language requirements.
+
+A student's failure to comply with the above mentioned expectations for satisfactory progress may result in
+disciplinary action or dismissal. Continuation in the Graduate School is at the discretion of a student's program,
+the Graduate School, and a student's faculty advisor.
+
+[[page 18]]
+15
+V. SATISFACTORY PROGRESS - CONDUCT EXPECTATIONS
+
+Professional Conduct
+All students are expected to adhere to the highest standards of professional behavior and ethics. Students should
+avoid even an appearance of improper behavior or lack of ethical standards while in Graduate School at UW-
+Madison, in all professional settings, and in their personal lives. Students should conduct themselves according to
+the standards expected of members of the profession to which the student aspires. Concerns about infractions of
+Professional Conduct may be effectively handled informally between the instructor/advisor and the student. If a
+resolution is not achieved, a graduate program representative may be included in the discussion. Separate and
+apart from a violation of Professional Conduct, a student may face University disciplinary action with regard to the
+same action. Students are responsible for reading the information here as well as the information published on all
+the relevant web sites. Lack of knowledge of this information does not excuse any infraction.
+
+1. Professional Ethics: Students shall show respect for a diversity of opinions, perspectives and cultures;
+accurately represent their work and acknowledge the contributions of others; participate in and commit
+to related opportunities; aim to gain knowledge and contribute to the knowledge base of others;
+understand the UW Student Code of Conduct; represent their profession and the program; and strive to
+incorporate and practice disciplinary ideals in their daily lives. Resumes/CVs must reflect accurate
+information.
+
+2. Honesty and Integrity: Students shall demonstrate honesty and integrity as shown by their challenging of
+themselves in academic pursuits; honesty and ethics in research and IRB applications-including honesty
+in interpretation of data, commitment to an unbiased interpretation of academic and professional
+endeavors; and the need to document research activities, protect subject/client confidentiality and HIPPA
+regulations. Students shall follow-through and pull their weight in group activities and understand where
+collaboration among students is or is not allowed; not plagiarize others or past work (self-plagiarism),
+cheat, or purposefully undermine the work of others; and avoid conflicts of interest for the duration of
+their time in the program. As a professional, honesty and integrity also extends to personal behavior in
+life outside of the academic setting by realizing that students are representatives of the program, UW-
+Madison, and the profession as a whole.
+
+3. Interpersonal and Workplace Relationships: Students shall interact with peers, faculty, staff and those
+they encounter in their professional capacity in a manner that is respectful, considerate, and professional.
+This includes and is not limited to attending all scheduled meetings, honoring agreed upon work
+schedules, being on-time and prepared for work/meetings, contributing collaboratively to the team,
+keeping the lines of communication open, offering prompt response to inquiries, and employing
+respectful use of available equipment/technology/resources. Chronic or unexplained absences are
+unprofessional in the workplace and could be grounds for termination or removal of funding. To facilitate
+the free and open exchange of ideas, any criticism shall be offered in a constructive manner, and the right
+of others to hold different opinions shall be respected.
+
+4. Commitment to Learning: Students are expected to meet their educational responsibilities at all times.
+Be actively prepared for class and be ready for questions and answers. Be on time for every class and
+always show courtesy during class or if you have to leave class early. If possible, students should notify the
+instructor at least one day in advance of a planned absence. Students who are unable to attend class are
+responsible for finding out what occurred that day and should not expect instructors to give them
+individual instruction. Recognizing that the pursuit of knowledge is a continuous process, students shall
+show commitment to learning by persevering despite adversity and seeking guidance in order to adapt to
+change. Students shall strive for academic excellence and pursue and incorporate all critique, both
+
+[[page 19]]
+16
+positive and negative, in the acquisition of knowledge in order to understand and respect the community
+in which they work.
+
+5. Professional Appearance: Students shall convey a positive, professional appearance in order to represent
+the program in a dignified manner. Appearance includes a person's dress, hygiene, and appropriate
+etiquette/protocols for the environment (including safety protocols and protective clothing in
+environments that require them).
+
+This graduate program, the Graduate School, and the Division of Student Life all uphold the UW-System policies
+and procedures in place for academic and non-academic misconduct. In addition, graduate students are held to
+the same standards of responsible conduct of research as faculty and staff. Furthermore, unprofessional
+behavior towards clients/subjects, faculty, staff, peers and public are significant issues in the evaluation and
+promotion of students. In turn, we hold expectations for the highest level of academic integrity and expect
+professional, ethical, and respectful conduct in all interactions. Students may be disciplined or dismissed from the
+graduate program for misconduct or disregard for professional conduct expectations regardless of their academic
+standing in the program. Separate and apart from a violation of Professional Conduct, a student may face
+University disciplinary action with regard to the same action. Students are responsible for reading the information
+here as well as the information published on all the relevant web sites. Lack of knowledge of this information does
+not excuse any infraction.
+
+Academic Misconduct
+Academic misconduct is an act in which a student (UWS 14.03(1)):
+1. seeks to claim credit for the work or efforts of another without authorization or citation;
+2. uses unauthorized materials or fabricated data in any academic exercise;
+3. forges or falsifies academic documents or records;
+4. intentionally impedes or damages the academic work of others;
+5. engages in conduct aimed at making false representation of a student's academic performance; or
+6. assists other students in any of these acts.
+
+Examples of academic misconduct include but are not limited to:
+1. cutting and pasting text from the Web without quotation marks or proper citation;
+2. paraphrasing from the Web without crediting the source;
+3. using notes or a programmable calculator in an exam when such use is not allowed;
+4. using another person's ideas, words, or research and presenting it as one's own by not properly crediting
+the originator;
+5. stealing examinations or course materials;
+6. changing or creating data in a lab experiment;
+7. altering a transcript;
+8. signing another person's name to an attendance sheet;
+9. hiding a book knowing that another student needs it to prepare for an assignment;
+10. collaboration that is contrary to the stated rules of the course; or
+11. tampering with a lab experiment or computer program of another student.
+
+Additional information regarding Academic Misconduct:
+Graduate School Policy & Procedure: Misconduct, Academic: grad.wisc.edu/acadpolicy/#misconductacademic
+
+[[page 20]]
+17
+University of Wisconsin System: Chapter UWS 14: Student Academic Disciplinary Procedures:
+https://docs.legis.wisconsin.gov/code/admin_code/uws/14.pdf
+
+Non-Academic Misconduct
+The university may discipline a student in non-academic matters in the following situations:
+
+1. for conduct which constitutes a serious danger to the personal safety of a member of the university
+community or guest;
+2. for stalking or harassment;
+3. for conduct that seriously damages or destroys university property or attempts to damage or destroy
+university property, or the property of a member of the university community or guest;
+4. for conduct that obstructs or seriously impairs university-run or university-authorized activities, or that
+interferes with or impedes the ability of a member of the university community, or guest, to participate in
+university-run or university-authorized activities;
+5. for unauthorized possession of university property or property of another member of the university
+community or guest;
+6. for acts which violate the provisions of UWS 18, Conduct on University Lands;
+7. for knowingly making a false statement to any university employee or agent on a university-related
+matter, or for refusing to identify oneself to such employee or agent;
+8. for violating a standard of conduct, or other requirement or restriction imposed in connection with
+disciplinary action.
+
+Examples of non-academic misconduct include but are not limited to:
+1. engaging in conduct that is a crime involving danger to property or persons, as defined in UWS
+18.06(22)(d);
+2. attacking or otherwise physically abusing, threatening to physically injure, or physically intimidating a
+member of the university community or a guest;
+3. attacking or throwing rocks or other dangerous objects at law enforcement personnel, or inciting others
+to do so;
+4. selling or delivering a controlled substance, as defined in 161 Wis. Stats., or possessing a controlled
+substance with intent to sell or deliver;
+5. removing, tampering with, or otherwise rendering useless university equipment or property intended for
+use in preserving or protecting the safety of members of the university community, such as fire alarms,
+fire extinguisher, fire exit signs, first aid equipment, or emergency telephones; or obstructing fire escape
+routes;
+6. preventing or blocking physical entry to or exit from a university building, corridor, or room;
+7. engaging in shouted interruptions, whistling, or similar means of interfering with a classroom
+presentation or a university-sponsored speech or program;
+8. obstructing a university officer or employee engaged in the lawful performance of duties;
+9. obstructing or interfering with a student engaged in attending classes or participating in university-run or
+university-authorized activities;
+10. knowingly disrupting access to university computing resources or misusing university computing
+resources.
+
+Additional information regarding Non-Academic Misconduct
+
+Graduate School Academic Policies & Procedures: Misconduct, Non-Academic:
+
+[[page 21]]
+18
+grad.wisc.edu/acadpolicy/#misconductnonacademic
+
+University of Wisconsin System: Chapter UWS 17: Student Non-Academic Disciplinary Procedures:
+https://docs.legis.wisconsin.gov/code/admin_code/uws/17.pdf
+
+University of Wisconsin System: Chapter UWS 18: Conduct on University Lands:
+https://docs.legis.wisconsin.gov/code/admin_code/uws/18.pdf
+
+Research Misconduct
+Much of graduate education is carried out not in classrooms, but in laboratories and other research venues, often
+supported by federal or other external funding sources. Indeed, it is often difficult to distinguish between
+academic misconduct and cases of research misconduct. Graduate students are held to the same standards of
+responsible conduct of research as faculty and staff. The Graduate School is responsible for investigating
+allegations of research misconduct. This is often done in consultation with the Division of Student Life as well as
+with federal and state agencies to monitor, investigate, determine sanctions, and train about the responsible
+conduct of research. For more information, contact the Associate Vice Chancellor for Research Policy, 333 Bascom
+Hall, (608) 262-1044.
+
+Please see section on "Grievance Procedures and Misconduct Reporting" for further information on reporting
+research misconduct of others. Here are links for additional information regarding Research Misconduct and
+
+Responsible Conduct:
+Graduate School Policies & Procedures: Responsible Conduct of Research
+grad.wisc.edu/acadpolicy/#responsibleconductofresearch
+
+Office of the Vice Chancellor for Research and Graduate Education's - Office of Research Policy: Introduction &
+Guide to Resources on Research Ethics:
+research.wisc.edu/respolcomp/resethics/
+
+Office of the Vice Chancellor for Research and Graduate Education's Office of Research Policy: Policies,
+Responsibilities, and Procedures: Reporting Misconduct
+kb.wisc.edu/gsadminkb/page.php?id=34486
+
+Office of the Vice Chancellor for Research and Graduate Education's Office of Research Policy: Policies,
+Responsibilities, and Procedures: Responsible Conduct of Research Resources
+kb.wisc.edu/gsadminkb/search.php?cat=2907
+
+[[page 22]]
+19
+VI. DISCIPLINARY ACTION AND DISMISSAL
+
+* Failure to meet the program's academic or conduct expectations can result in disciplinary action including
+immediate dismissal from the program. If a student is not making satisfactory progress in regards to
+academic or conduct expectations, the advisor will consult with the student's committee to determine if
+disciplinary action or dismissal is recommended.
+* Student progress will be reviewed through coursework or annual meetings. If the advisor and graduate
+committee find that at the annual meeting or at any other time that a student has failed to achieve
+satisfactory progress with academic or conduct expectations the student may be dismissed from the
+program.
+* The status of a student can be one of three options:
+o 1. Good standing (progressing according to standards; any funding guarantee remains in place).
+o 2. Probation (not progressing according to standards but permitted to enroll; loss of funding
+guarantee; specific plan with dates and deadlines in place in regard to removal of probationary
+status.
+o 3. Unsatisfactory progress (not progressing according to standards; not permitted to enroll,
+dismissal, leave of absence or change of advisor or program).
+
+* A semester GPA below 3.0 will result in the student being placed on academic probation. If a semester
+GPA of 3.0 is not attained during the subsequent semester of full time enrollment (or 12 credits of
+enrollment if enrolled part-time) the student may be dismissed from the program or allowed to continue
+for 1 additional semester based on advisor appeal to the Graduate School. A cumulative GPA of 3.0 is
+required to graduate. See the Graduate School Academic Policies & Procedures: Probation
+grad.wisc.edu/acadpolicy/#probation and Grade Point Average (GPA) Requirement
+grad.wisc.edu/acadpolicy/#gparequirement .
+
+* Students may be disciplined or dismissed from the graduate program for any type of misconduct
+(academic, non-academic, professional, or research) or failure to meet program expectations regardless
+of their academic standing in the program. Separate and apart from a violation of Professional Conduct, a
+student may face University disciplinary action with regard to the same action. Concerns about
+infractions of the Professional Conduct may be effectively handled informally between the student and
+the advisor/faculty member. However, if a resolution is not achieved, the issue may be advanced for
+further review by the program.
+
+Process / Committee / Possible Sanctions
+The PBPG Executive Committee is composed of one PBPG faculty member from each academic department with a
+PBPG student. The Executive Committee administers the regulations established by the faculty. The student's
+committee determines whether the quality of a student's work and conduct are satisfactory, while the PBPG
+Executive Committee can determine whether the student is satisfying the academic requirements in a timely
+fashion and meeting program conduct expectations. Students who are falling behind academically or not meeting
+conduct expectations may be first warned, then put on probation, and then dropped from the program if they
+cannot complete the requirements or remedy their conduct. Within boundaries set by the faculty, the Executive
+Committee is authorized to take account of individual circumstances and problems, and to grant extensions of
+deadlines and waivers of requirements.
+
+[[page 23]]
+20
+Disciplinary Actions
+
+* Written reprimand
+* Denial of specified privilege(s)
+* Imposition of reasonable terms and conditions on continued student status
+* Removal of funding
+* Probation
+* Removal of the student from the course(s) in progress
+* Withdrawal of an offer of admission
+* Placement on Leave of Absence for a determined amount of time
+* Suspension from the program for up to one year with the stipulation that remedial activities may be
+prescribed as a condition of later readmission. Students who meet the readmission condition must apply
+for readmission and the student will be admitted only on a space available basis. See the Graduate School
+Academic Policies & Procedures: Readmission to Graduate School:
+grad.wisc.edu/acadpolicy/#readmission
+* Suspension from the program. The suspensions may range from one semester to four years.
+* Dismissal from the program
+* Denial of a degree
+
+Depending on the type and nature of the misconduct, the Division of Student Life may also have grounds to do
+one or more of the following:
+
+* Reprimand
+* Probation
+* Suspension
+* Expulsion
+* A zero or failing grade on an assignment on an assignment/exam
+* A lower grade or failure in the course
+* Removal from course
+* Enrollment restrictions in a course/program
+* Conditions/terms of continuing as a student
+
+[[page 24]]
+21
+VII. GRIEVANCE PROCEDURES & REPORTING MISCONDUCT AND CRIME
+In the College of Agricultural and Life Sciences any student who feels unfairly treated by a member of the College of Ag
+& Life Sciences (CALS) faculty or staff has the right to complain about the treatment and to receive a prompt hearing.
+Some complaints may arise from misunderstandings or communication breakdowns and be easily resolved; others may
+require formal action. Complaints may concern any matter of perceived unfairness.
+To ensure a prompt and fair hearing of any complaint, and to protect the rights of both the person complaining and the
+person at whom the complaint is directed, the following procedures are used in the College of Agricultural and Life
+Sciences. Any student, undergraduate or graduate, may use these procedures, except employees whose complaints are
+covered under other campus policies.
+1. The student should first talk with the person at whom the complaint is directed. Most issues can be settled at
+this level. Others may be resolved by established departmental procedures.
+2. If the student is unsatisfied, and the complaint involves any unit outside CALS, the student should seek the
+advice of the dean or director of that unit to determine how to proceed.
+a. If the complaint involves an academic department in CALS the student should proceed in accordance
+with item 3 below.
+b. If the grievance involves a unit in CALS that is not an academic Department, the student should proceed
+in accordance with item 4 below.
+3. The student should contact the department's grievance advisor within 120 calendar days of the alleged unfair
+treatment. The departmental administrator can provide this person's name. The grievance advisor will attempt
+to resolve the problem informally within 10 working days of receiving the complaint, in discussions with the
+student and the person at whom the complaint is directed.
+a. If informal mediation fails, the student can submit the grievance in writing to the grievance advisor
+within 10 working days of the date the student is informed of the failure of the mediation attempt by
+the grievance advisor. The grievance advisor will provide a copy to the person at whom the grievance is
+directed.
+b. The grievance advisor will refer the complaint to a department committee that will obtain a written
+response from the person at whom the complaint is directed, providing a copy to the student. Either
+party may request a hearing before the committee. The grievance advisor will provide both parties a
+written decision within 20 working days from the date of receipt of the written complaint.
+c. If the grievance involves the department chairperson, the grievance advisor or a member of the
+grievance committee, these persons may not participate in the review.
+d. If not satisfied with departmental action, either party has 10 working days from the date of notification
+of the departmental committee action to file a written appeal to the CALS Equity and Diversity
+Committee (Room 116 Agriculture Hall). A subcommittee of this committee will make a preliminary
+judgement as to whether the case merits further investigation and review. If the subcommittee
+unanimously determines that the case does not merit further investigation and review, its decision is
+final. If one or more members of the subcommittee determine that the case does merit further
+investigation and review, the subcommittee will investigate and seek to resolve the dispute through
+mediation. If this mediation attempt fails, the subcommittee will bring the case to the full committee.
+The committee may seek additional information from the parties or hold a hearing. The committee will
+present a written recommendation to the dean who will provide a final decision within 20 working days
+of receipt of the committee recommendation.
+4. If the alleged unfair treatment occurs in a CALS unit that is not an academic department, the student should,
+within 120 calendar days of the alleged incident, take his/her grievance directly to the associate dean of
+academic and student affairs. The dean will attempt to resolve the problem informally within 10 working days
+of receiving the complaint. If this mediation attempt does not succeed the student may file a written complaint
+with the dean who will refer it to the CALS Equity and Diversity Committee. The committee will seek a written
+
+[[page 25]]
+22
+response from the person at whom the complaint is directed, subsequently following other steps delineated in
+item 3d above.
+Matters of interpretation of academic requirements not primarily involving questions of fairness should come via the
+student's advisor to the college's Scholastic Policies and Actions Committee.
+
+The Graduate School has procedures for students wishing to appeal a grievance decision made at the
+school/college level. These policies are described in the Graduate School's Academic Policies and Procedures:
+grad.wisc.edu/acadpolicy/#grievancesandappeals
+
+Reporting Misconduct And Crime
+The campus has established policies governing student conduct, academic dishonesty, discrimination, and
+harassment/abuse as well as specific reporting requirements in certain cases. If you have a grievance regarding
+unfair treatment towards yourself, please reference the procedures and resources identified above. If you learn
+about, observe, or witness misconduct or other wrongdoing you may be required to report that misconduct or
+abuse. Depending on the situation, it may be appropriate to consult with your advisor, Graduate Program
+Coordinator, or other campus resources (such as the UW Office of Equity and Diversity, Graduate School, Mc
+Burney Disability Resource Center, Employee Assistance Office, Ombuds Office, and University Health Services).
+
+Research Misconduct Reporting
+The University of Wisconsin-Madison strives to foster the highest scholarly and ethical standards among its students,
+faculty, and staff. Graduate students and research associates are among the most vulnerable groups when reporting
+misconduct because their source of financial support and the progress in their careers may be at risk by raising
+questions of wrongdoing. They are also often the closest witnesses to wrongdoing when it occurs and therefore must
+be appropriately protected from the consequences of reporting wrongdoing and be informed of their rights. Please
+find full details at research.wisc.edu/respolcomp/resethics/
+
+Academic Misconduct Reporting
+If you know a classmate is cheating on an exam or other academic exercise, notify your professor, teaching
+assistant or proctor of the exam. As a part of the university community, you are expected to uphold the standards
+of the university. Also, consider how your classmate's dishonesty may affect the overall grading curve and
+integrity of the program.
+
+Sexual Assault Reporting
+UW-Madison prohibits sexual harassment, sexual assault, dating violence, domestic violence, and stalking. These
+offenses violate UW-Madison policies and are subject to disciplinary action. Sanctions can range from reprimand
+to expulsion from UW-Madison. In many cases, these offenses also violate Wisconsin criminal law and could lead
+to arrest and criminal prosecution.
+
+Students who experience sexual harassment, sexual assault, domestic violence, dating violence, and/or stalking
+have many options and services available to them on and off campus, including mental health counseling, victim
+advocacy and access to the criminal and campus disciplinary systems. For a list a confidential support and
+reporting options, please visit uhs.wisc.edu/assault/sa-resources.shtml.
+
+Faculty, staff, teaching assistants, and others who work directly with students at UW-Madison are required by law
+to report first-hand knowledge or disclosures of sexual assault to university officials for statistical purposes. In
+addition, disclosures made to certain university employees, such as academic advisors or university
+administrators, may be forwarded to the campus Title IX coordinator for a response. For more information, please
+
+[[page 26]]
+23
+visit students.wisc.edu/doso/reporting-allegations-of-sexual-assault-datingdomestic-violence-and-stalking/.
+
+Child Abuse Reporting
+As a UW-Madison employee (under Wisconsin Executive Order #54), you are required to immediately report child
+abuse or neglect to Child Protective Services (CPS) or law enforcement if, in the course of employment, the
+employee observes an incident or threat of child abuse or neglect, or learns of an incident or threat of child abuse
+or neglect, and the employee has reasonable cause to believe that child abuse or neglect has occurred or will
+occur. Volunteers working for UW-Madison sponsored programs or activities are also expected to report
+suspected abuse or neglect. Please find full details at oed.wisc.edu/child-abuse-and-neglect.htm
+
+Reporting and Response to Incidents of Bias/Hate
+The University of Wisconsin-Madison values a diverse community where all members are able to participate fully
+in the Wisconsin Experience. Incidents of Bias/Hate affecting a person or group create a hostile climate and
+negatively impact the quality of the Wisconsin Experience for community members. UW-Madison takes such
+incidents seriously and will investigate and respond to reported or observed incidents of bias/hate. Please find
+full details at https://sudents.wisc.edu/doso/services/bias-reporting-process/.
+
+ACADEMIC EXCEPTION PETITION
+
+Academic exceptions are considered on an individual case by case basis and should not be considered a
+precedent. Deviations from normal progress are highly discouraged, but the program recognizes that there are in
+some cases extenuating academic and personal circumstances. Petitions for course exceptions/substitutions or
+exceptions to the Satisfactory Progress Expectations (academic or conduct) shall be directed to the Director of
+Graduate Studies or relevant committee chair (example Curriculum Chair). The following procedures apply to all
+petitions:
+
+1. The specific requirement/rule/expectation pertinent to the petition must be identified.
+2. The student's academic advisor must provide written support for the petition.
+3. All course work substitutions and equivalencies will be decided by appropriate area-group faculty or
+curriculum chair.
+
+More generally, the Director of Graduate Studies, in consultation with the student's advisor, may grant extensions
+to normal progress requirements for students who face circumstances (similar to tenure extensions) as noted in
+university regulations, this includes childbirth, adoption, significant responsibilities with respect to elder or
+dependent care obligations, disability or chronic illness, or circumstances beyond one's personal control. Where
+warranted, the petition should provide good evidence of plans and ability to return to conformance with the
+standard and to acceptably complete the program. The normal extension will be one semester; anything beyond
+this will be granted only in the event of highly extraordinary circumstances. Extensions will be granted formally
+with a note of explanation to be placed in the student's file.
+
+Course Petition
+The student may petition the PBPG Executive Committee for a waiver of any required course. The basis for such a
+waiver shall be evidence of previous work of the same level and content to be determined by the committee in
+consultation with the faculty member currently responsible for the course concerned. A requirement which is
+completed by waiver carries no credit toward the Graduate School's credit requirements nor toward the
+program's credit requirement for the degree.
+
+[[page 27]]
+24
+PBPG Executive Committee procedures are designed to encourage a student to work closely with an advisor and
+other faculty, who will be aware of the student's work and personal circumstances. A student petitioning for a
+deadline extension or waiver of any type must obtain an endorsement from his or her advisor, and/or members of
+the graduate committee. Advisors may petition the Exceptions Committee on behalf of their advisees. The
+Exceptions Committee may ask the advisor for further information beyond that written on the petition.
+
+Students may ask the Director of Graduate Studies or other faculty members to advise them, to speak to the
+Exceptions Committee on their behalf, or to endorse their petitions. Students may consult with the chair of the
+Exceptions Committee or with the graduate advisor about Exceptions Committee procedures and standards, but
+the Exceptions Committee cannot substitute for an advising relationship.
+
+Qualifying Exam Petition
+A student who fails the Preliminary Examination may be offered a second opportunity to pass the examination or
+may be dismissed from the program. Petitions of a decision by the Thesis/Dissertation Committee must be made
+to the PBPG Executive Committee within two weeks or they will be final. The PBPG Executive Committee will
+make the final decision regarding a petition.
+
+Extension Requests
+
+Students who have not completed the degree on schedule may request extensions. Requests for a one-
+semester/year extension can be made to the PBPG Executive Committee. The PBPG Executive Committee is
+authorized to approve these requests upon written justification from the student and their advisor. The student
+must describe the reasons for the request and provide a proposed timetable for completing all program
+requirements. The major professor must sign the request form and write comments endorsing the request. The
+request should be made as soon as the need for an extension becomes apparent. The PBPG Executive Committee
+may request additional documentation as needed. Appeals or requests for additional extensions must be
+approved by the full program faculty.
+
+[[page 28]]
+25
+VIII. PROFESSIONAL DEVELOPMENT AND CAREER PLANNING
+
+Travel to Meetings and Conferences
+An important part of the professional development of graduate student is the participation in professional
+meetings and conferences. Consult your advisor about the appropriate venues for you to attend. Some advisors
+may have access to funds to help support travel costs. Students should also explore volunteer opportunities at
+conferences to offset registration costs.
+
+Campus-wide Resources for Professional Development
+In addition to opportunities at the local level, the Graduate School Office of Professional Development provides
+direct programming in the areas of career development and skill building, and also serves as a clearing house for
+professional development resources across campus. The best way to stay informed is to watch for the weekly
+newsletter from OPD, GradConnections Weekly, and to visit the webpage grad.wisc.edu/pd/events for an up-to-
+date list of events. For example, typical topics covered throughout the year are:
+* Individual Development Plans (IDPs)
+* Planning for academic success
+* Dissertation writing support
+* Communication skills
+* Grant writing
+* Teaching
+* Mentoring
+* Research ethics
+* Community engagement
+* Entrepreneurship
+* Career exploration: academic, non-profit, industry, government, etc.
+* Job search support
+* Pursuing postdoctoral training
+
+Be sure to keep a pulse on programs offered by the following campus services as well.
+
+* Writing Center writing.wisc.edu/
+* Grants Information Collection grants.library.wisc.edu/
+* Student Technology Training (STS) sts.doit.wisc.edu/
+* Delta Program delta.wisc.edu
+
+II. STUDENT HEALTH AND WELLNESS
+
+Students who pay segregated fees are eligible for University Health Services https://www.uhs.wisc.edu/
+
+There is no charge to students for many basic services including counseling sessions, because services are paid
+through tuition and fees. Personal health and wellness services are also available in addition to medical services.
+
+Securing Health Insurance Coverage
+Graduate students who hold an appointment as an assistant of 33.33% or more or who have a fellowship may be
+eligible for health insurance and other benefits beyond University Health Services. Contact the staff benefits and
+payroll coordinator in the unit where you have been hired to select one of several health care plans within 30 days
+
+[[page 29]]
+26
+of your hire date.
+
+Graduate students without an assistantship or fellowship who are currently enrolled can use the serves of University
+Health Services (UHS), the campus health clinic. Many services are provided at no extra cost, including outpatient
+medical care during regular business hours, Monday through Friday. UHS is located in the Student Services Tower at
+333 East Campus Mall, 608-265-5000. For more info, visit the UHS web site at uhs.wisc.edu.
+
+Prescription medications, emergency room visits and hospitalization are not included in UHS benefits. Therefore,
+supplemental insurance covering these drugs and services is recommended for all students and is required for
+international students. The UHS Student Health Insurance Plan (SHIP) is an excellent option for many students. Contact
+the SHIP office at 608-265-5600 for more information.
+
+Disability Information
+Students with disabilities have access to disability resources through UW-Madison's McBurney Disability Resource
+Center. As an admitted student, you should first go through the steps to "Become a McBurney Client" at
+mcburney.wisc.edu/students/howto.php
+
+Mental Health Resources On and Off Campus
+University Health Services (UHS) is the primary mental health provider for students on campus. UHS Counseling and
+Consultation Services offers a wide range of services to the diverse student population of UW-Madison. They offer
+immediate crisis counseling, same day appointments and ongoing treatment. Go to
+https://www.uhs.wisc.edu/mental-health/ or call 608-265-5600.
+UHS service costs are covered for students through tuition and fees.
+
+There are many mental health resources throughout the Madison community, but UHS Counseling and
+Consultation Services is the best resource for referrals to off-campus providers. Call 608-265-5600 for assistance in
+finding an off-campus provider.
+
+ADDITIONAL INFORMATION FOR INTERNATIONAL STUDENTS
+
+[[page 30]]
+27
+International Student Services (ISS)
+International Student Services (ISS) is your main resource on campus and has advisors who can assist you with
+visa, social and employment issues. Visit their website for more information at iss.wisc.edu or to schedule an
+appointment.
+
+Student Visas
+Graduate Admissions issues the federal I-20 form for initial F-1 Visa procurement. Initial J-1 Visa document (DS-
+2019) is handled by International Student Services (ISS). The Graduate Admissions office sometimes must collect
+financial information for the DS-2019, which is then forwarded to ISS. After the student is enrolled, all Visa
+matters are handled by ISS.
+
+Funding for International Students
+International students are eligible for Teaching, Project, and Research Assistantships on campus as well as
+university fellowships through the Graduate School. They may not be employed more than 20 hours per week on
+campus while enrolled full-time.
+
+[[page 31]]
+28
+
+[[page 32]]
+29
+
+[[page 33]]
+30
+
+[[page 34]]
+31

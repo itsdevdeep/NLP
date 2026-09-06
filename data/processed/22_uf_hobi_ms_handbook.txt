@@ -1,0 +1,744 @@
+[[page 1]]
+Master of Science
+in Medical Sciences
+
+concentration in
+
+Health Outcomes & Implementation Science
+Or
+Biomedical Informatics
+Department of Health Outcomes & Biomedical Informatics
+College of Medicine
+
+http://hobi.med.ufl.edu/
+
+Student Handbook
+
+Fall 2020 Cohort
+
+Updated August 2020
+
+[[page 2]]
+2
+Table of Contents
+Introduction
+Chair's Welcome (p. 3)
+Associate Chair of Education Welcome (p.4)
+Associate Director of Education Welcome (p. 5)
+The University of Florida
+Overview (p. 6)
+Health Science Center (p. 6)
+College of Medicine (p. 7)
+Department of Health Outcomes & Biomedical Informatics (p. 7)
+Department of Health Outcomes & Biomedical Informatics Graduate Programs
+Programs Overview (p. 8)
+Student Mentoring and Guidance (p. 8)
+Supervisory Committee (p. 9)
+Health Outcomes & Implementation Science Concentration Curriculum (p. 10)
+Biomedical Informatics Concentration Curriculum (p.11)
+Transfer of Credits / Course Substitutions (p. 12)
+Registration (p. 13)
+Elective Courses
+Research Courses
+MS Non-Thesis Option/Thesis and Defense (p. 14)
+Graduation Requirements (p. 14)
+Credits
+Grade Point Average
+Policies and Resources
+Conduct and Honor Codes (p. 15)
+Counseling & Wellness Center (p. 15)
+Dates and Deadlines (p. 15)
+Diversity and Inclusion (p. 16)
+E-mail and Off-campus Access (p. 16)
+Health Insurance (p. 16)
+HIPAA Training (p. 16)
+Housing (p. 17)
+Leave of Absence (p. 17)
+Libraries (p. 17)
+Sexual Harassment (p. 17)
+Traffic and Parking Regulations (p. 18)
+UF Police Department (p. 18)
+Work-related Injuries (p. 18)
+
+[[page 3]]
+3
+Introduction and Welcome from the
+Chair of Health Outcomes & Biomedical Informatics
+
+Welcome to the Department of Health Outcomes & Biomedical Informatics, housed in the University of
+Florida's College of Medicine. We are excited you have chosen to pursue your graduate degree with
+us.
+
+The College of Medicine is the largest of the six colleges that make
+up the UF Health Science Center. It is comprised of 28 research-
+oriented departments and ranks No. 17 nationally among public
+medical schools according to US News & World Report. The
+College's mission is to improve health care in Florida, our nation
+and the world through excellence and leadership in education,
+clinical care, discovery, and service.
+
+The Department of Health Outcomes & Biomedical Informatics is
+proud to contribute to the mission of the College through our
+extensive research portfolio and innovative graduate education
+programs. Last year our department was awarded $31.5 million in
+research funding. Our total annual research budget exceeds $100
+million. Our goal is to continue increasing this amount and remain
+at the top of the College of Medicine's funded departments.
+
+Our research focuses on evaluating the health effects of public policies and health care and conducting
+controlled field trials of preventative interventions in community and clinical settings. We are also
+home to the Institute for Child Health Policy, which focuses on research promoting the health of
+children, adolescents, and young adults.
+
+Our Health Outcomes & Biomedical Informatics MS and PhD programs allow us to provide you with
+innovative and specialized training. You will gain a specialized set of tools allowing you to pursue a
+variety of career opportunities developing, implementing, and evaluating clinical and community-
+based programs that promote health.
+
+We are very proud of our students and their development into the next generation of health outcomes
+and biomedical informatics researchers. Welcome to our department!
+
+Elizabeth Shenkman, PhD
+Chair, Department of Health Outcomes & Biomedical Informatics
+Director, Institute for Child Health Policy
+Associate Director, Cancer Population Sciences, UF Health
+
+[[page 4]]
+4
+
+Welcome from the Associate Chair of Education
+
+Welcome to the graduate program in Medical Sciences with a
+concentration in Health Outcomes & Biomedical Informatics! I hope this
+handbook will serve as a resource for you during your journey through
+your degree.
+
+As the Director of the Health Outcomes & Biomedical Informatics
+Education Programs, I want to ensure that you have the best possible
+experience during your time with us. Our Academic Specialist, Corinne
+Flowers and I are here to support and guide you through the completion
+of your degree.
+
+Our education programs have a lot to offer, and our high quality and
+experienced faculty facilitate learning that leads to a foundation for
+stronger research capabilities, leadership skills, teaching methods and
+successful tools to help not only clinicians as researchers, but also to help our students prepare for a
+wide range of careers in the health sciences. I encourage you to pursue as many additional experiences
+as you can during your time with us.
+
+We have compiled this handbook to serve as a resource for you as you journey through your degree
+program. We are committed to helping you graduate with an outstanding education and a strong
+foundation for growth as you move on to the next phase of your career.
+
+I look forward to working with you.
+
+Matthew Gurka Ph.D.
+Professor and Associate Chair for Education
+Department of Health Outcomes & Biomedical Informatics
+
+[[page 5]]
+5
+
+Welcome from the Associate Director of Education
+(responsible for the Biomedical Informatics programs)
+
+Welcome to the UF College of Medicine's Department of Health
+Outcomes and Biomedical Informatics. When I joined the Department of
+Health Outcomes and Biomedical Informatics in August 2019 there was
+already a well-established Biomedical Informatics education program
+going strongly after welcoming its first Ph.D. student cohort in 2017. In
+recent years the footprint of biomedical informatics has increased
+tremendously. The Division of Biomedical Informatics has evolved with it
+and so have our education programs and student numbers.
+Biomedical Informatics today is one of the core disciplines in biomedical
+research and we are looking forward to sharing with you the excitement
+and curiosity that comes with it. At its foundation Biomedical Informatics
+is a transdisciplinary field that brings together people from different
+scientific backgrounds and diverse walks of life seeking knowledge and developing skills to improve our
+understanding of and capabilities to using computer science methods for the health of our
+communities as well as individual patients. We invite you embrace the diversity of our field and we are
+working tirelessly to increase the diversity in our faculty and students.
+Our educational program is primarily targeted at managing and analyzing large medical data sets. The
+growth in the volume and diversity of biomedical data, including electronic health record data, has
+accelerated greatly in recent years. In addition, our education programming provides necessary
+background knowledge and practical skills in core computer science aspects, such as privacy and
+security, software architecture, and knowledge and data management.
+The leadership of the education programs of HOBI and the teaching faculty are dedicated to make your
+educational experience fulfilling and rewarding. If you have concerns or suggestion of how we can
+cater better to the needs of students, don't hesitate to let me personally know.
+
+I wish you all the success in your educational pursuits! Welcome to the team!
+
+Mathias Brochhausen Ph.D.
+Associate Professor and Associate Director of Education
+Department of Health Outcomes and Biomedical Informatics
+
+[[page 6]]
+6
+The University of Florida
+
+The University of Florida is one of the nation's largest research universities. It is Florida's oldest
+university and has been enrolling students at its Gainesville campus since 1906. UF is an important
+component of Florida's economy, providing over 100,000 jobs throughout the state and having an
+annual economic impact of over $12.56 billion.
+
+UF is home to 16 academic colleges and more than 200 research centers and institutes. It employs
+nearly 5,000 faculty members and enrolls over 56,000 students per year. UF is one of only 17 public,
+land-grant university members of the Association of American Universities.
+
+Health Science Center
+The UF Health Science Center (HSC) is the country's only academic health center with six health-related
+colleges (Dentistry, Medicine, Nursing, Pharmacy, Public Health and Health Professions, and Veterinary
+Medicine) located on a single, contiguous campus. UF Health Shands Hospital, UF Health Children's
+Hospital, UF Health Shands Cancer Hospital, UF Health Heart & Vascular and UF Health Neuromedicine
+Hospital and nine research institutes and centers - UF Health Cancer Center, Clinical and Translational
+Science Institute, Emerging Pathogens Institute, Genetics Institute, Institute on Aging, Diabetes
+Institute, Institute for Child Health Policy, Norman Fixel Institute for Neurological Diseases and the
+Evelyn F. and William L. McKnight Brain Institute - are also located on the HSC campus.
+The mission of the HSC is to promote health through outstanding patient care, innovative and rigorous
+education in the health professions and biomedical sciences, and high-impact research across the
+spectrum of basic, translational and clinical investigation.
+
+[[page 7]]
+7
+College of Medicine
+
+The College of Medicine is the largest of the six colleges in the HSC. The Gainesville campus is
+composed of 28 clinical and basic science departments with over 1,300 faculty members. The
+Jacksonville campus houses an additional 400 physicians and scientists. The UF College of Medicine
+works in close collaboration with UF Health Shands Hospitals, the Malcom Randall Veterans Affairs
+Medical Center, and several other community healthcare sites and other affiliated hospitals in Florida.
+
+The College's medical education program has graduated over 4,000 MD physicians since its first
+graduating class in 1960. The College also offers graduate degree programs in Medical Sciences,
+Biomedical Engineering, Physician Assistant Studies, and the Interdisciplinary Program in Biomedical
+Sciences, allowing talented researchers and professionals not interested in pursuing an MD the
+opportunity to pursue careers in medical and health care fields.
+
+Department of Health Outcomes & Biomedical Informatics
+
+The Department of Health Outcomes and Biomedical Informatics is a diverse, multidisciplinary faculty
+of health services researchers, epidemiologists, biomedical informaticians, economists, biostatisticians,
+psychologists and social scientists whose goal is to advance the scientific knowledge necessary to
+improve health care delivery, leverage big data, advance health research, and help the most vulnerable
+populations. The Department is also the home of the Institute for Child Health Policy, which conducts
+innovative policy studies and intervention trials to promote the health of children, adolescents and
+young adults.
+
+The department is home to
+approximately 25 faculty
+members and more than 100
+full-time research and
+administrative staff. Faculty and
+staff information, including
+contact information, can be
+found on the HOBI website.
+
+UF Clinical & Translational Research Building
+
+[[page 8]]
+8
+HOBI Graduate Programs Overview
+
+Our graduate programs are designed to give graduates the necessary knowledge to conduct health
+outcomes assessments and clinical effectiveness research in a range of biomedical, clinical and
+community-based research settings. Upon completion of the program, students will understand how
+to develop and evaluate health interventions, treatments, prevention practices, and policies, and to
+determine what works on a large-scale level and why.
+
+The curriculum provides training in research methods, methods for translating research into policy and
+practice, and health policy processes and their influence on health care practices and delivery in both
+clinical and community settings. Students will learn to evaluate the effects that existing and proposed
+health policies have on health care access, quality, and costs. They will also gain in-depth exposure to
+current issues in dissemination research and implementation science. Throughout the curriculum,
+special focus will be placed on health disparities and vulnerable populations. The structure of the
+program provides one-on-one mentored research experience with faculty and the opportunity to be a
+part of ongoing research being conducted in the department. MS students in the department of
+Health Outcomes and Biomedical Informatics can be part-time or full-time students.
+
+Student Mentoring and Guidance
+
+Choosing a Research Mentor
+It is recommended that students meet with several faculty members whose research interests coincide
+with their educational goals before selecting a research mentor. The Education Director will provide
+advice/recommendations to students about potential mentor matches during the student's first
+semester. Students will be expected to identify a mentor by the mid-point of their first semester. The
+student's research mentor will serve as the Chair of their thesis or Capstone Research Project for the
+M.S. Supervisory Committee. An M.S. student may have an external member from the University serve
+on their committee if their initial committee members and chair approve the external member's
+participation.
+
+Students who wish to change research mentors may do so by providing a written request to the HOBI
+Academic Coordinator or Education Director. To request such a change, the student must be in good
+academic standing, and both the original and proposed new mentors must be aware of and agree to
+the change. Research mentor changes can occur for a number of reasons, including a change in
+research interests or funding availability.
+
+If the change request involves a personality conflict between the student and Research Mentor,
+students must first meet with the Education Director or other HOBI leadership before initiating the
+change request.
+
+[[page 9]]
+9
+Supervisory Committee
+
+Supervisory Committees must be selected by the end of the semester in which the student has
+accumulated 12 credits. This is typically the end of the student's second semester; however, students
+enrolling in 12 credits their first semester must select their Committee by the end of that semester.
+The Dean of the Graduate School is an ex-officio member of all Supervisory Committees.
+
+Once the Supervisory Committee has been selected, the student must complete the HOBI Supervisory
+Committee Agreement. The student must obtain signatures from all committee members before
+submitting the Agreement to the Academic Coordinator. The signed Agreement will be reviewed and
+approved by the Education Director before the committee is entered into the UF Graduate School
+system.
+
+The MS Supervisory Committee will be composed of a minimum of 2 and maximum of 5 members.
+MS Supervisory Committee qualifications are as follows:
+Member Member Type Required to be
+HOBI faculty?
+Graduate Faculty (GF)
+Status
+Must be tenured or
+accruing tenure?
+1
+(required)
+Chair/Research Mentor
+
+Yes Required, must have GFS
+in Medicine
+Yes
+2
+(required)
+Co-Chair -or- Member Yes Required, must have GFS
+in Medicine or another
+department
+Yes
+3-5
+(optional)
+Additional Members
+
+No GF status not required.
+Requires special approval
+No
+
+Students who wish to have a Supervisory Committee Chair different from their Research Mentor must
+obtain approval from the Research Mentor, Education Director, and the proposed Chair.
+
+Changes in Supervisory Committee members are acceptable until the midpoint of the student's final
+term as long as the thesis defense has not occurred. No changes in Supervisory Committee are
+allowed after the defense.
+
+Curriculum Committee
+The HOBI Education Curriculum Committee is comprised of HOBI faculty from both concentrations and
+two current doctoral students, one from each concentration. The curriculum committee members
+participate in the evaluation and review of all degree and non-degree educational activities in the
+department. The committee reviews and votes on new courses, requests from students to transfer
+credits, and any course modifications. This committee meets monthly.
+
+Student Recruitment and Admissions Committee
+The HOBI Student Recruitment and Admissions Committee is comprised of HOBI faculty from both
+concentrations and two current graduate students, one from each concentration. The committee is
+charged with the responsibility to review and make decisions on admissions, and to assist in student
+recruitment methods and efforts. The committee meets monthly.
+
+[[page 10]]
+10
+MS Curriculum in Health Outcomes and Implementation Science (HOIS)
+The MS in Medical Sciences with a concentration in Health Outcomes & Implementation Science is a minimum 32 credit hour
+degree program. The curriculum is comprised of:
+
+Course Title Credits
+Core - 9 credits
+GMS 6822 Measuring and Analyzing Health Outcomes 3 Letter grade
+GMS 6851 Fundamentals of Dissemination and Implementation Research 3 Letter-grade
+GMS 6885 Translational Health Research Design 3 Letter-grade
+Research Rigor and Ethics - 2 credits
+GMS 7877 Responsible Conduct of Biomedical Research 1 Letter-grade
+GMS 6848 Ensuring Rigor and Reproducibility in Clinical and Translational Research 1 Letter-grade
+Statistics Courses - 3 credits
+PHC 6052 or
+STA 6166
+Introduction to Biostatistical Methods -or-
+Statistical Methods in Research I 3 Letter-grade
+Methods - Select 3 courses (6-9 credit hours)
+GMS 6829 Longitudinal Research Design 2 Letter-grade
+GMS 6832 Economic Methods for Evaluating Value in Health Care 3 Letter-grade
+GMS 6844 Time Series and Quasi-Experimental Design for Health Outcomes Research 2 Letter-grade
+GMS 6813 Pragmatic Clinical Trials 2 Letter-grade
+GMS 6846 Meta-Analysis in Clinical, Health Services Research, & Public Health 2 Letter-grade
+GMS 6803 Data Science for Clinical Research 3 Letter-grade
+GMS 6850 Foundations of Biomedical Informatics 3 Letter-grade
+PHC 6020 or
+PHC 6022
+Clinical Trial Method s -or -
+Design & Conduct of Clinical Trials 3 Letter-grade
+Health Outcomes Courses - Select 1 course (3 credits)
+GMS 6833 Health Outcomes Research in Vulnerable Populations 3 Letter-grade
+GMS 6835 Health Outcomes Research in Children 3 Letter-grade
+GMS 6812 Health Outcomes Research in Cancer 3 Letter-grade
+GMS 6802 Health Outcomes Research for Chronic Diseases 3 Letter-grade
+Implementation Science Foundations Courses (minimum 3 credits)
+GMS 6836 Foundations of Learning Health System Research 1 S/U
+GMS 6852
+Community Engaged Research for Clinical Effectiveness and Implementation
+Science Studies 2 Letter-grade
+GMS 6853 Applied Topics in Dissemination & Implementation Science 3 Letter-grade
+Capstone Mentored Research Experience - (6 credit hours of one course option)
+GMS 6905
+GMS 6971
+Independent Study in Medical Sciences (Non- Thesis Eligible) -or-
+Research for Master's Thesis (Thesis Eligible)
+6 Letter-grade
+6 S/U
+Total: 32-35
+
+[[page 11]]
+11
+MS Curriculum in Biomedical Informatics
+The MS in Medical Sciences with a concentration Biomedical Informatics is a minimum 36-credit hour degree program, with at
+least 22 credits specific to the BMI concentration. The curriculum is comprised of:
+
+Course Title Credits
+Core Courses - select all (16 credits)
+GMS 6803 Data Science for Clinical Research 3 Letter-grade
+GMS 6804 Translational Bioinformatics 3 Letter-grade
+GMS 6805 Introduction to Applied Ontology 3 Letter-grade
+GMS 6806 Security and Privacy for Clinical Research 3 Letter-grade
+GMS 6850 Foundations of Biomedical Informatics 3 Letter-grade
+GMS 7887 Health Outcomes & Biomedical Informatics PhD Research Seminar 1 S/U Letter-grade
+Foundation Courses - select 2 courses (6 credits)
+GMS 6856 Introduction to Biomedical Natural Language Processing 3 Letter-grade
+BME 6938 Introduction to Biomedical Image Analysis and Imaging Informatics 3 Letter-grade
+CEN 5035 Software Engineering 3 Letter-grade
+COP 5725 Database Management Systems 3 Letter-grade
+GMS 6822 Measuring and Analyzing Health Outcomes 3 Letter-grade
+PHC 6410 Psychological, Behavioral, and Social Issues in Public Health 3 Letter-grade
+PHC 6405 or
+PHC 6001
+Theoretical Foundations of Public Health or
+Principles of Epidemiology in Public Health 3 Letter-grade
+GMS 7866 Principles of Referent Tracking in Biomedical Informatics 3 Letter-grade
+Statistics Courses - select 1course (3 credits)
+STA 6166 Statistical Methods in Research I 3 Letter-grade
+PHC 6050 Statistical Methods for Health Science Research I 3 Letter-grade
+PHC 6052 Introduction to Biostatistical Methods 3 Letter-grade
+Advanced Electives - select 2 courses (5-6 credits)
+CAP 5100 Human-Computer Interaction 3 Letter-grade
+CAP 5510 Bioinformatics 3 Letter-grade
+CAP 5635 Artificial Intelligence Concepts 3 Letter-grade
+CAP 6610 Machine Learning 3 Letter-grade
+COP 5725 Database Management Systems 3 Letter-grade
+COT 5405 Analysis of Algorithms 3 Letter-grade
+COT 5615 Mathematics for Intelligent Systems 3 Letter-grade
+COP 5618 Concurrent Programming 3 Letter-grade
+PHI 5135 Graduate Logic 3 Letter-grade
+BME 6938 Special Topics: Machine Learning for Health and Biomedical Applications 3 Letter-grade
+STA 6167 Statistical Methods in Research II 3 Letter-grade
+STA 5325 Fundamentals of Probability 3 Letter-grade
+GMS 6848 Ensuring Rigor and Reproducibility in Clinical and Translational Research 1 Letter-grade
+GMS 6885 Translational Health Research Design 3 Letter-grade
+GMS 7093 Introduction to Clinical and Translational Research 2 Letter-grade
+Capstone Mentored Research Experience ( 6 credit hours of one course option)
+GMS 6905
+GMS 6971
+Independent Studies in Medical Sciences (Non- Thesis Eligible) -or-
+Research for Master's Thesis (Thesis Eligible)
+6 Letter-grade
+6 S/U
+Total ( 36 credits minimum)
+
+[[page 12]]
+12
+Transfer of Credits/Course Substitutions
+
+The HOBI Curriculum Committee will consider:
+(1) Accepting previously completed graduate courses in place of HOBI degree requirements
+(retrospective Transfer of Credit). This includes courses previously completed at the
+University of Florida.
+(2) Allowing degree credit for courses not included in HOBI degree curriculum (prospective
+Course Substitutions).
+
+All transfer of credit and course substitution requests must follow the UF Graduate School guidelines
+for graduate degrees. Only graduate level courses (5000-7999) with a grade of B or higher will be
+considered for transfer of credit. No more than 15 previously earned credits can be transferred. An MS
+degree earned in a discipline other than HOP will require special consideration before being considered
+for transfer of credit.
+
+Before submitting a request, students should review all official UF Master's guidelines.
+
+Transfers of credit and course substitutions are requested by submitting the HOBI Course
+Substitution/Transfer of Credit Form to the Academic Coordinator. A rationale for the substitution(s)
+that explains how the course(s) relate directly to the HOBI degree must be included. The student's
+Research Mentor must approve and sign each request.
+
+Transfer of Credit requests must be submitted during the first semester of enrollment. Previous
+academic transcripts and syllabi for all courses proposed for transfer of credit must be included.
+Course Substitution requests must be submitted at least one month before scheduled registration for
+the proposed course. Syllabi for all proposed courses must be included.
+
+The HOBI Curriculum Committee will review all requests and approve, deny, or request more
+information. Students will be informed of the approval/denial of prospective course substitution
+requests by the start of the semester of the proposed course. Students have the right to appeal any
+elective Course Substitution not approved by their mentor. Appeals will be reviewed and voted on by
+the Curriculum Committee. Appeals should be submitted to the Academic Coordinator on the HOBI
+Course Substitution/Transfer of Credit Form and be accompanied by the syllabus and rationale for how
+the course directly applies to the student's curriculum.
+
+All requests approved by the HOBI Curriculum Committee are then submitted by petition for approval
+by the Dean of the Graduate School before credits will officially be transferred or substituted.
+
+[[page 13]]
+13
+Registration
+
+Prior to the start of each semester, students must meet with their Research Mentor to review their
+academic progress, plan their courses for the next semester, and complete the HOBI Course
+Registration Form. Courses being offered will be posted on the HOBI Current Course Schedule site.
+Deadlines for submission of the Course Registration Form will be communicated by e-mail each
+semester by the Academic Coordinator.
+
+The Academic Coordinator will complete the student's registration. Students will receive e-mail
+confirmation when their registration is complete.
+
+Elective Courses
+MS students may propose to take additional courses as electives beyond their degree requirements,
+with the approval of their Research Mentor. These courses will not count towards the credits required
+for completion of the degree.
+
+Research Courses
+MS students will complete 6 credits of GMS 6905 Independent Studies in Medical Sciences (Capstone
+project for non-thesis) or GMS 6971 Research for Master's Thesis).
+
+Students enrolled in GMS 6905 Independent Studies for Medical Sciences (Capstone project for non-
+thesis option) will work with their primary mentor at the beginning of their first semester registering
+for GMS 6905 to develop a project proposal. The supervisory committee shall meet with the student to
+discuss the fitness of the project. A week before the final exam milestone, the student shall meet
+and present the final report to the supervisory committee members. No formal presentation is
+required.
+
+Students enrolled in GMS 6971 Research for Master's Thesis will design and conduct a research thesis
+with the guidance of their Research Mentor. This mentored research experience is designed to lead to
+a publishable manuscript. GMS 6971 will culminate with the preparation of the MS thesis paper and
+an oral thesis defense (see page 14 for thesis defense information). Per Graduate School policy, thesis
+students are required to take 3 credits of 6971 in their final term (2 credits if the final term is
+summer).
+
+To enroll in GMS 6971, students must initiate the process several weeks prior to registration. To enroll
+each semester, students must:
+- Complete a Thesis/Dissertation Research Contract. This will outline the contact time with
+the instructor (Research Mentor), time allocated by the student, and specific plans and
+deliverables to be completed during the semester.
+- Submit the signed Contract to the Academic Coordinator for registration.
+
+At the end of each semester, students must have completed the work in the contract in order to
+receive credit (S/U). Incomplete deliverables will result in the student receiving a grade of Incomplete
+("I"), which will be changed once the student has completed the work.
+
+[[page 14]]
+14
+
+MS Non-Thesis Option
+
+MS degree students taking the non-thesis option must participate in at least one mentor approved
+Grad Development Professional Skills seminar. Upcoming topics and registration information are
+available at: https://graddev.ufhealth.org/professional-skills/.
+
+The MS degree for students taking the non-thesis option will culminate with the preparation and
+presentation of a Capstone project to their full committee that shows independent investigation. The
+Capstone project will be based on work completed during GMS 6905 Independent Studies in Medical
+Sciences.
+
+MS Thesis and Defense
+
+The MS degree for students taking the thesis option will culminate with the preparation and
+presentation of a thesis that shows independent investigation. The thesis will be based on work
+completed during GMS 6971 Research for Master's Thesis.
+
+The oral thesis defense will be scheduled once the Supervisory Committee has determined the thesis is
+ready to be defended. This defense typically occurs at the midpoint of the semester during which the
+student plans to graduate. The thesis defense will be open to all members of the department, College
+of Medicine and anyone outside of the College who wishes to attend. All members of the student's
+Supervisory Committee must be present during the oral thesis defense. The Committee Chair must be
+physically present at the defense. Other committee members may be present electronically by phone
+or video conference per UF Graduate School policy. Immediately following the formal open thesis
+defense, the student will meet privately with the Supervisory Committee to finalize completion of the
+degree.
+
+The written thesis must be of publishable quality and in a form suitable for publication. This format is
+guided by the UF Graduate School. Students should review the Guide for Preparing Theses and
+Dissertations before beginning to prepare their thesis.
+
+General Graduation Requirements
+
+Credits
+MS students must earn a minimum of 32 credits for the Health Outcomes & Implementation Science
+concentration or 36 credits for the Biomedical Informatics concentration to obtain a degree. No more
+than 15 credits (earned with a grade of B or higher) can be transferred from previous coursework. At
+least half of the MS program credits must be courses within HOBI.
+
+[[page 15]]
+15
+Grade Point Average
+Students must achieve an overall GPA of B (3.0) or better to be awarded a degree. Grade point
+averages are computed on all courses at the 5000 level or above and the first 6 semester credit hours
+of eligible 3000/4000 level course work outside the major.
+
+Grades earned in courses transferred for credit do not count towards the student's grade point
+average.
+
+Students must also maintain an overall GPA of 3.0 or better throughout their graduate career.
+Students who fall below a GPA of 3.0 during any semester may request an exemption to remain in the
+program one additional semester. This exemption must be requested through the student's Research
+Mentor and approved by the Curriculum Committee. If the exemption is granted and the student fails
+to upgrade their GPA during the following semester, or falls below a 3.0 GPA in any subsequent
+semester, the student is subject to dismissal from the program.
+
+Policies and Resources
+
+Conduct and Honor Codes
+We expect our students to maintain the highest levels of honesty, integrity, and ethical conduct.
+Students are expected to be familiar with and abide by all UF Student Conduct and Honor Codes. Any
+incident involving violation of these codes - including fraud, plagiarism, and cheating - will not be
+tolerated and may be grounds for dismissal from the program.
+- Fraud typically involves intentional and deliberate misuse of data leading to falsification of
+results. This includes the fabrication of data or omission or concealment of conflicting data.
+- Plagiarism is the use of someone else's work or ideas and passing them off as one's own.
+This includes the use of material with only slight modification or without proper credit given
+to the original source.
+
+Ignorance of UF student honor codes by a student will not be an excuse for any actions that occur in
+violation. All incidents will be handled according to the guidelines of the UF Office for Student Conduct
+and Conflict Resolution.
+
+Counseling & Wellness Center
+The UF Counseling & Wellness Center provides a number of counseling services for students. Their
+staff is comprised of licensed psychologists, licensed mental health counselors, clinical social workers,
+psychiatrists, psychiatric fellows, psychiatric nurse practitioners, postdoctoral associates, psychology
+interns, counselor education interns, and practicum counselors. All of their staff are generalists and see
+students presenting with a variety of issues. The Counseling & Wellness Center website also contains
+many Self-Help Resources that are available 24 hours.
+
+Dates and Deadlines
+The Graduate School Academic Calendar publishes all annual critical dates and deadlines. This includes
+deadlines for drop/add, fee payments, thesis/dissertation submission, and graduation.
+
+[[page 16]]
+16
+The Graduate School also sends notification of important deadlines and critical dates via the Graduate
+Student Listserv. This Listserv also keeps all UF graduate students informed of academic, research, and
+financial opportunities. All currently enrolled graduate students are added to the listserv by their
+GatorLink e-mail account; there is no way to opt out of the listserv.
+
+Diversity and Inclusion
+It is our intent that students from all diverse backgrounds and perspectives be well served by our
+programs, that students' learning needs be addressed both in and out of class, and that the diversity
+that students bring to programs be viewed as a resource, strength and benefit. In our programs we
+explore ways to bring better health to our communities and individual patients. This goal requires
+diverse perspectives. What we achieve, we achieve together as a team consisting of faculty, staff, and
+students from diverse backgrounds. This diversity is a possibility for us all to learn and grow. It is our
+intent for HOBI courses to present materials and activities that are respectful of diversity: gender,
+sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Since our discussions will
+require collaboratively working with different people having different experiences and coming from
+different walks of life, we ask all enrollees in our programs to engage in discussion with care and
+empathy for the other members in the classroom, in HOBI events, and in general.
+
+Your suggestions are encouraged and appreciated. Please let us know ways to improve the
+effectiveness of the programs for you personally or for other students or student groups.
+
+E-mail and Off-Campus access
+HOP graduate students are required to use their GatorLink e-mail as their primary e-mail address to
+ensure they receive important information from the University and department. GatorLink e-mail
+addresses are not allowed to be forwarded to a non-ufl.edu account. This can result in important
+information being lost, as third-party providers often block forwarded messages or designate them as
+SPAM.
+
+If you need to access UF web resources from off-campus, such as online journals for which UF has
+purchased a license/subscription, you must log in via the UF Health Science Center VPN or UF Gatorlink
+VPN. This will allow your off-campus computer to act like it is at UF, so you can access sites that are
+restricted to UF computers and GatorLink-registered users.
+
+HIPAA Training
+In addition to conduct and honor codes, we require our graduate students to maintain active HIPAA
+General Awareness training (PRV800) training for the duration of their graduate degree.
+
+Health Insurance
+Effective summer 2014, UF now requires all newly admitted students, both domestic and international,
+to show proof of health insurance. Students can purchase the UF Student Health Insurance Plan,
+administered through the UnitedHealthcare StudentResources or provide evidence of comparable
+coverage from an outside entity.
+
+[[page 17]]
+17
+UF graduate students on an appointment as a graduate assistant, teaching assistant or research
+assistant, or those on a Predoctoral Fellowship appointment may also qualify for the GatorGradCare
+health insurance plan.
+
+Housing
+On-campus housing is available on a limited basis for both single and married students who are
+admitted or enrolled and maintain proper academic progress toward a degree at the University of
+Florida. Generally a waiting period of at least several months is encountered. Contact Housing &
+Residence Education for more information. This office can also provide information on off-campus
+rental options. More information on off-campus living can be found at http://www.offcampus.ufl.edu/.
+
+Leave of Absence
+Students who do not enroll at UF for three consecutive terms must apply for readmission to the
+Graduate School.
+
+Libraries
+The Health Science Center Library is located in the Communicore Building of the Health Science Center.
+It has a large collection of journals, texts, and reference materials, over 100 computers, and ample
+study space. A Gator1 card is required to check out materials.
+
+Health Outcomes & Biomedical Informatics, like other study programs, is assigned a specific librarian
+liaison who can help you find resources in your particular subject area. A list of librarian liaisons in the
+Health Science Center Library can be found at http://library.health.ufl.edu/services/library-liaisons/.
+
+The HOBI librarian liaison has prepared a guide to library resources for HOBI students at
+http://guides.uflib.ufl.edu/hobi.
+
+There are also several other libraries across the main UF campus, including Library West, which houses
+the Humanities, Business and Social Sciences holdings, and Marston Science Library, containing the
+Agriculture, Life Sciences, Engineering, Physical Sciences, Mathematics and Earth Sciences holdings.
+
+A list of subject specialists for other libraries can be found at
+http://apps.uflib.ufl.edu/staffdir/SubjectSpecialist.aspx.
+
+Sexual Harassment
+It is the policy of the University of Florida to provide an educational and working environment for its
+students, faculty, and staff that is free from sex discrimination and sexual harassment. Sex
+discrimination and sexual harassment will not be tolerated, and individuals who engage in such
+conduct will be subject to disciplinary action. The University encourages students, faculty, staff, and
+visitors to promptly report sex discrimination and sexual harassment.
+
+The Division of Student Affairs provides more information on Sexual Harassment definitions, policies,
+and procedures for reporting.
+
+[[page 18]]
+18
+Traffic and Parking Regulations
+All UF students can register a car and obtain a parking decal. Eligibility for parking decals is determined
+by the student's local address and academic classification. To obtain a parking decal:
+
+UF Transportation and Parking Services
+1273 Gale Lemerand Drive
+Gainesville, FL 32611-2400
+352-392-7275
+http://www.parking.ufl.edu
+
+UF Police Department
+UFPD should be contacted for any non-emergency situations occurring on campus by calling 392-1111.
+All emergencies should be reported by dialing 911.
+
+The Student Nighttime Auxiliary Patrol (SNAP) is a free nightly service for students that can provide an
+escort after dark to anywhere on campus. They can be reached at 392-SNAP.
+
+Work-related Injuries (Worker's Compensation)
+For non-serious injuries you should first contact the Worker's Compensation office at 392-4940 for
+assistance filling out the forms. You may then go to the Student Infirmary or another designated site
+for treatment. For serious injuries you should go directly to the Shands Emergency Room for
+treatment. Upon arrival you should inform the admitting clerk of your graduate status and that the
+injury is work related. As soon as possible after treatment, contact the Worker's Compensation office
+so that a worker's compensation form and accident/injury form can be prepared. After year 1, you
+should report to your departmental worker's compensation representation (the department in which
+your payroll is processed).

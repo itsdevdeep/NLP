@@ -1,0 +1,190 @@
+[[page 1]]
+Introduction to Responsible Conduct of Research for Physics Students
+Each physicist is a citizen of the community of science. Each
+shares responsibility for the welfare of this community. Science is
+best advanced when there is mutual trust, based upon honest behavior,
+throughout the community. Acts of deception, or any other acts that
+deliberately compromise the advancement of science, are unacceptable.
+Honesty must be regarded as the cornerstone of ethics in science.
+Professional integrity in the formulation, conduct, and reporting of physics
+activities reflects not only on the reputations of individual
+physicists and their organizations, but also on the image and credibility of
+the physics profession as perceived by scientific colleagues, government
+and the public. It is important that the tradition of ethical behavior be
+carefully maintained and transmitted with enthusiasm to future
+generations.
+-Statement by the American Physical Society
+http://www.aps.org/policy/statements/02_2.cfm
+
+As you prepare yourself to join the world-leading research effort at the University of Illinois, you should
+understand that the university and your research colleagues expect you to maintain the highest
+standards in the responsible and ethical conduct of your research. As Nobel Laureate Max Delbrück put
+it, "In the cathedral of science, every brick is important." The work you do as an undergraduate
+researcher will contribute to the work done by others who will follow you, and they must be able to rely
+on the honesty and soundness of your work. The University's statement on research integrity spells out
+in detail what is expected of you, and we urge you to familiarize yourself with the institution's formal
+policies and procedures.
+The guidance about the responsible conduct of research that you receive from your research supervisors
+and mentors is fundamental to your training as a scientist or engineer. However, you cannot expect your
+research supervisor to anticipate every problem or preemptively address every issue. As a responsible
+researcher, you must inform yourself of the professional obligations and legal requirements involved in
+carrying out research. Do not hesitate to ask questions to help you gain an instinctive feel for what is
+proper and to develop deeper insight into the issues involved in conducting research.
+
+Responsible conduct of research
+Science ethics rests on six fundamental principles-honesty, rigor, skepticism, openness, generosity, and
+social responsibility.
+* Science requires its practitioners to be honest-do not fabricate, misrepresent, falsify,
+manipulate, or destroy scientific data, calculations, or analysis. The results of your work must be
+maintained in an unbiased, permanent record that is available for others to see and evaluate.
+You are obligated to correct errors in the scientific record as soon as you become aware of
+them. You must also refrain from claiming expertise or credentials that you do not have.
+* Science requires its practitioners to be careful-follow protocols exactly and apply rigorous
+standards to all work that you do. Take no shortcuts and change no procedures without the
+knowledge and explicit permission of your research supervisor.
+* Science requires its practitioners to be skeptical-do not want to believe so much in some
+result, yours or someone else's, that you lose your objectivity and critical thinking.
+
+[[page 2]]
+* Science requires its practitioners to be open-you must be willing to share data, methods,
+theories, insights, and equipment with other researchers. You must allow others to see your
+work and evaluate it. You must respond promptly and constructively to questions about your
+work. You must be open to criticism and accept it graciously.
+* Science requires its practitioners to be generous-you must give credit to others for their ideas
+and prior work and be scrupulous to avoid even inadvertent piracy or plagiarism. You should
+recognize that science is a cooperative social endeavor and assist others when they ask for your
+help. You must always treat others with respect and candor.
+* Science requires its practitioners to be responsible-you must anticipate the social
+consequences of your research and prevent harm to the subjects of experiments and to the
+public at large. You must safeguard the wellbeing of your labmates and be mindful of the social
+welfare of anyone involved in or affected by your research.
+Scientific progress depends on truthfulness and full disclosure, accurate and complete record-keeping,
+and free and open exchange of data and interpretations, but honest error is inevitable. If science is
+allowed to function as it should, it is self-correcting, as new methods and ideas supplant previous
+inaccuracies and errors.
+But sometimes there's a thin line between honest error and misconduct, just as there is a thin line
+between being bold and being reckless. If you are uncertain about any aspect of your obligations as a
+researcher, you should seek the guidance of your professors, research supervisors, and mentors. It is
+their responsibility to assist you as you undertake research and learn to fulfill your duties as an ethical
+physicist. They can answer your questions about your responsibilities and the practices in place at the
+University of Illinois to ensure the integrity of the research enterprise. Contact information for people
+outside your research group who can help you resolve problems is given at the end of this document.
+What sorts of ethical dilemmas might you encounter as a young scientist? In the next sections, we'll look
+at five areas where beginning researchers often have questions.
+
+Data selection, rejection, and treatment
+Forging or fabricating data and falsifying or inventing results clearly constitute egregious scientific
+misconduct. In some physics research, however, certain data are routinely excluded or selected for
+further analysis. This practice is entirely acceptable, provided all original data are retained and any
+selection, treatment or exclusion of data is disclosed. Thus you must preserve all data that you take in a
+permanent record. As soon as you begin working with a research group, ask your research supervisor to
+show you the proper way to record data and document all your work.
+The manipulation or enhancement of digital images is becoming a huge issue in the ethical reporting of
+research results, and scientific societies and journal editors are working to clarify what are acceptable
+practices and what constitutes misconduct. As in all other kinds of data selection or treatment, the
+original pre-enhancement images must be preserved in the research record.
+If you have questions about why certain data are selected or excluded, or how and why images are
+enhanced, ask your research supervisor for clarification.
+
+Using and referencing others' scholarly work
+In the course of your studies, you have learned that plagiarism, the reproduction or close imitation of
+the ideas or language of others in your written work without attribution, is academic misconduct. A
+related form of research misconduct is piracy, the unauthorized reproduction or use of the ideas, data,
+or methods of others without adequate permission or acknowledgment. Both plagiarism and piracy are
+egregious breaches of the responsible conduct of research.
+Plagiarism is generally thought to apply to the written misuse of others' ideas, images, figures, or tables,
+but some scientists believe it can also apply to researchers' reuse of their own previously published
+
+[[page 3]]
+reports or papers without proper acknowledgment of the source. This practice is referred to as self-
+plagiarism or duplicate publication. Research-based writing is filled with rules of which you may not be
+aware or know exactly how to follow. Sometimes you may not know what must be cited and what is
+considered "common knowledge." You should always seek guidance from your research supervisor
+about proper citation practices in your field.
+Piracy is the unauthorized use of others ideas, materials, data, or methods without permission in the
+deceitful attempt to pass them off as one's own. Particular care must be taken in avoiding personal
+benefit from participating in peer review of the work of others.
+
+Ownership of intellectual property and authorship practices
+Much of the physics research that is conducted at the University of Illinois is paid for by grants from
+federal agencies-the National Science Foundation, the National Institutes of Health, the US
+Department of Energy, NASA, and several US Department of Defense agencies. Federal regulations
+require the recipients of federal funding to adhere to the highest standards of ethical conduct, to
+preserve and protect the research record, and to share their results with the research community and
+the general public.
+Any results or data obtained by University of Illinois researchers, including those paid from federal
+grants, are the property of the university. When you leave your research group, all your original research
+records must be left with your research supervisor, who will maintain the data on behalf of the
+university. Copies may be taken, with your supervisor's permission, but you may not remove the original
+data and records.
+Disagreements on attribution of credit and responsibility for collaborative work cause many complaints
+among researchers. You should discuss any of these concerns with your research supervisor early in
+your project and reach an understanding of the role and responsibilities of each person in the research
+group and the group's authorship practices.
+Different groups have different practices on authorship, and it is up to the research supervisor to decide
+what is published, when it is published, and who will be given authorship. The decision of the research
+supervisor is final; a student may not independently disseminate research results in any form without
+the explicit written permission of the research supervisor.
+
+Conflicts of interest
+Conflicts of interest arise when other considerations interfere with the objective conduct of research
+and accurate and full reporting of results. Sources of conflict may be personal obligations, professional
+or financial relationships, and philosophical or intellectual predispositions. Part of your duty as a
+responsible researcher is to be aware of and avoid potential conflicts that could affect your objectivity
+and independence.
+
+Communications and human relationships
+Physics is increasingly an international, collaborative enterprise, and you may find yourself working side
+by side with people whose backgrounds and experiences are very different from your own. The
+American Physical Society has made strong statements that "full participation by everyone...is important
+to the health and future achievements in our discipline." In addition, the University of Illinois' Student
+Code, Article 1, articulates clear expectations that students adhere to the university's fundamental
+commitment to academic freedom, equality of opportunity, and human dignity.
+We are very proud of the longstanding supportive, collegial atmosphere of Physics Illinois, and we
+expect you to do your part to maintain and strengthen this essential intellectual environment. Treat
+everyone in your research group with courtesy and respect. Be welcoming and inclusive of all members,
+regardless of their roles. Be aware of your own unconscious biases and the unintended consequences of
+
+[[page 4]]
+thoughtless actions and strive to overcome them. If you encounter problems, address them early and
+objectively. Seek help if you need it to resolve misunderstandings or differences of opinion.
+Next steps
+Welcome to the world of physics research-we are glad you have chosen to join our community! We
+expect you to fulfill your duties in accordance with the highest standards of integrity. We encourage you
+to learn more about the responsible conduct of research through discussions with your research
+supervisors and mentors, through additional readings and training, and through self-reflection. Do not
+hesitate to ask questions or request assistance in resolving problems-it is the obligation of all physicists
+to help you and to ensure th e w ellbeing of our community.
+Where to go for help
+Physics Department Head, Matthias Grosse Perdekamp, Room 211, Loomis Laboratory
+Associate Head for Undergraduate Programs, Yann Chemla, Room 231, Loomis
+University Research Integrity Office, Christopher Lehman, Swanlund Administration Building, 4th Floor,
+rso
+fficer@illinois.edu
+Additional resources
+University Ethics and Compliance Office
+University of Illinois Policy and Procedures on Integrity in Research and Publication
+University of Illinois Student Code of Conduct
+Office of the Vice Chancellor for Research's Resources for Research Integrity and Ethics
+The Office of Technology Management at Illinois' Inventors Handbook (pp. 6-11 on intellectual property)
+For further reading:
+Committee on Science, Engineering, and Public Policy; Institute of Medicine; Policy and Global Affairs;
+National Academy of Sciences, National Academy of Engineering, On Being a Scientist: A Guide to
+Responsible Conduct in Research, 3rd ed. (Washington DC, The National Academies Press, 2009).
+Office of Science and Technology Policy, Executive Office of the President, "Federal Policy on Research
+Misconduct," Federal Register 65, No. 235, Wednesday, December 6, 2000/Notices.
+D. Scott-Lichter and the Editorial Policy Committee, Council of Science Editors, CSE's White Paper on
+Promoting Integrity in Scientific Journal Publication, 2012 Update. 3rd revised ed. (Council of Science
+Editors, Wheat Ridge, CO, 2012). (accessed 02/23/2016).
+Adil E. Shamoo and David B. Resnik, Responsible Conduct of Research, 2nd ed. (Oxford University Press,
+Oxford, 2009); doi:10.1093/acprof:oso/9780195368246.001.0001.
+"Report of the Investigation Committee on the Possibility of Scientific Misconduct in the Work of
+Hendrik Schön and Coauthors," Lucent Technologies (2002).
+James Woodward and David Goodstein, "Conduct, misconduct and the structure of science," American
+Scientist 84, 479 (1996).
+Natasha Gilbert, "Science journals crack down on image manipulation," Nature News, published online
+9 October 2009; doi:10.1038/news.2009.911.
+Brian C. Martinson, Melissa S. Anderson, and Raymond de Vries, "Scientists behaving badly," Nature
+435, 737-738 (2009); doi:10.1038/435737a.
+Up
+dated 1/07/2019

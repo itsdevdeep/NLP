@@ -1,0 +1,41 @@
+# Runtime dependencies for PS4_GroupN_AIMLZG521_ConversationalAI_Assignment.ipynb
+# Tested with Python 3.14 on Windows; use Python 3.12 or 3.13 on macOS arm64
+# (torch / sentence-transformers wheels are most reliable there).
+#
+#   python3.12 -m venv .venv
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# Also required, outside pip:
+#   - Ollama  (https://ollama.com)  then:  ollama pull qwen3:14b-q4_K_M
+#   - internet on first run: downloads sentence-transformers/all-MiniLM-L6-v2 (~90 MB)
+
+# --- LLM client ---
+ollama==0.6.2
+
+# --- RAG stack ---
+langchain==1.4.0
+langchain-core==1.6.2
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-huggingface==1.2.2
+sentence-transformers==6.0.1
+transformers==5.16.1
+torch==2.14.0
+faiss-cpu==1.15.0
+
+# --- data / plotting ---
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.1
+tqdm==4.70.0
+
+# --- to execute the notebook ---
+jupyter==1.1.1
+nbconvert==7.17.1
+nbformat==5.11.1
+ipykernel==7.3.0
+
+# scikit-learn / scipy come in as sentence-transformers deps; pinned for reproducibility
+scikit-learn==1.9.0
+scipy==1.18.1

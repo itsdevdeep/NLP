@@ -1,0 +1,176 @@
+[[page 1]]
+ECON 301D Winter 2020
+1
+INTERMEDIATE MACROECONOMICS
+MW 2:30-4:20pm
+MEB 103
+
+Instructor: Zinan Wang (wangzn@uw.edu)
+
+Office Hours: Monday 1:20-2:20pm and Friday 4:00-5:00pm, Savery Hall 319F
+
+Course Website: https://canvas.uw.edu/courses/1354279
+
+Course Overview: This course develops the tools of modern macroeconomic theory in the context of the global
+economy and explains the determination of aggregate output; of employment and prices; the tools of monetary and
+fiscal policy used by governments to fight inflation and unemployment and to promote growth in the economy. The
+purpose of this course is to explain macroeconomic theory and also to use it as a framework for discussing the current
+state of the US and world economy and for analyzing recent economic policy issues.
+
+Learning Objectives for Econ 301:
+
+- Understand the importance of microeconomics as a foundation for macroeconomics
+- Understand how aggregate economic activity is measured at the level of a nation
+- Understand how basic models of the economy summarize and explain the interactions between these main
+macroeconomic measures, output, employment, and inflation
+- Understand what causes economic activity to fluctuate over the years, from recessions to full employment
+and back
+- Understand the role of government in trying to smooth out these fluctuations
+- Understand the differences between adjustment in the short run and adjustment in the long run
+- Understand the insights conveyed by the various schools of thought -Keynesian economics with sticky
+prices, classical economics with flexible prices, and various syntheses of the two
+- Understand how the economy grows in the very long run through capital accumulation and technological
+progress
+- Understand specific concepts like dynamics and expectations
+
+Textbook: "Macroeconomics", by Olivier Blanchard (Pearson, 7th edition)
+
+Course Outline:
+Introduction
+Ch 1 and 2
+The Short Run
+The goods market (ch 3)
+Financial markets (ch 4)
+Goods and financial markets: the IS-LM model (ch 5)
+Financial markets II: the extended IS-LM model (ch 6)
+The Medium Run
+The labor market (ch 7)
+The Philips curve, the natural rate of unemployment, and inflation (ch 8)
+From the short to the medium run: the IS-LM PC model (ch 9)
+The Long Run
+The facts of growth (ch 10)
+Saving, capital accumulation and output (ch 11)
+Technological progress and growth (ch 12)
+Technological progress: the short, the medium, and the long run (ch 13)
+
+(If time permitting, part of the chapters of The Open Economy in the textbook may also be covered.)
+
+[[page 2]]
+ECON 301D Winter 2020
+2
+COURSE REQUIREMENTS
+
+ATTENDING LECTURES: It is strongly recommended that you attend lectures. If you do miss class, you're
+responsible for the material that you miss and you should get notes from a fellow student.
+
+LECTURE NOTES (SLIDES): Lecture notes will be posted on the course website regularly.
+
+READINGS: It is advised to do the reading of the corresponding textbook chapters before the class covering the
+specific material. You are also advised to check the Economist or the Financial Times where current economic issues
+are analyzed as they occur.
+
+ASSIGNMENTS: There will be 4 assignments during the quarter (the questions will be assigned and posted online
+one week ahead). Completed assignments must be turned in at the beginning of the section.
+
+EXAMS: There will be 2 non-cumulative exams.
+Dates: Exam1: Monday, February 10, 2020 in class
+Exam2: Tuesday, March 17, 2020, 2:30pm, MEB 103
+
+GRADE: The following weighting will be applied:
+Assignments: 24% (6% each) Exam1: 36% Exam2: 40%
+
+The grading policy of the Department of Economics sets the upper boundary for the median grade of this course at
+3.1.
+
+REMARK: If you have any difficulty with the material (or any problem), feel free to see your instructor during office
+hours as soon as possible because the material covered in this course becomes more complex overtime and is based
+on your overall understanding from week to week. It is thus essential to read the chapters assigned in the textbook on
+a regular basis and to work out the practice problems. Tutoring by the upper class EUB students will be available
+at regular hours in Savery 328. You can check the schedule posted on the door or available on the EUB web page
+at http://depts.washington.edu/ecnboard/eub-tutoring/
+
+PREREQUISITES: The prerequisite for ECON 301, Intermediate Macroeconomics, is ECON 300 and the
+prerequisites for ECON 300, Intermediate Microeconomics, are MATH 112 or MATH 124, and both ECON 200 and
+ECON 201. Students must NOT take ECON 300 and ECON 301 CONCURRENTLY as some of the theory developed
+at the beginning of ECON 301 is based on theory taught in ECON 300.
+
+[[page 3]]
+ECON 301D Winter 2020
+3
+Course Policy
+Examination rules
+I Exam Absence Policy
+1. If you are unable to make it to an exam period due to illness or another serious unexpected
+happening, do the following:
+i. Contact your instructor the same day to notify him/her that you are not able to take the exam and
+why.
+ii. If you missed the exam for health reasons, you need to show as soon as possible to your
+instructor a valid medical note issued by a medical professional, on the original exam date. There is no
+flexibility on this matter. The arrangement for making up the missing credits may vary from instructor to
+instructor (make-up exam etc.).
+iii. If there was some other reason for missing the exam (car accident, meteor shower etc.) come
+and see your instructor to explain these reasons - you will need to show proper valid documentation. Not
+waking up or missing your bus/plane is not an acceptable excuse.
+2. If you know that you are going to be away due to an university related activity (e.g. sport, debate), let
+your instructor know well in advance (preferably in the first week of the quarter) so that arrangements for
+make up can be made upon presentation of proper valid documentation.
+II Exam Taking Rules
+1. Material allowed during a closed book exam.
+i. All books, papers, notebooks etc. must be placed inside your bag (backpack etc.) and the bag
+must be securely and fully closed. If you do not have a bag, you must place all your material out of your
+reach (classroom window sill etc.)
+Note that individual instructors may have specific policies (open book exams etc.)
+ii. Only keep writing tools and basic calculators (i.e. simple 4-functions calculators). Graphing
+calculators or calculators with memories will not be allowed. Sharing of calculators is not permitted.
+iii. Cellular phones must be turned off before entering the class and placed in your closed bag (not
+in your pocket). You are not allowed to use a cellular phone during an exam. Doing so will result in the
+termination of your exam time (your exam being taken from you at this point). Likewise i-pads or i-pods
+(or similar devices) are not allowed. The use of personal computers is not allowed during an exam.
+iv. Baseball caps with visors and any kinds of headgear hiding your eyes are not permitted.
+2. Attendance and special accommodation
+i. You are expected not to leave the room during the exam except in case of emergency. This
+includes restroom use; be sure to use the restroom before the beginning of the exam.
+ii. If you arrive late to an exam, you cannot expect to get extra time after the official end of the
+exam to make up for the missing time at the beginning.
+iii. If you have a documented disability, please show your instructor your documentation from the
+Office of Disability Resources for Students on the first day of class, so that your instructor can make all the
+necessary arrangements if you wish to take your exam in a separate place.
+
+3. Academic honesty
+
+i. Exams are individual work and cheating will not be tolerated. Students must not glance at
+their neighbors' exams. Students must not change their answers after they have turned their exam in.
+
+[[page 4]]
+ECON 301D Winter 2020
+4
+ii. Check the student handbook for further information about cheating, plagiarism etc. Cheating
+of any kind may result in expulsion from the university. The Department of Economics will follow university
+policy in case of academic dishonesty. It is strongly recommended that you review the Dept. of Economics
+policy at:
+
+https://econ.washington.edu/policy-academic-conduct
+
+Academic integrity is the cornerstone of the Department's rules for student conduct and evaluation
+of student learning. Students accused of academic misconduct will be referred directly to the Office of
+Community Standards and Student Conduct for disciplinary action pursuant to the Student Conduct Code
+and, if found guilty, will be subject to sanctions. Sanctions range from a disciplinary warning, to academic
+probation, to immediate dismissal from the Department and the University, depending on the seriousness
+of the misconduct. Dismissal can be, and has been, applied even for first offenses. Moreover, a grade of
+zero can be assigned by the instructor for the course.
+
+Homework Policy
+
+1. Write all your answers ON THE HOMEWORK SHEETS that you have downloaded.
+
+2. Staple all the sheets in the correct order.
+
+3. DO NOT COPY the answers from each other - this can easily be detected when the same mistakes
+appear and the same sentences are written! Indeed you are allowed and even encouraged to work together,
+but you must part from each other and write you answers alone. Don't forget to show your intermediate
+calculations.
+
+E-mail
+
+Please check your UW email regularly for the announcements of the class and use your UW account for
+any communication with your instructor. Emails with unknown addresses will be discarded unread.

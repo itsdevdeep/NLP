@@ -1,0 +1,698 @@
+[[page 1]]
+Graduate Student Handbook
+
+Department of Geography
+University of Florida
+Fall 2023
+
+Dr. Jane Southworth, Chair
+Dr. Joann Mossa, Associate Chair
+Dr. Jason K. Blackburn, Graduate Coordinator
+Mr. Joshua Worcester, Academic Assistant II
+
+3141 Turlington Hall P.O. Box 117315
+Gainesville FL 32611-7315
+Phone: (352) 392-0494 Fax: (352) 392-8855
+Website: www.geog.ufl.edu
+
+[[page 2]]
+Table of Contents
+Introduction ................................ ................................ ................................ ............... 2
+General Information ................................ ................................ ................................ ... 2
+ANNUAL REPORTING ON PROGRESS: ................................ ................................ ....... 2
+FINAL GRADUATION CHECK ................................ ................................ ..................... 3
+GEOGRAPHY COLLOQUIUM SERIES ................................ ................................ .......... 3
+Degrees Offered, Concentrations, Minors, and Certificates ................................ .......... 4
+Definition of Good Academic Standing / Satisfactory Progress ................................ .... 5
+Options for Support: Assistantships and Fellowships ................................ ................... 5
+Selecting your Committee Chair and Forming the Committee ................................ ...... 5
+Master of Arts and Master of Science Requirements ................................ .................... 7
+Master's Program Course Requirements ................................ ................................ ..... 8
+Requirements for the Doctor of Philosophy Degree ................................ ..................... 9
+Steps Towards Candidacy ................................ ................................ ........................ 9
+Comprehensive Exam ................................ ................................ .............................. 9
+Proposal Defense ................................ ................................ ................................ ... 10
+Completion of the Dissertation ................................ ................................ ............... 10
+Ph.D. Program Course Requirements (90 hours minimum) ................................ ..... 12
+Appendices ................................ ................................ ................................ .............. 14
+
+[[page 3]]
+2
+
+Introduction
+This "Brief Guide" specifies the Geography Department's internal requirements, standards, and
+procedures for obtaining an advanced degree. This handbook also reviews the general requirements
+of the Graduate School, though it does not replace those. Please keep in mind that when you apply
+for graduation, the Department certifies that you have met our required coursework and followed our
+internal procedures. The Graduate School verifies committee memberships, minor and special minor
+coursework, and other regulations that they impose. You must satisfy both the Department and
+Graduate School regulations before your degree can be completed. This Handbook is designed to
+help students avoid misunderstandings and unnecessary delays. However, it does not address or
+replace all the rules, regulations, and instructions contained in the online catalogs and handbooks of
+the College of Liberal Arts and Sciences and the Graduate School.
+For more complete information see:
+http://graduateschool.ufl.edu/media/graduate-school/pdf-files/handbook.pdf
+General Information
+ANNUAL REPORTING ON PROGRESS:
+The Advisor is the initial contact person for a graduate student in UF Geography. The advisor
+oversees research and the committee. When funded by research support from the advisor, the
+advisor also serves as the immediate work supervisor. Students are required to provide an annual
+report on their progress by March 15th each year of their program. For doctoral students this will
+include the Individual Development Plan, Program of Study, and Annual Activities Report. For
+Masters students this will include the Program of Study and Annual Activities Report. Templates for
+each of these reports are available on the Geography Department Website under Forms.
+1. Individual Development Plan (IDP) - PhD. The Graduate School requires that all PhD students
+complete an Individual Development Plan (IDP) with guidance from their advisor during year
+one, and that it be updated annually and reviewed by the student's advisor. The IDP is a planning
+tool for students, to be completed and updated throughout their academic careers at UF. An IDP
+helps students to assess and evaluate which skills and aptitudes would be most beneficial for the
+professional and personal goals they have after graduating from UF. The document is student-
+driven and meant to be revised or updated periodically. The aim is to capture a student's
+changing set of tools, values, and interests, and adjust their goals in conjunction with the
+resources available to them in their programs and their intended areas of expertise.
+Students are required to meet with their advisors at least one time per year to discuss and update
+the IDP. A copy of the IDP, signed by the student's advisor must be submitted digitally to
+the Graduate Coordinator through a DocuSign process annually by March 15th.
+2. Program of Study - MA/MS and PhD. This form is completed by Masters and Doctoral students
+with the assistance of their advisor and supervisory committee. This form should be completed
+during year one, and presented to the student's supervisory committee for approval at the first
+
+[[page 4]]
+3
+
+committee meeting. Every year the program of study should be updated and submitted
+digitally to the Graduate Coordinator via a DocuSign process by March 15th.
+A copy of this completed form must be presented to the Graduate Coordinator for final
+graduation check.
+
+3. Annual Activities Reports (AAR) - MA/MS and PhD. This report documents the student's
+accomplishments for the previous year (7/01/xx to 6/30/xx), including milestones achieved,
+presentations and papers published, as well as grants and awards earned. This report must be
+reviewed and signed by the student's advisor and submitted digitally to the Graduate
+Coordinator via a DocuSign process annually by March 15th.
+FINAL GRADUATION CHECK
+Students must schedule a Final Graduation Check with the Graduate Coordinator at least two
+semesters before planned graduation. Students must bring a completed Program of Study Form as
+well as an informal copy of their transcripts. During meetings, students should be prepared to
+compare transcripts to departmental requirements from this handbook and any certificate programs.
+Note: the graduate coordinator is NOT the certificate coordinator.
+GEOGRAPHY COLLOQUIUM SERIES
+The Geography Department has a weekly colloquium series held on Thursdays at 3PM.
+The weekly colloquium serves several purposes:
+* A forum for external speakers.
+* A "Shop window" in which new graduate students can view the most recent research of faculty
+members and their fellow graduate students.
+* A friendly forum in which students can receive valuable feed-back about their research and
+presentation skills before presenting at professional meetings or interviews for employment.
+* An opportunity to give and receive intellectual stimuli and suggestions and to learn about
+research techniques and terminology from areas of specialization other than your own.
+* A weekly meeting at which one can catch up on the academic and social activities of the
+department.
+Graduate student attendance is required for a set number of semesters, as described below.
+Nevertheless, all students are expected to attend regularly while resident on the UF Campus.
+* PhDs must attend 4 semesters and register for 4 credit hours (1/semester).
+o PhDs must give a professional job talk on their dissertation research after becoming
+ABD, and only after at least 2/3 of research is complete (or 2 of 3 papers). If the
+presentation is given without clear completion of research, the student will be required
+to present again later.
+* MA/MS must attend 2 semesters and register for 2 credit hours (1/semester).
+o MA/MSs must present their thesis during designated poster sessions before graduating.
+
+[[page 5]]
+4
+
+* Students may choose to attend colloquium and register for credit in a later semester. But, in
+this case the student is responsible to (1) advise responsible faculty of intention, (2) maintain a
+letter of completion with grade at end of term, and (3) provide completion letter to department
+at time of registration for credit. Students are not permitted to register for colloquium credit for
+a current semester with the intention of attending during a later semester.
+Email Correspondence from the Department, Graduate School, and UF will only be sent to your
+Gatorlink account, so it's important that you monitor your Gatorlink account daily and be sure you are
+subscribed to Geography's list-serv.
+Plan to complete degree in timely fashion. Remember that most faculty are on 9-month
+appointments from Aug 15 - May 15 and may not be available for summer defenses. In addition, after
+7 years the Graduate School deems coursework invalid, and, consequently, required courses will
+need to be repeated. Finally, be aware of the Graduate School's deadlines for applying for graduation
+and submitting theses and dissertations, especially if you plan to graduate in a specific semester.
+Knowing the deadlines is the student's responsibility.
+Degrees Offered, Concentrations, Minors, and Certificates
+Master of Arts and Master of Science: Degree requirements are identical; consult Graduate
+Information Management System (GIMS) to be sure your degree is listed correctly.
+Doctor of Philosophy: For students who possess a Master's degree, which can be from any field.
+The graduate school maintains a list of formal concentrations, minors, and certificates. Please note,
+these may differ from a given focus area or sub-discipline recognized by the department or your
+academic sub-field within geography.
+Concentrations: Applications of Geographic Technologies, Climate Science, Geographic Information
+Systems, Hydrologic Sciences, Tropical Conservation and Development, Wetland Sciences. Although
+Geography must add a concentration to your degree in the Student Information System, we do not
+have a list of requirements for these and cannot advise students on course selection.
+Minors: You may choose to add a minor to your degree. It can be existing, or you can create your
+own. You must have a committee member unaffiliated with Geography to represent your minor. To
+create a minor, work with your external (unaffiliated) faculty member to serve as the minor advisor. If
+the minor is unofficial and you create it with the external member, a letter describing the minor name,
+courses, and signature will have to come from the external advisor. The graduate coordinator can
+assist with this process.
+Certificates: Geography currently advises graduate students for the certificate in Applied
+Atmospheric Sciences, Digital Geography, and Medical Geography. Other certificates are available,
+but we cannot advise students on course selection. A list of available graduate-level certificates:
+http://graduateschool.ufl.edu/academics/graduate-certificates-list. Students must apply for
+certificates online at: http://www.admissions.ufl.edu/start.html
+
+[[page 6]]
+5
+
+Certificates are managed by several faculty members. Students interested in applying for a certificate
+need to contact the coordinator for that specific certificate to be admitted.
+https://geog.ufl.edu/programs/certificates/grad-cert/
+Definition of Good Academic Standing / Satisfactory
+Progress
+All students must maintain a 3.0 GPA each semester to remain in good academic standing. For PhD
+students, great progress is admission to candidacy at the end of three years in the program.
+Satisfactory status is achieved for admission to candidacy prior to the end of 4 years. Beyond this
+time, students will not receive priority consideration for departmental funding or travel awards.
+Although great progress is to complete all degree requirements within two years of attaining ABD
+status, all work for the doctorate must be completed within 5 calendar years after the qualifying
+examination to remain in good academic standing.
+All students registering for GEO6971, GEO7979, or GEO7980 must contact their advisor prior to the
+end of drop/add and submit a plan for research that term. Within one week after classes end, the
+student must contact the advisor with a progress report. Failure to submit a progress report will result
+in a grade of U being assigned for those credits.
+Options for Support: Assistantships and Fellowships
+The department supports graduate students with a limited number of teaching assistantships.
+Incoming PhD students may receive Fellowships or top-up awards - Graduate School rules prohibit
+these awards being made to current students. Individual faculty may have funding for research
+assistants, but students must contact faculty directly to inquire about these opportunities. All students
+must be in good academic standing and be making satisfactory progress to be eligible for funding.
+Funded students must remain in good academic standing each semester for continued support.
+Selecting your Committee Chair and Forming the
+Committee
+During your first semester, your initial contact faculty member and the Graduate Coordinator can be
+consulted when selecting a program of courses and research. During Semester 1, students should
+make appointments to meet with faculty that share similar research interests and select a n Advisor
+who will serve as Committee Chair. This professor must have Graduate Faculty Status (GFS) in the
+Department of Geography. The Advisor must approve all aspects of the gr aduate student's program
+(e.g., Supervisory Committee members, courses, timeline for completion of requirements). You
+should communicate your progress to your advisor regularly and should meet with them a minimum
+once per semester. Note the advisor and student relationship is important and dynamic.
+
+During Semesters 1 and 2, students should meet with additional faculty members to identify potential
+committee members. Specific rules governing the formation of the committee are set by the Graduate
+School, so please consult the Graduate Student Handbook. Accordingly, Geography faculty cannot
+be in the minority on any committee. Masters -level committees must have three members and two
+must be from Geography. For Ph .D. students, committees must consist of at least four members, at
+least two must be from Geography, and one member must be declared as the external member - this
+
+[[page 7]]
+6
+
+faculty cannot hold a joint affiliation with Geography and their job is to represent the Graduate School
+in all committee meetings. If a minor is selected, a fa culty member outside of Geography must also
+represent this minor; this person can double as the minor representative and external member. It is
+possible to have more committee members than the minimum of four. It is department policy that an
+affiliate faculty member cannot serve as a committee chair, and no more than one affiliate faculty can
+serve on a committee. Committees must be submitted to the Graduate School - forms are to be filed
+with the Department's Graduate Coordinator or departmental administrative staff, who then enters the
+information into the Student Information System . Please check to verify that your committee
+information is correct.
+
+The Supervisory Committee will be responsible for all subsequent advisement receive d by the
+graduate student, including coursework. Establish your committee by the end of your first year in
+the program as r equired by the Graduate S chool. Present your Program of S tudy containing
+intended coursework at your initial committee meeting (usually held at the end of year 1 or start of
+year 2) for approval. These processes are all initiated through a DocuSign process that starts
+with an email to the graduate coordinator.
+Graduate Assistantship Requirements
+Each GA-T (teaching) and GA-R (research), and GSF recipients are employees as well as graduate
+students. GA -Ts report directly to the department chair for assignments and management. These
+appointments can expect to dedicate and be available 20 hours per week to the teaching
+requirement. This is in addition to course work and graduate research. GA -Rs report directly to their
+supervising faculty member (and academic advisor) for assignment. These positions can expect to
+dedicate and be available in the appropriate, lab-, field-, or office-based facilities 20 hours per week to
+complete assigned duties. Graduate research may or may not fall directly within the GA-R duties. Like
+a GA -T, the 20 -hour commitment is to the assigned duties. GSF appointments may have some
+combination of GA -T or GA -R. Duties fall to GA -T or GA -R described above, with the department
+chair supervising teaching duties and the academic adv isor supervising the research duties as
+assigned. Teaching, Research, or GSF appointments are comparable and the expectation of
+professionalism the same. Teaching or grading GA -Ts are part of the face of our geography teaching
+classroom and online spaces and represent the department. GA-Rs are likewise integral to laboratory
+research success on funded projects and de liverables directly contribute the scopes of work and
+funded deliverables. GAs/GSF students in geography are critical to the success of our department's
+teaching, research, and outreach efforts. Participation as professionals in our classrooms, online
+spaces, labs, departmental meetings, and colloquia is expected . Availability for meeting with
+students, when teaching, or lab leadership, when doing research, is expected as part of the assigned
+20 hours per week.
+
+[[page 8]]
+7
+
+Master of Arts and Master of Science Requirements
+We expect master's students to finish their program in 2-3 years . The completion of the degree
+requires a minimum of 30 hours of coursework, the production of a thesis, a poster presentation of
+the research at a departmental Colloquium session, and a public defense of the thesis. Plan carefully
+so that all requirements are met. After 7 years, coursework becomes invalid, and must be repeated.
+
+The Master's Thesis should be of publishable quality, demonstrating the student's ability to perform
+original empirical or theoretical research. It can follow a research paper format with additional
+introduction and conclusions chapter for three total chapters, or a monograph-style thesis, and should
+be prepared according to the requirements of the Graduate School. Your Advisor and Committee
+provide feedback and comments prior to the production of a final version of the thesis and the
+scheduling of its defense. The Graduate School has strict guidelines for the formatting of the
+document, and it is the responsibility of the student, not the committee, to ensure that these
+guidelines are met. In the semester you plan to graduate, pay close attention to ALL deadlines
+published by the Graduate School. Masters theses must be presented for "first submission" by the
+published deadline. The thesis must be defended successfully before it can be submitted. Plan
+ahead! This process is initiated through a DocuSign process that starts with an email to the
+graduate coordinator.
+
+When planning the timeline towards the defense, work backwards from the target date to be sure you
+have enough time to accomplish all tasks. Prior to setting a defense date, be sure to allow adequate
+time for all committee members to read your document and provide feedback - two weeks minimum
+is a good rule of thumb. Your advisor will have provided feedback on prior drafts of the document
+before you circulate it to the rest of the committee. Make all edits and submit it to committee members
+for approval. All committee members must sign a Thesis Defense Clearance Form to affirm the
+student is approved for defense. This must be done prior to scheduling a room for defense through
+the Graduate Coordinator or Administrative Assistant. This is a DocuSign process initiated by the
+student. Once the date is set, the Advisor must notify the department, via email, of the proposed oral
+defense date no later than 10 business days (Spring Break included) prior to the scheduled date.
+The email should include the document title, names of committee members, and location, date and
+time of the oral presentation. Also, no later than 10 business days prior to the scheduled defense,
+the student must place a copy of their thesis document for public inspection in TUR3141. This
+document must be properly formatted in accordance with the Graduate School guidelines with all
+tables, figures, front matter, abstract, etc.
+Students are responsible for observing all published deadlines in order to graduate in a given
+semester. Students must be registered for a minimum of 3 credits of GEO6791 in the semester they
+graduate (Fall or Spring). Remember that most faculty are only paid Aug 15 - May 15 and may
+not be available for Summer defenses. Plan accordingly.
+Defenses are now available via Zoom or Teams online, in person in a classroom, or in a hybrid
+format. The decision is ultimately up to the student. Any online defenses must have a public
+presentation with the meeting listing available ahead of the meeting.
+Students should schedule a Graduation Check with the Graduate Coordinator at least two
+semesters prior to the semester they plan to graduate.
+
+[[page 9]]
+8
+
+Master's Program Course Requirements
+CH Course Notes
+2 GEO5920 Colloquium * Must attend 2 semesters, and it is recommended during the first year.
+* Students may choose to register for credit in a later semester, but they
+must maintain letter of attendance & grade, which is required to
+register for credit.
+* Students must present their thesis during designated poster session
+before graduating.
+3 GEO6118 Contemporary
+Geographic Thought
+Required Course to be taken at UF for all graduate students. No
+Waivers permitted.
+3 One Quantitative Methods
+Course.
+Choose From:
+GEO6160 Intro Quant
+Methods
+GEO6161 Intermediate
+Quant Methods
+* To be taken the first fall semester if possible.
+* If GEO6160 taken previously, take GEO6161 Intermediate Quant first
+spring semester.
+3 or 4 One Techniques Course
+(in addition to coursework
+from previous degree)
+
+GEO5945 Field Methods in Geography
+GEO6451 Medical Geography
+GEO6938 Advanced Remote Sensing
+GEO6938 GIS Programming
+GIS 6456C Appl. GIS for Disease Ecology and Zoonoses
+GIS5028C Advanced Air Photo Interpretation
+GIS5038C Remote Sensing
+GIS5107C Geog Info Sys Research
+GIS6104 Spatial Networks
+GEO6455 Advanced Study Design in Medical Geography
+MET6752 Atmospheric Data Analysis
+Others, get approval from graduate coordinator & advisor.
+3 GEA/GEO/GIS/MET Take at least 1 additional course (3CH) in Geography that does not
+count for another requirement. (MUST BE A COURSE, NOT READING
+HOURS)
+3 NOT GEA/GEO/GIS/MET Take 3 CH outside of the department, taught by a non-geographer.
+3 or 6 GEO6971 Thesis Hours Must take a minimum of 3 CH in semester graduating; a maximum of 6
+CH count towards 30 hours for degree.
+21 Minimum CH in
+GEA/GEO/GIS/MET
+A minimum of 21 of the 30 credit hours must be in Geography
+(GEA/GEO/GIS/MET).
+Each student is required to complete a focus area specific seminar.
+
+Note: a) only 12 hours of GEO6905 can count towards degree
+b) an officially declared minor is not required
+c) GEO6938 is a generic number - this number will change once the instructor has applied for and received a "real"
+course number and it is added to the catalog
+d) Be sure ALL GEO6938 Special Topics courses have actual titles before graduation
+e) For a list of all "on the books" courses offered by our department in the current year, see
+http://gradcatalog.ufl.edu/content.php?catoid=12&navoid=2636
+f) If you had any requirements waived (e.g. Quant Methods) you must make up the required number of CH with other,
+additional GEO, GIS, GEA, MET courses from the Geography program. A course being waived does NOT waive the CH
+requirement for those Geography hours.
+g) if a student progresses from MA/MS to PhD within UF Geography, the focus area seminar requirement can carry over.
+
+[[page 10]]
+9
+
+Requirements for the Doctor of Philosophy Degree
+
+We encourage doctoral students to finish their program in 4-5 years. We often prioritize students for
+funding according to their progress towards the degree. Failure to graduate within 5 years of
+advancing to candidacy means that you will have to retake comprehensive exams and/or pass
+another proposal defense. Coursework that is more than 7 years old cannot be counted towards the
+degree. The components that comprise the Ph.D. degree include 90 hours of coursework, oral and
+written comprehensive examinations, a public oral defense of the dissertation research proposal, a
+presentation of the research at a departmental colloquium after ABD status has been attained, the
+production of a dissertation, and the public oral defense of the dissertation.
+
+Steps Towards Candidacy
+
+During years 1 and 2 in the Ph.D. program, most coursework is completed. Then, students work
+towards becoming Ph.D. Candidates. Candidacy (ABD status) is attained after the following have
+been achieved:
+1. The satisfactory completion of written and oral Qualifying or Comprehensive Exams.
+2. The satisfactory preparation and public oral defense of a dissertation research proposal.
+3. The satisfactory completion of all Ph.D. course requirements (save for research hours - GEO7980)
+and the removal of any "Incompletes" (I grades) from the transcript.
+We expect students to obtain ABD status prior to beginning the fourth year in the program.
+
+Comprehensive Exam
+
+The Comprehensive or Qualifying Exam tests your knowledge and understanding of geographic
+philosophy, theory, models, concepts, findings, and methodology. Minor subject area(s) are tested
+through questions submitted through the Minor Representative on your committee. There are written
+and oral portions to the exam, which should be taken by the end of the fifth/beginning of the sixth
+semester to remain on track in the program, but may be taken as early as the supervisory committee
+deems the student ready. Students should consult with all members of their Committee in the
+semester prior to the exam in order to identify the strengths and weaknesses of their current
+background and preparation. Each committee member chooses how they wish to help the student
+prepare for the exam - it is not mandatory that the student be furnished with sample questions or a
+readings list.
+
+At the beginning of the semester when the exam is taken, the Advisor must email all Geography
+faculty members stating the general and specific fields of interest, as well as soliciting questions.
+Questions relating directly to the student's proposed plan of research are not to be asked at this time.
+Each member of the Supervisory Committee may submit questions. These are given to the Advisor
+who will administer the exam. Usually a student answers questions from one faculty member per day.
+The student will answer questions over a four to five-day period (usually 8 a.m. to 5 p.m.). Exam
+conditions are established by each committee member (e.g., open-book, etc.). Plagiarism is a serious
+offense and any student found to commit plagiarism is subject to disciplinary action such as failure of
+the exam and/or being reported to the Student Honor Council for possible disciplinary action.
+
+[[page 11]]
+10
+
+After at least 2 weeks have passed, an oral defense of the written answers will be undertaken.
+Students cannot proceed to the proposal defense prior to achieving a Satisfactory Pass for their
+Comprehensive Exams.
+Possible Outcomes:
+(a) Satisfactory Pass - proceed to next step
+(b) Conditional Pass - must do additional work
+(c) Fail- withdraw from Ph.D. program or retake exam
+All exam documents are managed through DocuSign by the graduate
+coordinator and initiated with an email from the advisor.
+
+Proposal Defense
+
+The dissertation proposal should be submitted to your Advisor and, upon the Advisor's approval, to
+the Committee members, 1-6 months after the Comprehensive or Qualifying exam. When ALL
+members of your committee agree, the Advisor will schedule, and announce via e-mail to all
+Geography faculty and graduate students, a public oral defense of the proposal. All Supervisory
+Committee members must participate in this defense.
+
+Possible outcomes:
+(a) Acceptable - only minor revisions are required and will be approved by your Advisor.
+(b) Conditional Acceptance - substantial revisions needed which are to be approved by the entire
+committee.
+(c) Unacceptable - proposal must be substantially rewritten and defended within six months.
+
+To be on track in the program, students should pass their proposal defense and attain ABD status by
+the end of their third year in the Ph.D. program. Once the dissertation proposal is approved, the
+student must inform the Graduate Coordinator or Administrative Assistant who will then prepare the
+necessary paperwork for the student to enter Doctoral Candidacy. Between admission to Candidacy
+and graduation at least two terms must pass if the candidate is in full-time residence, or 1 year if the
+candidate is less than full time. In addition, students must graduate within 5 years of becoming ABD,
+or exams must be retaken.
+
+Completion of the Dissertation
+
+The remainder of the program will be devoted to research and writing the dissertation. University
+regulations discourage changes in topic after admission to Candidacy. Any substantial changes in the
+proposed dissertation research must be approved by the student's Ph.D. Supervisory Committee. The
+completed dissertation should demonstrate the ability of the student to perform independent research
+and to present findings and interpretations in a clear, grammatically correct style. The dissertation
+must make an original contribution to the discipline of Geography and be of publishable quality. It can
+follow a research paper format (minimum 3 papers with overall Introduction and Conclusions
+chapters) or mongraph thesis format, and should be prepared according to the requirements of the
+University of Florida Graduate School. The Ph.D. Supervisory Committee must judge the finished
+dissertation as being ready for defense before the final oral exam (defense) is scheduled. All
+members of the Supervisory Committee will carefully read the dissertation and provide feedback.
+Students must plan well in advance to give committee members time to read the completed
+dissertation - two weeks minimum is a good rule of thumb. Make all edits and get the thesis
+clearance defense form signed by all committee members stating you are cleared to set a defense
+
+[[page 12]]
+11
+
+date. Do this before you approach the Graduate Coordinator or Administrative Assistant to schedule a
+room for defense.
+
+After submitting a complete dissertation draft and completing all other prescribed work for the degree,
+the candidate will be given an (oral) final examination by his/her Supervisory Committee. Before a
+date can be set for the oral defense:
+
+1. A complete copy of the dissertation must be received and reviewed by ALL committee
+members, who must sign the Thesis Defense Clearance Form to affirm the student is
+approved for defense. This is a DocuSign form requested by the student to the GC.
+2. AFTER this document has been signed, a student can start the process of setting a defense
+date with the supervisory committee and reserving a location with the assistance of the
+Graduate Coordinator or departmental administration staff.
+3. Once a date is set, the Advisor must notify the department, via email, of the proposed oral
+defense date no later than 10 business days (including Spring Break) prior to the scheduled
+date. The email should include the document title, names of committee members, and location
+and date of the oral presentation.
+4. Also, no later than 10 business days prior to the scheduled defense, the student must place a
+copy of their document for public inspection in TUR3141 and/or in approved departmental
+online collaborative spaces such as Canvas or Teams. This document must be properly
+formatted with all tables, figures, front matter, abstract, etc.
+5. All Supervisory Committee members must participate in the Final Examination.
+
+At the beginning of the public oral exam, the Ph.D. candidate will summarize the major objectives,
+rationale, methodology, and findings of the dissertation in a brief presentation. The candidate will then
+answer any questions from the committee, attending faculty, and students. After a satisfactory
+defense, all Supervisory Committee members must sign the signature pages and the Final
+Examination Form, which are obtained from the Graduate Coordinator or departmental
+administrative staff. These may be retained by the advisor until acceptable completion of corrections.
+This process is initiated through a DocuSign process that starts with an email to the graduate
+coordinator from the advisor.
+
+Students are responsible for observing all published deadlines to graduate in each semester,
+so be sure to check with the Graduate School. As a reminder, most faculty are on 9 month
+appointments, Aug 15 - May 15, and are not available for summer defenses. Plan accordingly.
+
+FINAL GRADUATION CHECK. Students should schedule a Graduation Check with the
+Graduate Coordinator at least two semesters prior to the semester they plan to graduate.
+
+Defenses are now available via Zoom or Teams online, in person in a classroom, or in a hybrid
+format. The decision is ultimately up to the student. Any online defenses must have a public
+presentation with the meeting listing available ahead of the meeting.
+
+[[page 13]]
+12
+
+Ph.D. Program Course Requirements (90 hours minimum)
+CH Course Notes
+30 Credits from your Master's
+(whether it was in Geography
+or not) - this is up to 30
+credits, and not required
+* If courses were from a different graduate program at UF or from
+a different institution, these will need to be transferred into the
+Geography program, which requires your FINAL OFFICIAL
+TRANSCRIPT to complete the necessary process (UF
+transcripts do not list individual courses, and these details are
+required).
+* Confirm that courses were taken within 7 years of admission to
+doctoral program and that all 30 CH were awarded with a letter
+grade higher than a C (S/U grades don't transfer).
+* Bring documentation to the Graduate Coordinator or
+Administrative Assistant to complete the process (complete
+process in year one).
+4 GEO5920 Colloquium - 1 CH
+per term.
+* Must attend 4 semesters, and it is recommended that this is
+done during years 1 and 2.
+* Students may choose to register for credit in a later semester,
+but they must maintain letter of attendance & grade, which is
+required to register for credit.
+* Students must give a professional job talk on their dissertation
+research after becoming ABD, and only after at least 2/3 of
+research is complete (or 2 of 3 papers). If the presentation is
+given without clear completion of research, the student will be
+required to present again at a later date.
+3 GEO6118 Contemporary
+Geographic Thought
+If taken previously at UF, the requirement is met. It cannot be
+waived otherwise.
+6 Two Quant Methods Courses.
+GEO6161 Intermediate Quant.
+Methods Geog AND GEO6166
+Advanced Quant Methods for
+Spatial Analysis (6 CH)
+
+NOTE: IF you have not taken
+GEO6160 Intro Quantitative
+Methods Geography or its
+equivalent previously, you
+must take this course before
+starting the sequence.
+* The Intermediate and Advanced Quantitative Methods
+sequence is the minimum requirement for doctoral students.
+
+* The sequence should be taken in years 1 & 2.
+
+* If you have not taken the Intro Quant Methods Geography or its
+equivalent, which is a prerequisite, you will be required to take
+this in addition, before taking the sequence.
+
+[[page 14]]
+13
+
+6-8 Two methods/techniques
+courses in Geography
+(in addition to coursework from
+previous degrees)
+
+Choose from the following list:
+GEO5945 Field Methods in Geography
+GEO6938 Advanced Remote Sensing
+GEO6938 GIS Programming
+GIS 6456C Appl. GIS for Disease Ecology and Zoonoses
+GIS5038C Remote Sensing
+GIS5107C Geog Info Sys Research
+GIS6104 Spatial Networks
+MET6752 Atmospheric Data Analysis
+GIS5028C Advanced Air Photo Interpretation
+GEO6455 Advanced Study Design in Medical Geography
+GEO6168 Spatial Econometrics
+Additional GEO/GEA/GIS/MET, get approval from graduate
+coordinator & advisor.
+6 GEA/GEO/GIS/MET Take at least 2 additional courses in Geography department that
+do not double other requirements. (MUST BE A COURSE, NOT
+READING HOURS)
+3 GEO6119 Proposal Writing in
+Geography
+
+9 NOT GEA/GEO/GIS/MET Take 9 credit hours minimum (21 hours maximum) outside of
+Geography. The expectation is that this course is not taught by a
+Geography faculty member.
+3 + GEO7979 Advanced Research * Register in semester taking comprehensive exams and
+defending proposal.
+* Unlimited credits count towards degree
+3 + GEO7980 Doctoral Research * Must be ABD to register
+* Unlimited credits count towards degree.
+* Must register for 3 hours in semester graduating (fall or spring).
+90 Hours needed for Degree Be sure ALL GEO6938 Special Topics courses have actual titles!
+39 Minimum GEA/GEO/GIS/MET A minimum of 39 of the 90 credit hours must be in Geography
+(GEA/GEO/GIS/MET).
+
+Each student is required to complete a focus area specific
+seminar.
+
+Each student is required to take an additional seminar.
+
+Notes: a) only 12 hours of GEO6905 can count towards degree
+b) a minor is not required by either the University or CLAS
+c) GEO6938 is a generic number - subject to change
+d) Be sure ALL GEO6938 Special Topics courses have actual titles
+e) For a list of all "on the books" courses offered by our department in the current year, see
+http://gradcatalog.ufl.edu/content.php?catoid=12&navoid=2636
+f) If you had any requirements waived due to already having fulfilled course requirements, you must make up
+the required number of credit hours with other additional GEO, GIS, GEA, MET courses from the Geography
+program.
+g) If the focus area seminar requirement was completed during a MA/MS in UF Geography, it can be counted
+towards the seminar requirement for the PhD.
+
+[[page 15]]
+14
+
+Appendices
+
+Appendix I: Copyright release for dissertations
+
+Instructions for seeking copyright permissions for use of data in your dissertation from published work
+from others and permission to publish your own chapters if published ahead of submitting your thesis
+or dissertation.
+
+First, if you require permission to republish figures or data from another paper, you need to request
+that permission. This is often done with an email to the editor or a copyright license generating
+website. This example uses two requests associated a 2019 dissertation. In that work, the graduate
+student required figure pieces from a published paper by a previous graduate student. We had to
+request permission for a Journal of Wildlife Management article that required a License Registration
+with John Wiley and Sons. Note, a faculty member was the corresponding author on the paper and
+requested the permission; the student needing the information can also make the request. This
+license is numbered and specific to the paper requested.
+
+If you need permission to publish your own work, you need to request that permission as well. You
+may have published open access, like PLOS, where that is not required. You may require a license
+agreement as described above. The second example shows requested permission for a Journal of
+Wildlife Diseases article lead by a graduate student and the work was published ahead of completing
+the dissertation. In that case, we wrote to the editor-in-chief, and the editor returned an email granting
+permission. That is illustrated in email correspondence provided and again specific to the paper and
+the usage. Each journal will require some form of copyright release if not Open Access.
+
+In both cases, the PDFs of the approval, license or email, are submitted to the graduate school and
+are not contained directly within the dissertation. Those instructions come from the graduate school.
+Grad Students - It is your responsibility to ensure you have permission to publish your own
+work and the work of others. Please start this process in time to make grad school submission
+deadlines. Online licenses, like Wiley and Sons was nearly instant. Emails to editors can take days, if
+not longer. Note - the examples here are from a MedGeo student's dissertation. The process is
+the same regardless of sub-field or dissertation format.
+
+[[page 16]]
+15
+
+EXAMPLE 1: Online License
+
+[[page 17]]
+16
+
+EXAMPLE 2: Email from Editor-in-Chief of a Journal
+
+Appendix II: Selecting 6905 or 6938 hours - a note on summer registration
+
+GEO6905 Individual Research - Letter grade- you can carry up to 5 hours in each semester and only
+12 hours can be applied toward a degree. This is a letter grade course. After some discussion at our
+faculty retreat, this course is rarely used. It is on the books, if needed, but work with your advisor if it
+is appropriate. If you plan to take it, note you cannot take more than 5 hours in each term.
+
+GEO6938 - Special Topics - if you do this, you need to arrange title and specific plan with your
+advisor (or the instructor, if not advisor). This is a letter grade course. Keep in mind you need to work
+with Crystal to ensure this has a formal title on your transcript and that has to happen before your
+graduate check/audit. Work with your advisor and Crystal if you are putting this on the books (or any
+other faculty member that may be leading your 6938).
+
+MASTERS - GEO6971 Research for Master's Thesis - This is an S/U grading scheme and MS/MA
+students can apply a total of 6 hours toward the degree, but you can carry more on your transcript, if
+needed. You must be enrolled in 3 when in your graduating semester.
+
+PhD - GEO7979 - Advanced Research - This is an S/U grading scheme and unlimited credits count
+toward degree (not replacing any core course work). You can enroll any semester and must be
+enrolled in 3 when you take your comps and defending proposal. This is for Pre-ABD. You will shift to
+7980 after becoming ABD.
+
+Please note, any of these courses could be used in any semester, not just summer. Previously,
+confusion has arisen in planning summer courses. Additional information is in the handbook and the
+graduate school catalog for Geography (https://catalog.ufl.edu/graduate/courses-
+az/geography/index.html?find=GEO%206905).
+
+[[page 18]]
+17
+
+For summer enrollment, if you are a TA with an assignment from the department chair - make sure
+you enroll in the appropriate requirement from your LOA for the term. If you are a 12-month
+appointment and need 6 hours use the above, or in any combination with other classes that may be
+offered in summer, to total the 6 hours.
